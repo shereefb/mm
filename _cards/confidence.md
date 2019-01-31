@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Confidence
 permalink: /magician/direction/south/quality/confidence
 archetype: Magician

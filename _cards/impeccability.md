@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Impeccability
 permalink: /warrior/direction/north/quality/impeccability
 archetype: Warrior

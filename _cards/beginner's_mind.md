@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Beginner's Mind
 permalink: /magician/direction/north/quality/beginner's_mind
 archetype: Magician

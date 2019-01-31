@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Guilt
 permalink: /king/direction/north/shadow_quality/guilt
 archetype: King

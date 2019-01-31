@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Celebrating life
 permalink: /lover/direction/east/skill/celebrating_life
 archetype: Lover

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Knowledge
 permalink: /magician/direction/north/quality/knowledge
 archetype: Magician

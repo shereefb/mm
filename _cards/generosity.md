@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Generosity
 permalink: /king/direction/south/quality/generosity
 archetype: King

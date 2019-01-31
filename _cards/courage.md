@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Courage
 permalink: /warrior/direction/east/quality/courage
 archetype: Warrior

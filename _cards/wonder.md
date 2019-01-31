@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Wonder
 permalink: /lover/direction/north/quality/wonder
 archetype: Lover

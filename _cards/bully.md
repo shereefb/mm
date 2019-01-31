@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Bully
 permalink: /warrior/archetype/shadow/bully
 archetype: Warrior

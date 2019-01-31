@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Balance
 permalink: /king/direction/west/quality/balance
 archetype: King

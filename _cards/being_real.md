@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Being Real
 permalink: /warrior/direction/west/quality/being_real
 archetype: Warrior

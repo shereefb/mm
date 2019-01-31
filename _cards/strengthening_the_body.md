@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Strengthening the body
 permalink: /warrior/direction/west/skill/strengthening_the_body
 archetype: Warrior

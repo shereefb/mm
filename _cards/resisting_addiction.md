@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Resisting addiction
 permalink: /lover/direction/east/skill/resisting_addiction
 archetype: Lover

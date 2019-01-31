@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Confronting Falsehood
 permalink: /warrior/direction/west/skill/confronting_falsehood
 archetype: Warrior

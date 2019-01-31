@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Wisdom
 permalink: /king/direction/west/quality/wisdom
 archetype: King

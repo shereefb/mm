@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Curiosity
 permalink: /magician/direction/north/quality/curiosity
 archetype: Magician

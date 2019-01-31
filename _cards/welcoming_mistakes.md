@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Welcoming Mistakes
 permalink: /magician/direction/south/skill/welcoming_mistakes
 archetype: Magician

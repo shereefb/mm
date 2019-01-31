@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Tending the competence heirarchy
 permalink: /king/direction/east/skill/tending_the_competence_heirarchy
 archetype: King

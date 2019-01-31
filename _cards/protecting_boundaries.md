@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Protecting Boundaries
 permalink: /warrior/direction/south/skill/protecting_boundaries
 archetype: Warrior

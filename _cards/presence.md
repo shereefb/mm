@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Presence
 permalink: /lover/direction/north/quality/presence
 archetype: Lover

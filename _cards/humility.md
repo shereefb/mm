@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Humility
 permalink: /warrior/direction/south/quality/humility
 archetype: Warrior

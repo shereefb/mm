@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Compassion
 permalink: /king/direction/south/quality/compassion
 archetype: King

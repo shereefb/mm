@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Mature King
 permalink: /king/archetype/mature/mature_king
 archetype: King

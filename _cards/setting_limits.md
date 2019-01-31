@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Setting limits
 permalink: /king/direction/west/skill/setting_limits
 archetype: King

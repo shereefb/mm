@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Fasting
 permalink: /lover/direction/west/skill/fasting
 archetype: Lover

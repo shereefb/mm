@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Mature Magician
 permalink: /magician/archetype/mature/mature_magician
 archetype: Magician

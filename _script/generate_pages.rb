@@ -46,7 +46,7 @@ def type(ancestors,generalize=false)
   if ancestors[1]["text"] == "Direction"
     ancestors[3]["text"]
   else
-    generalize ? "Archetype" : ancestors[2]["text"] 
+    generalize ? "Archetype" : ancestors[2]["text"]
   end
 end
 
@@ -68,7 +68,7 @@ def generate (node,ancestors)
   f = File.new(file_name, 'w')
 
   f.write("---\n")
-  f.write("layout: page\n")
+  f.write("layout: card\n")
   f.write("title: #{@title}\n")
   f.write("permalink: #{@permalink}\n")
   f.write("archetype: #{@archetype}\n") #king/lover/magician/warrior

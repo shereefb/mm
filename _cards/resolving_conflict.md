@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Resolving Conflict
 permalink: /king/direction/south/skill/resolving_conflict
 archetype: King

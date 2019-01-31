@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Justice
 permalink: /king/direction/south/quality/justice
 archetype: King

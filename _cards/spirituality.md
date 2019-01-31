@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Spirituality
 permalink: /magician/direction/east/quality/spirituality
 archetype: Magician

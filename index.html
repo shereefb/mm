@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: home
+author_profile: true
 ---
 
 {% assign mycards = site.cards | group_by:"category" | sort:"name" %}
@@ -16,29 +17,3 @@ layout: default
     </ul>
   {% endfor %}
 {% endfor %}
-
-
-<!-- <div class="posts">
-
-<ul>
-    {% for card in site.cards %}
-        <li><a href="{{ site.baseurl }}{{ card.url }}">{{ card.title }}</a></li>
-    {% endfor %}
-</ul> -->
-<!--
-</div>
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div> -->

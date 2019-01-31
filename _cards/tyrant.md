@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Tyrant
 permalink: /king/archetype/shadow/tyrant
 archetype: King

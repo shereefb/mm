@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Wandering
 permalink: /warrior/direction/east/quality/wandering
 archetype: Warrior

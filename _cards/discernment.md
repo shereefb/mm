@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Discernment
 permalink: /warrior/direction/north/quality/discernment
 archetype: Warrior

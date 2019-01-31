@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Embracing paradox
 permalink: /magician/direction/north/skill/embracing_paradox
 archetype: Magician

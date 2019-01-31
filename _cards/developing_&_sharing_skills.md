@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Developing & Sharing Skills
 permalink: /magician/direction/south/skill/developing_&_sharing_skills
 archetype: Magician

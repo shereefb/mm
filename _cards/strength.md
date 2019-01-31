@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Strength
 permalink: /warrior/direction/west/quality/strength
 archetype: Warrior

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Shame
 permalink: /lover/direction/north/shadow_quality/shame
 archetype: Lover

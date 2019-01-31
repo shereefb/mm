@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% assign mycards = site.cards | group_by:"category" | sort:"name" %}
+{% for cat in mycards %}
+<h1>{{ cat.name | capitalize }}</h1>
+  {% assign item_groups = cat.items | group_by:"type_general" | sort:"name" %}
+    {% for item_group in item_groups %}
+    <h2>{{ item_group.name | capitalize }}</h2>
+    <ul>
+      {% assign items = item_group.items | sort: 'title' %}
+      {% for item in items %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% endfor %}
+
+
+<!-- <div class="posts">
+
+<ul>
+    {% for card in site.cards %}
+        <li><a href="{{ site.baseurl }}{{ card.url }}">{{ card.title }}</a></li>
+    {% endfor %}
+</ul> -->
+<!--
+</div>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div> -->

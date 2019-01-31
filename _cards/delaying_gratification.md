@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Delaying Gratification
 permalink: /king/direction/west/skill/delaying_gratification
 archetype: King

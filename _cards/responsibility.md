@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Responsibility
 permalink: /king/direction/west/quality/responsibility
 archetype: King

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Aloneness 
 permalink: /lover/direction/north/quality/aloneness_
 archetype: Lover

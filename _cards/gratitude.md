@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Gratitude
 permalink: /lover/direction/west/quality/gratitude
 archetype: Lover

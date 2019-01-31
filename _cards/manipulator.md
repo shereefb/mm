@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: card
 title: Manipulator
 permalink: /magician/archetype/shadow/manipulator
 archetype: Magician
