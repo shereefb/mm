@@ -76,9 +76,11 @@ def generate (node,ancestors)
   f.write("type: #{@type}\n") #quality/skill/mature/shadow
   f.write("type_general: #{@type_general}\n") #quality/skill/archetype
   f.write("image: /images/back/#{to_url@title}.jpg\n")
-  # f.write("layout: card\n")
-  # f.write("toc: true\n")
-  # f.write("toc_label: Quick Jump\n")
+
+  if @type_general == "Archetype"
+    f.write("toc: true\n")
+    f.write("toc_label: Quick Jump\n")
+  end
 
   f.write("---\n")
   # f.write("##{@title}\n")

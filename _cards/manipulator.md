@@ -6,6 +6,8 @@ category: Magician
 type: Shadow
 type_general: Archetype
 image: /images/back/manipulator.jpg
+toc: true
+toc_label: Quick Jump
 ---
 #printed The Manipulator is a Magician who has lost touch with his higher purpose. Instead of guiding others to open their eyes, he controls them in ways they cannot see. Instead of initiating others and lifting them up, he uses his knowledge to keep them down and demonstrate his superiority. He withholds knowledge, and uses secrets to exploit others.   
   

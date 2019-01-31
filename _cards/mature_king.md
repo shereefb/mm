@@ -6,6 +6,8 @@ category: King
 type: Mature
 type_general: Archetype
 image: /images/back/mature_king.jpg
+toc: true
+toc_label: Quick Jump
 ---
 #printed The King in his fullness brings order, and fertility to the realm. He stabilizes chaotic emotion and provides centerdness to others. He brings calm and balance. Defends the integrity of being and purpose, and provides a sense of order. The mature King looks to the world with a firm and kind eye. He sees others in all their weakness and their talent and worth. He honors, promotes them, and guides them towards their potential. He rewards and encourages. He embodies true authority.   
   
