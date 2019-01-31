@@ -3,6 +3,7 @@ layout: page
 title: Discipline
 permalink: /warrior/direction/south/quality/discipline
 archetype: Warrior
+category: Warrior
 direction: South
 type: Quality
 image: /images/back/discipline.jpg

@@ -3,6 +3,7 @@ layout: page
 title: Resolving Conflict
 permalink: /king/direction/south/skill/resolving_conflict
 archetype: King
+category: King
 direction: South
 type: Skill
 image: /images/back/resolving_conflict.jpg

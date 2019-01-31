@@ -3,6 +3,7 @@ layout: page
 title: Freedom
 permalink: /lover/direction/east/quality/freedom
 archetype: Lover
+category: Lover
 direction: East
 type: Quality
 image: /images/back/freedom.jpg

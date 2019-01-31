@@ -3,6 +3,7 @@ layout: page
 title: Honesty
 permalink: /warrior/direction/north/quality/honesty
 archetype: Warrior
+category: Warrior
 direction: North
 type: Quality
 image: /images/back/honesty.jpg

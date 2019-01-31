@@ -3,6 +3,7 @@ layout: page
 title: Mature Lover
 permalink: /lover/archetype/mature/mature_lover
 archetype: Lover
+category: Lover
 type: Mature
 image: /images/back/mature_lover.jpg
 ---

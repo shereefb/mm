@@ -2,25 +2,29 @@
 layout: default
 ---
 
-{% assign mycards = site.cards | group_by: 'Archetype' %}
+{% assign mycards = site.cards | group_by:"category" %}
 {% for cat in mycards %}
-<h2>{{ cat.name | capitalize }}</h2>
+<h1>{{ cat.name | capitalize }}</h2>
+  {% assign item_groups = cat.items | group_by:"type" %}
+    {% for item_group in item_groups %}
+    <h2>{{ item_group.name | capitalize }}</h3>
     <ul>
-      {% assign items = cat.items | sort: 'type' %}
+      {% assign items = item_group.items | sort: 'title' %}
       {% for item in items %}
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
       {% endfor %}
     </ul>
+  {% endfor %}
 {% endfor %}
 
 
-<div class="posts">
+<!-- <div class="posts">
 
 <ul>
     {% for card in site.cards %}
         <li><a href="{{ site.baseurl }}{{ card.url }}">{{ card.title }}</a></li>
     {% endfor %}
-</ul>
+</ul> -->
 
 </div>
 

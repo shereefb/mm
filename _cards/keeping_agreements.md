@@ -3,6 +3,7 @@ layout: page
 title: Keeping Agreements
 permalink: /warrior/direction/north/skill/keeping_agreements
 archetype: Warrior
+category: Warrior
 direction: North
 type: Skill
 image: /images/back/keeping_agreements.jpg

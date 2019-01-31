@@ -3,6 +3,7 @@ layout: page
 title: Confidence
 permalink: /magician/direction/south/quality/confidence
 archetype: Magician
+category: Magician
 direction: South
 type: Quality
 image: /images/back/confidence.jpg

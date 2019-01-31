@@ -3,6 +3,7 @@ layout: page
 title: Wonder
 permalink: /lover/direction/north/quality/wonder
 archetype: Lover
+category: Lover
 direction: North
 type: Quality
 image: /images/back/wonder.jpg

@@ -3,6 +3,7 @@ layout: page
 title: Gratitude
 permalink: /lover/direction/west/quality/gratitude
 archetype: Lover
+category: Lover
 direction: West
 type: Quality
 image: /images/back/gratitude.jpg

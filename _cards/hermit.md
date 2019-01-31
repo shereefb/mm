@@ -3,6 +3,7 @@ layout: page
 title: Hermit
 permalink: /lover/archetype/shadow/hermit
 archetype: Lover
+category: Lover
 type: Shadow
 image: /images/back/hermit.jpg
 ---

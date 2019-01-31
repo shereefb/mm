@@ -3,6 +3,7 @@ layout: page
 title: Bully
 permalink: /warrior/archetype/shadow/bully
 archetype: Warrior
+category: Warrior
 type: Shadow
 image: /images/back/bully.jpg
 ---

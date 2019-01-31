@@ -3,6 +3,7 @@ layout: page
 title: Knowledge
 permalink: /magician/direction/north/quality/knowledge
 archetype: Magician
+category: Magician
 direction: North
 type: Quality
 image: /images/back/knowledge.jpg

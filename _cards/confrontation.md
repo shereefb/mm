@@ -3,6 +3,7 @@ layout: page
 title: Confrontation
 permalink: /warrior/direction/west/quality/confrontation
 archetype: Warrior
+category: Warrior
 direction: West
 type: Quality
 image: /images/back/confrontation.jpg

@@ -3,6 +3,7 @@ layout: page
 title: Victim
 permalink: /warrior/archetype/shadow/victim
 archetype: Warrior
+category: Warrior
 type: Shadow
 image: /images/back/victim.jpg
 ---

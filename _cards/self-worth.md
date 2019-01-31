@@ -3,6 +3,7 @@ layout: page
 title: Self-Worth
 permalink: /warrior/direction/south/quality/self-worth
 archetype: Warrior
+category: Warrior
 direction: South
 type: Quality
 image: /images/back/self-worth.jpg

@@ -3,6 +3,7 @@ layout: page
 title: Mature King
 permalink: /king/archetype/mature/mature_king
 archetype: King
+category: King
 type: Mature
 image: /images/back/mature_king.jpg
 ---

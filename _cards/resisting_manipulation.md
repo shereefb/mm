@@ -3,6 +3,7 @@ layout: page
 title: Resisting Manipulation
 permalink: /magician/direction/north/skill/resisting_manipulation
 archetype: Magician
+category: Magician
 direction: North
 type: Skill
 image: /images/back/resisting_manipulation.jpg

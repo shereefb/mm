@@ -3,6 +3,7 @@ layout: page
 title: Ruthlessness
 permalink: /warrior/direction/north/quality/ruthlessness
 archetype: Warrior
+category: Warrior
 direction: North
 type: Quality
 image: /images/back/ruthlessness.jpg

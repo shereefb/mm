@@ -3,6 +3,7 @@ layout: page
 title: Mature Magician
 permalink: /magician/archetype/mature/mature_magician
 archetype: Magician
+category: Magician
 type: Mature
 image: /images/back/mature_magician.jpg
 ---

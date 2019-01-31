@@ -3,6 +3,7 @@ layout: page
 title: Willingness to be rejected
 permalink: /warrior/direction/south/skill/willingness_to_be_rejected
 archetype: Warrior
+category: Warrior
 direction: South
 type: Skill
 image: /images/back/willingness_to_be_rejected.jpg

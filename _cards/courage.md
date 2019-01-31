@@ -3,6 +3,7 @@ layout: page
 title: Courage
 permalink: /warrior/direction/east/quality/courage
 archetype: Warrior
+category: Warrior
 direction: East
 type: Quality
 image: /images/back/courage.jpg

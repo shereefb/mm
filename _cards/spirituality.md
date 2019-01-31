@@ -3,6 +3,7 @@ layout: page
 title: Spirituality
 permalink: /magician/direction/east/quality/spirituality
 archetype: Magician
+category: Magician
 direction: East
 type: Quality
 image: /images/back/spirituality.jpg

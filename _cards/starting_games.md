@@ -3,6 +3,7 @@ layout: page
 title: Starting Games
 permalink: /lover/direction/east/skill/starting_games
 archetype: Lover
+category: Lover
 direction: East
 type: Skill
 image: /images/back/starting_games.jpg

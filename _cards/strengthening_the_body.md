@@ -3,6 +3,7 @@ layout: page
 title: Strengthening the body
 permalink: /warrior/direction/west/skill/strengthening_the_body
 archetype: Warrior
+category: Warrior
 direction: West
 type: Skill
 image: /images/back/strengthening_the_body.jpg

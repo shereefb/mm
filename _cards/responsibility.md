@@ -3,6 +3,7 @@ layout: page
 title: Responsibility
 permalink: /king/direction/west/quality/responsibility
 archetype: King
+category: King
 direction: West
 type: Quality
 image: /images/back/responsibility.jpg

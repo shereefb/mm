@@ -71,6 +71,7 @@ def generate (node,ancestors)
   f.write("title: #{@title}\n")
   f.write("permalink: #{@permalink}\n")
   f.write("archetype: #{@archetype}\n") #king/lover/magician/warrior
+  f.write("category: #{@archetype}\n") #king/lover/magician/warrior
   f.write("direction: #{@direction}\n") if @direction #north/south/west/east
   f.write("type: #{@type}\n") #quality/skill/mature/shadow
   f.write("image: /images/back/#{to_url@title}.jpg\n")

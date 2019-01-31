@@ -3,6 +3,7 @@ layout: page
 title: Wisdom
 permalink: /king/direction/west/quality/wisdom
 archetype: King
+category: King
 direction: West
 type: Quality
 image: /images/back/wisdom.jpg

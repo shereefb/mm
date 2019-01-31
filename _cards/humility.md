@@ -3,6 +3,7 @@ layout: page
 title: Humility
 permalink: /warrior/direction/south/quality/humility
 archetype: Warrior
+category: Warrior
 direction: South
 type: Quality
 image: /images/back/humility.jpg

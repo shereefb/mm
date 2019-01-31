@@ -3,6 +3,7 @@ layout: page
 title: Making money
 permalink: /king/direction/west/skill/making_money
 archetype: King
+category: King
 direction: West
 type: Skill
 image: /images/back/making_money.jpg

@@ -3,6 +3,7 @@ layout: page
 title: Fasting
 permalink: /lover/direction/west/skill/fasting
 archetype: Lover
+category: Lover
 direction: West
 type: Skill
 image: /images/back/fasting.jpg

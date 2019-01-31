@@ -3,6 +3,7 @@ layout: page
 title: Forming Habits
 permalink: /warrior/direction/south/skill/forming_habits
 archetype: Warrior
+category: Warrior
 direction: South
 type: Skill
 image: /images/back/forming_habits.jpg

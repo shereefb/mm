@@ -3,6 +3,7 @@ layout: page
 title: Addict
 permalink: /lover/archetype/shadow/addict
 archetype: Lover
+category: Lover
 type: Shadow
 image: /images/back/addict.jpg
 ---

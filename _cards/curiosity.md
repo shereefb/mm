@@ -3,6 +3,7 @@ layout: page
 title: Curiosity
 permalink: /magician/direction/north/quality/curiosity
 archetype: Magician
+category: Magician
 direction: North
 type: Quality
 image: /images/back/curiosity.jpg

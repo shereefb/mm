@@ -3,6 +3,7 @@ layout: page
 title: Manipulator
 permalink: /magician/archetype/shadow/manipulator
 archetype: Magician
+category: Magician
 type: Shadow
 image: /images/back/manipulator.jpg
 ---

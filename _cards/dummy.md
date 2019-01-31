@@ -3,6 +3,7 @@ layout: page
 title: Dummy
 permalink: /magician/archetype/shadow/dummy
 archetype: Magician
+category: Magician
 type: Shadow
 image: /images/back/dummy.jpg
 ---

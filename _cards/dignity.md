@@ -3,6 +3,7 @@ layout: page
 title: Dignity
 permalink: /king/direction/west/quality/dignity
 archetype: King
+category: King
 direction: West
 type: Quality
 image: /images/back/dignity.jpg

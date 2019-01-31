@@ -3,6 +3,7 @@ layout: page
 title: Mature Warrior
 permalink: /warrior/archetype/mature/mature_warrior
 archetype: Warrior
+category: Warrior
 type: Mature
 image: /images/back/mature_warrior.jpg
 ---

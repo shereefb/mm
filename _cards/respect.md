@@ -3,6 +3,7 @@ layout: page
 title: Respect
 permalink: /king/direction/south/quality/respect
 archetype: King
+category: King
 direction: South
 type: Quality
 image: /images/back/respect.jpg

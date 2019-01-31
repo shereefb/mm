@@ -3,6 +3,7 @@ layout: page
 title: Presence
 permalink: /lover/direction/north/quality/presence
 archetype: Lover
+category: Lover
 direction: North
 type: Quality
 image: /images/back/presence.jpg

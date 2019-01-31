@@ -3,6 +3,7 @@ layout: page
 title: Respect for Authority
 permalink: /warrior/direction/east/skill/respect_for_authority
 archetype: Warrior
+category: Warrior
 direction: East
 type: Skill
 image: /images/back/respect_for_authority.jpg

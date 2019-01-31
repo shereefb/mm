@@ -3,6 +3,7 @@ layout: page
 title: Compassion
 permalink: /king/direction/south/quality/compassion
 archetype: King
+category: King
 direction: South
 type: Quality
 image: /images/back/compassion.jpg

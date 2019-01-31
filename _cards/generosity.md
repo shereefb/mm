@@ -3,6 +3,7 @@ layout: page
 title: Generosity
 permalink: /king/direction/south/quality/generosity
 archetype: King
+category: King
 direction: South
 type: Quality
 image: /images/back/generosity.jpg

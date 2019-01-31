@@ -3,6 +3,7 @@ layout: page
 title: Being Real
 permalink: /warrior/direction/west/quality/being_real
 archetype: Warrior
+category: Warrior
 direction: West
 type: Quality
 image: /images/back/being_real.jpg

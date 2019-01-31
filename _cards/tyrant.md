@@ -3,6 +3,7 @@ layout: page
 title: Tyrant
 permalink: /king/archetype/shadow/tyrant
 archetype: King
+category: King
 type: Shadow
 image: /images/back/tyrant.jpg
 ---

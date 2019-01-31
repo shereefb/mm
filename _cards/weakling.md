@@ -3,6 +3,7 @@ layout: page
 title: Weakling
 permalink: /king/archetype/shadow/weakling
 archetype: King
+category: King
 type: Shadow
 image: /images/back/weakling.jpg
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Creativity
 permalink: /magician/direction/west/quality/creativity
 archetype: Magician
+category: Magician
 direction: West
 type: Quality
 image: /images/back/creativity.jpg
