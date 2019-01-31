@@ -27,5 +27,5 @@ image: /images/back/mature_king.jpg
   
 **Balance:** Chaos <--> Order    
 **Shadow:** Tyrant & Weakling    
-**Power Animal:** Eagle .   
+**Power Animal:** Eagle    
 **Qualities:** Power, Leadership, Clarity, Balance, Generosity, Justice, Order, Responsibility, Compassion, Dignity, Wisdom, Integrity, Stability, Centerdness, Authority

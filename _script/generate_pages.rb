@@ -2,9 +2,9 @@ require "Nokogiri"
 require 'fileutils'
 
 
-$Directory = "../generated"
+$Directory = "../_cards"
 $SOURCE = "processed.OPML"
-$RAW = "dynalist-2019-1-30.opml"
+$RAW = "dynalist-2019-1-31.opml"
 
 def prepare_input
   raw = File.open($RAW, "r")
@@ -83,7 +83,7 @@ end
 
 def generate_all
   @doc = Nokogiri::XML(File.open($SOURCE))
-  @doc.css("outline[_note]")[0..15].each do |node|
+  @doc.css("outline[_note]").each do |node|
 
     @ancestors = node.ancestors.reverse[4..10]
 
