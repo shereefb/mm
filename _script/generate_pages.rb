@@ -10,7 +10,7 @@ def prepare_input
   raw = File.open($RAW, "r")
   processed = File.new($SOURCE, "w")
   raw.each_line do |line|
-    processed.write line.gsub("&#10","  &#10")
+    processed.write line.gsub("##","&#10;##").gsub("&#10","  &#10")
   end
 
   raw.close

@@ -8,7 +8,9 @@ type: Quality
 image: /images/back/clarity.jpg
 ---
 #printed  
+  
 ###“It’s a lack of clarity that creates chaos and frustration. Those emotions are poison to any living goal.”  
+  
   
 ###“When things feel murky and unsure, fine tuning our hearing so as to distinguish the voice of our Innermost Self brings clarity.”   
   

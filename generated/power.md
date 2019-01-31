@@ -9,9 +9,12 @@ image: /images/back/power.jpg
 ---
 #printed  
   
+  
 ###"Power is the ability to do good things for others."  
   
+  
 ###"When the power of love overcomes the love of power, there will be peace."  
+  
   
 ###"The measure of a man is what he does with power."  
   
