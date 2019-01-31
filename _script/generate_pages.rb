@@ -3,6 +3,19 @@ require 'fileutils'
 
 
 $Directory = "../generated"
+$SOURCE = "processed.OPML"
+$RAW = "dynalist-2019-1-30.opml"
+
+def prepare_input
+  raw = File.open($RAW, "r")
+  processed = File.new($SOURCE, "w")
+  raw.each_line do |line|
+    processed.write line.gsub("&#10","  &#10")
+  end
+
+  raw.close
+  processed.close
+end
 
 def refresh_directory
   # Refreshing directory
@@ -69,7 +82,7 @@ end
 
 
 def generate_all
-  @doc = Nokogiri::XML(File.open("dynalist-2019-1-30.opml"))
+  @doc = Nokogiri::XML(File.open($SOURCE))
   @doc.css("outline[_note]")[0..15].each do |node|
 
     @ancestors = node.ancestors.reverse[4..10]
@@ -82,5 +95,6 @@ def generate_all
   end
 end
 
+prepare_input
 refresh_directory
 generate_all
