@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Dignity
 permalink: /king/direction/west/quality/dignity
 archetype: King

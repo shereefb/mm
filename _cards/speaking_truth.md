@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Speaking Truth
 permalink: /warrior/direction/north/skill/speaking_truth
 archetype: Warrior

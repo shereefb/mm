@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Mastery
 permalink: /magician/direction/south/quality/mastery
 archetype: Magician

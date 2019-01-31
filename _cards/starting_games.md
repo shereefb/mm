@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Starting Games
 permalink: /lover/direction/east/skill/starting_games
 archetype: Lover

@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Stability
 permalink: /king/direction/west/quality/stability
 archetype: King

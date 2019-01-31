@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Freedom
 permalink: /lover/direction/east/quality/freedom
 archetype: Lover

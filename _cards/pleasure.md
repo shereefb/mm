@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Pleasure
 permalink: /lover/direction/west/quality/pleasure
 archetype: Lover

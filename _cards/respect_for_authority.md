@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Respect for Authority
 permalink: /warrior/direction/east/skill/respect_for_authority
 archetype: Warrior

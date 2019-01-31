@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Forming Habits
 permalink: /warrior/direction/south/skill/forming_habits
 archetype: Warrior

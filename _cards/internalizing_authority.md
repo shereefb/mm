@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Internalizing Authority
 permalink: /magician/direction/east/skill/internalizing_authority
 archetype: Magician

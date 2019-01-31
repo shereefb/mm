@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Respect
 permalink: /king/direction/south/quality/respect
 archetype: King

@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Victim
 permalink: /warrior/archetype/shadow/victim
 archetype: Warrior

@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Self-Worth
 permalink: /warrior/direction/south/quality/self-worth
 archetype: Warrior

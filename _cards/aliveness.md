@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Aliveness
 permalink: /lover/direction/east/quality/aliveness
 archetype: Lover

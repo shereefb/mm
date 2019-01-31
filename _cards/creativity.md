@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Creativity
 permalink: /magician/direction/west/quality/creativity
 archetype: Magician

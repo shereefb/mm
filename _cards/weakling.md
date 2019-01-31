@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Weakling
 permalink: /king/archetype/shadow/weakling
 archetype: King

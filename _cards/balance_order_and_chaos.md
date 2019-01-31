@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Balance Order and Chaos
 permalink: /king/direction/north/quality/balance_order_and_chaos
 archetype: King

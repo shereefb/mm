@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Honesty
 permalink: /warrior/direction/north/quality/honesty
 archetype: Warrior

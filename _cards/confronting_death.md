@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Confronting Death
 permalink: /warrior/direction/west/skill/confronting_death
 archetype: Warrior

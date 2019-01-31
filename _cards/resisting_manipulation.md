@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Resisting Manipulation
 permalink: /magician/direction/north/skill/resisting_manipulation
 archetype: Magician

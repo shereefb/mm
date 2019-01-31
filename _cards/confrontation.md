@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Confrontation
 permalink: /warrior/direction/west/quality/confrontation
 archetype: Warrior

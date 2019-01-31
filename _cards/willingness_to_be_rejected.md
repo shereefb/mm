@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Willingness to be rejected
 permalink: /warrior/direction/south/skill/willingness_to_be_rejected
 archetype: Warrior

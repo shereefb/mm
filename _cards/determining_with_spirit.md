@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Determining with Spirit
 permalink: /king/direction/east/skill/determining_with_spirit
 archetype: King

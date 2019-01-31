@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Dummy
 permalink: /magician/archetype/shadow/dummy
 archetype: Magician

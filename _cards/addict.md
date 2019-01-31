@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Addict
 permalink: /lover/archetype/shadow/addict
 archetype: Lover

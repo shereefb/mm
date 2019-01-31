@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Power
 permalink: /king/direction/east/quality/power
 archetype: King

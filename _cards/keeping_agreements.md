@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Keeping Agreements
 permalink: /warrior/direction/north/skill/keeping_agreements
 archetype: Warrior

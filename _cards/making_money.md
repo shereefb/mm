@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Making money
 permalink: /king/direction/west/skill/making_money
 archetype: King

@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Focusing the Mind
 permalink: /warrior/direction/north/skill/focusing_the_mind
 archetype: Warrior

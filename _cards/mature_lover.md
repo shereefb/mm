@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Mature Lover
 permalink: /lover/archetype/mature/mature_lover
 archetype: Lover

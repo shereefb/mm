@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Facing Failure
 permalink: /magician/direction/south/skill/facing_failure
 archetype: Magician

@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Hermit
 permalink: /lover/archetype/shadow/hermit
 archetype: Lover

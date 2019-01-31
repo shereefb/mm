@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Connection
 permalink: /lover/direction/south/quality/connection
 archetype: Lover

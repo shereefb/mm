@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Embracing the unkowng
 permalink: /magician/direction/south/skill/embracing_the_unkowng
 archetype: Magician

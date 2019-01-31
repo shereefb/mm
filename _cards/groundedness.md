@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Groundedness
 permalink: /lover/direction/west/quality/groundedness
 archetype: Lover

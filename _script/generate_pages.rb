@@ -68,7 +68,6 @@ def generate (node,ancestors)
   f = File.new(file_name, 'w')
 
   f.write("---\n")
-  f.write("layout: card\n")
   f.write("title: #{@title}\n")
   f.write("permalink: #{@permalink}\n")
   f.write("archetype: #{@archetype}\n") #king/lover/magician/warrior
@@ -77,6 +76,10 @@ def generate (node,ancestors)
   f.write("type: #{@type}\n") #quality/skill/mature/shadow
   f.write("type_general: #{@type_general}\n") #quality/skill/archetype
   f.write("image: /images/back/#{to_url@title}.jpg\n")
+  # f.write("layout: card\n")
+  # f.write("toc: true\n")
+  # f.write("toc_label: Quick Jump\n")
+
   f.write("---\n")
   # f.write("##{@title}\n")
   f.write("#{@description}\n")

@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Transformation
 permalink: /magician/direction/west/quality/transformation
 archetype: Magician

@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Tending the physical
 permalink: /king/direction/west/skill/tending_the_physical
 archetype: King

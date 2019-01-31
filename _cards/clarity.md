@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Clarity
 permalink: /king/direction/north/quality/clarity
 archetype: King

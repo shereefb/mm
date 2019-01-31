@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Discipline
 permalink: /warrior/direction/south/quality/discipline
 archetype: Warrior

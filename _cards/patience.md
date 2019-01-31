@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Patience
 permalink: /warrior/direction/south/quality/patience
 archetype: Warrior

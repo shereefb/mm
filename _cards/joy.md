@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Joy
 permalink: /lover/direction/south/quality/joy
 archetype: Lover

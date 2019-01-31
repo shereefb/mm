@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Protecting and passing tradition
 permalink: /magician/direction/north/skill/protecting_and_passing_tradition
 archetype: Magician

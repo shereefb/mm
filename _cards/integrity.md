@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Integrity
 permalink: /king/direction/west/quality/integrity
 archetype: King

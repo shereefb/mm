@@ -1,5 +1,4 @@
 ---
-layout: card
 title: Ruthlessness
 permalink: /warrior/direction/north/quality/ruthlessness
 archetype: Warrior
