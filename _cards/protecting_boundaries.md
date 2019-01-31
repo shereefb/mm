@@ -6,6 +6,7 @@ archetype: Warrior
 category: Warrior
 direction: South
 type: Skill
+type_general: Skill
 image: /images/back/protecting_boundaries.jpg
 ---
 #draft pic

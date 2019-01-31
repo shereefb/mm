@@ -6,6 +6,7 @@ archetype: Magician
 category: Magician
 direction: West
 type: Quality
+type_general: Quality
 image: /images/back/transformation.jpg
 ---
 #draft pic  

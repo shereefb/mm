@@ -6,6 +6,7 @@ archetype: Magician
 category: Magician
 direction: North
 type: Quality
+type_general: Quality
 image: /images/back/beginner's_mind.jpg
 ---
 #draft (see notes on orgastic mind from shamanic de-armoring)

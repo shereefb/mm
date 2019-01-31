@@ -6,6 +6,7 @@ archetype: Warrior
 category: Warrior
 direction: South
 type: Skill
+type_general: Skill
 image: /images/back/forming_habits.jpg
 ---
 #draft Streaks. 1 week. 1 month.   

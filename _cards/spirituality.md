@@ -6,6 +6,7 @@ archetype: Magician
 category: Magician
 direction: East
 type: Quality
+type_general: Quality
 image: /images/back/spirituality.jpg
 ---
 #draft pic  

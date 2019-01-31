@@ -6,6 +6,7 @@ archetype: King
 category: King
 direction: North
 type: Quality
+type_general: Quality
 image: /images/back/balance_order_and_chaos.jpg
 ---
 #draft pic  

@@ -6,6 +6,7 @@ archetype: Magician
 category: Magician
 direction: South
 type: Skill
+type_general: Skill
 image: /images/back/welcoming_mistakes.jpg
 ---
 #draft   

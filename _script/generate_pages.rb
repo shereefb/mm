@@ -42,11 +42,11 @@ end
 def image(title)
 end
 
-def type(ancestors,title)
+def type(ancestors,generalize=false)
   if ancestors[1]["text"] == "Direction"
     ancestors[3]["text"]
   else
-    ancestors[2]["text"]
+    generalize ? "Archetype" : ancestors[2]["text"] 
   end
 end
 
@@ -58,7 +58,8 @@ def generate (node,ancestors)
   @permalink = permalink(ancestors,@title)
   @archetype = archetype(ancestors)
   @direction = direction(ancestors)
-  @type = type(ancestors,@title)
+  @type = type(ancestors,false)
+  @type_general = type(ancestors,true)
 
   puts "Generating" + "    " + @title + "  \t\t\t\t  " + ancestors.collect{ |n| n["text"] }.join(":")
 
@@ -74,6 +75,7 @@ def generate (node,ancestors)
   f.write("category: #{@archetype}\n") #king/lover/magician/warrior
   f.write("direction: #{@direction}\n") if @direction #north/south/west/east
   f.write("type: #{@type}\n") #quality/skill/mature/shadow
+  f.write("type_general: #{@type_general}\n") #quality/skill/archetype
   f.write("image: /images/back/#{to_url@title}.jpg\n")
   f.write("---\n")
   # f.write("##{@title}\n")

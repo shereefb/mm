@@ -6,6 +6,7 @@ archetype: Lover
 category: Lover
 direction: West
 type: Quality
+type_general: Quality
 image: /images/back/gratitude.jpg
 ---
 #draft  

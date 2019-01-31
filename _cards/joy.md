@@ -6,6 +6,7 @@ archetype: Lover
 category: Lover
 direction: South
 type: Quality
+type_general: Quality
 image: /images/back/joy.jpg
 ---
 #draft pic  

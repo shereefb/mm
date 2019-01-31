@@ -5,6 +5,7 @@ permalink: /magician/archetype/mature/mature_magician
 archetype: Magician
 category: Magician
 type: Mature
+type_general: Archetype
 image: /images/back/mature_magician.jpg
 ---
 #printed The Mature Magician is the knower and the master of technology. He guides the process of transformation, both within and without, by using ritual and ceremony. He is initiated into secret and hidden knowledge of all kinds by other Magicians. All knowledge that takes special training to acquire is the province of the Magician. He has insight, and connects the hidden world and the visible world with his knowledge. He uses this knowledge for the benefit of the realm.  

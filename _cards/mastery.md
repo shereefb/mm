@@ -6,6 +6,7 @@ archetype: Magician
 category: Magician
 direction: South
 type: Quality
+type_general: Quality
 image: /images/back/mastery.jpg
 ---
 #draft pic  

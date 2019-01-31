@@ -6,6 +6,7 @@ archetype: Magician
 category: Magician
 direction: East
 type: Skill
+type_general: Skill
 image: /images/back/internalizing_authority.jpg
 ---
 #draft skepticism for the manipulator, non questioning for the dummy 

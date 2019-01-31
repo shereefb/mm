@@ -6,6 +6,7 @@ archetype: Warrior
 category: Warrior
 direction: West
 type: Skill
+type_general: Skill
 image: /images/back/strengthening_the_body.jpg
 ---
 #draft   

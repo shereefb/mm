@@ -6,6 +6,7 @@ archetype: Magician
 category: Magician
 direction: North
 type: Quality
+type_general: Quality
 image: /images/back/curiosity.jpg
 ---
 #printed   

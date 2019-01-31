@@ -6,6 +6,7 @@ archetype: Lover
 category: Lover
 direction: East
 type: Skill
+type_general: Skill
 image: /images/back/resisting_addiction.jpg
 ---
 #draft   

@@ -6,6 +6,7 @@ archetype: King
 category: King
 direction: South
 type: Skill
+type_general: Skill
 image: /images/back/resolving_conflict.jpg
 ---
 #draft   

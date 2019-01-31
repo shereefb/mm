@@ -6,6 +6,7 @@ archetype: Magician
 category: Magician
 direction: North
 type: Shadow Quality
+type_general: Shadow Quality
 image: /images/back/doubt.jpg
 ---
 #draft pic

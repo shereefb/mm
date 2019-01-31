@@ -6,6 +6,7 @@ archetype: King
 category: King
 direction: East
 type: Quality
+type_general: Quality
 image: /images/back/power.jpg
 ---
 #printed  

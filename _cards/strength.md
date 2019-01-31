@@ -6,6 +6,7 @@ archetype: Warrior
 category: Warrior
 direction: West
 type: Quality
+type_general: Quality
 image: /images/back/strength.jpg
 ---
 #draft pic  

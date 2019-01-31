@@ -6,6 +6,7 @@ archetype: King
 category: King
 direction: West
 type: Skill
+type_general: Skill
 image: /images/back/tending_the_physical.jpg
 ---
 #draft   

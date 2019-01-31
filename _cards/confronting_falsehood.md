@@ -6,6 +6,7 @@ archetype: Warrior
 category: Warrior
 direction: West
 type: Skill
+type_general: Skill
 image: /images/back/confronting_falsehood.jpg
 ---
 #draft   

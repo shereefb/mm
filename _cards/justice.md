@@ -6,6 +6,7 @@ archetype: King
 category: King
 direction: South
 type: Quality
+type_general: Quality
 image: /images/back/justice.jpg
 ---
 #draft   

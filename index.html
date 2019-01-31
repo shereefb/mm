@@ -2,10 +2,10 @@
 layout: default
 ---
 
-{% assign mycards = site.cards | group_by:"category" %}
+{% assign mycards = site.cards | group_by:"category" | sort:"name" %}
 {% for cat in mycards %}
 <h1>{{ cat.name | capitalize }}</h1>
-  {% assign item_groups = cat.items | group_by:"type" %}
+  {% assign item_groups = cat.items | group_by:"type_general" | sort:"name" %}
     {% for item_group in item_groups %}
     <h2>{{ item_group.name | capitalize }}</h2>
     <ul>

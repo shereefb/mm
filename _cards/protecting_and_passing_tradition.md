@@ -6,6 +6,7 @@ archetype: Magician
 category: Magician
 direction: North
 type: Skill
+type_general: Skill
 image: /images/back/protecting_and_passing_tradition.jpg
 ---
 #draft Telling stories, passin on legacy of elders

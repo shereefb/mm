@@ -6,6 +6,7 @@ archetype: Magician
 category: Magician
 direction: North
 type: Skill
+type_general: Skill
 image: /images/back/dealing_with_ambiguity.jpg
 ---
 #draft   

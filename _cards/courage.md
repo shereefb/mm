@@ -6,6 +6,7 @@ archetype: Warrior
 category: Warrior
 direction: East
 type: Quality
+type_general: Quality
 image: /images/back/courage.jpg
 ---
 #printed  

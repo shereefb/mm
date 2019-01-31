@@ -6,6 +6,7 @@ archetype: Warrior
 category: Warrior
 direction: South
 type: Skill
+type_general: Skill
 image: /images/back/willingness_to_be_rejected.jpg
 ---
 #draft   

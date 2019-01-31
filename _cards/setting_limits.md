@@ -6,6 +6,7 @@ archetype: King
 category: King
 direction: West
 type: Skill
+type_general: Skill
 image: /images/back/setting_limits.jpg
 ---
 #draft   

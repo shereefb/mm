@@ -6,6 +6,7 @@ archetype: King
 category: King
 direction: East
 type: Skill
+type_general: Skill
 image: /images/back/determining_with_spirit.jpg
 ---
 #draft pic

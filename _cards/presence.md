@@ -6,6 +6,7 @@ archetype: Lover
 category: Lover
 direction: North
 type: Quality
+type_general: Quality
 image: /images/back/presence.jpg
 ---
 #draft   

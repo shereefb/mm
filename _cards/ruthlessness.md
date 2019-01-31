@@ -6,6 +6,7 @@ archetype: Warrior
 category: Warrior
 direction: North
 type: Quality
+type_general: Quality
 image: /images/back/ruthlessness.jpg
 ---
 #draft Not cruelty.  

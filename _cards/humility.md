@@ -6,6 +6,7 @@ archetype: Warrior
 category: Warrior
 direction: South
 type: Quality
+type_general: Quality
 image: /images/back/humility.jpg
 ---
 #printed #draft The Mature Warrior understands that dignity and defeat can co-exist. He knows that his value and self-worth comes from how he meets winning or losing, not whether or not he wins or loses. He is graceful in winning, and dignified in losing.   
