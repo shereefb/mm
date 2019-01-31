@@ -1,4 +1,12 @@
-------Mature King#printed The King in his fullness brings order, and fertility to the realm. He stabilizes chaotic emotion and provides centerdness to others. He brings calm and balance. Defends the integrity of being and purpose, and provides a sense of order. The mature King looks to the world with a firm and kind eye. He sees others in all their weakness and their talent and worth. He honors, promotes them, and guides them towards their potential. He rewards and encourages. He embodies true authority. 
+---
+layout: page
+title: Mature King
+permalink: /king/archetype/mature/mature_king
+archetype: King
+type: Mature
+image: /images/back/mature_king.jpg
+---
+#printed The King in his fullness brings order, and fertility to the realm. He stabilizes chaotic emotion and provides centerdness to others. He brings calm and balance. Defends the integrity of being and purpose, and provides a sense of order. The mature King looks to the world with a firm and kind eye. He sees others in all their weakness and their talent and worth. He honors, promotes them, and guides them towards their potential. He rewards and encourages. He embodies true authority. 
 
 ## Mature Declarations  
 - I take full responsibility for as much as I can. This gives meaning and purpose to my life. 

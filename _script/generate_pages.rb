@@ -10,26 +10,67 @@ def refresh_directory
   Dir.mkdir($Directory)
 end
 
+def to_url(string)
+  string.downcase.gsub(" ","_")
+end
 
-@doc = Nokogiri::XML(File.open("dynalist-2019-1-30.opml"))
+def permalink(ancestors,title)
+  "/" + ancestors.collect{ |n| to_url(n["text"]) }.join("/") + "/#{to_url(title)}"
+end
+
+def archetype(ancestors)
+  ancestors[0]["text"]
+end
+
+def direction(ancestors)
+    ancestors[2]["text"] if ancestors[1]["text"] == "Direction"
+end
+
+def image(title)
+end
+
+def type(ancestors,title)
+  if ancestors[1]["text"] == "Direction"
+    ancestors[3]["text"]
+  else
+    ancestors[2]["text"]
+  end
+end
+
 
 def generate (node,ancestors)
 
-  puts "Generating" + "    " + node["text"] + "  \t\t\t\t  " + @ancestors.collect{ |n| n["text"] }.join(":")
+  @title = node["text"]
+  @description = node["_note"]
+  @permalink = permalink(ancestors,@title)
+  @archetype = archetype(ancestors)
+  @direction = direction(ancestors)
+  @type = type(ancestors,@title)
 
-  file_name = "#{$Directory}/#{node["text"].gsub(" ","_")}.md"
+  puts "Generating" + "    " + @title + "  \t\t\t\t  " + ancestors.collect{ |n| n["text"] }.join(":")
+
+  file_name = "#{$Directory}/#{to_url(@title)}.md"
 
   f = File.new(file_name, 'w')
-  f.write("---")
-  f.write("---")
-  f.write(node["text"])
-  f.write(node["_note"])
+
+  f.write("---\n")
+  f.write("layout: page\n")
+  f.write("title: #{@title}\n")
+  f.write("permalink: #{@permalink}\n")
+  f.write("archetype: #{@archetype}\n") #king/lover/magician/warrior
+  f.write("direction: #{@direction}\n") if @direction #north/south/west/east
+  f.write("type: #{@type}\n") #quality/skill/mature/shadow
+  f.write("image: /images/back/#{to_url@title}.jpg\n")
+  f.write("---\n")
+  # f.write("##{@title}\n")
+  f.write("#{@description}\n")
   f.close
 end
 
 
 def generate_all
-  @doc.css("outline[_note]")[0..5].each do |node|
+  @doc = Nokogiri::XML(File.open("dynalist-2019-1-30.opml"))
+  @doc.css("outline[_note]")[0..15].each do |node|
 
     @ancestors = node.ancestors.reverse[4..10]
 
