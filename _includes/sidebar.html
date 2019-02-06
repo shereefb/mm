@@ -1,4 +1,4 @@
-{% if page.author_profile or layout.author_profile or page.sidebar %}
+<!-- {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
@@ -21,4 +21,28 @@
     {% endif %}
   {% endif %}
   </div>
-{% endif %}
+{% endif %} -->
+
+<div class="sidebar sticky">
+<nav class="nav__list">
+
+<ul class="nav__items">
+  {% assign mycards = site.cards | group_by:"category" | sort:"name" %}
+  {% for cat in mycards %}
+  <li><span class="nav__sub-title">{{ cat.name | capitalize }}</span>  </li>
+        {% assign item_groups = cat.items | group_by:"type_general" | sort:"name" %}
+          {% for item_group in item_groups %}
+            <li><span class="nav__sub-title">{{ item_group.name | capitalize }}</span>
+
+              <ul>
+                  {% assign items = item_group.items | sort: 'title' %}
+                    {% for item in items %}
+                      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                        {% endfor %}
+              </ul>
+            </li>
+          {% endfor %}
+  {% endfor %}
+</ul>
+</nav>
+</div>
