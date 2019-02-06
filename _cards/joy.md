@@ -7,6 +7,7 @@ direction: South
 type: Quality
 type_general: Quality
 image: /images/back/joy.jpg
+draft: true
 ---
 #draft pic  
 Mature lover understands joy is an inside job  

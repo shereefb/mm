@@ -7,5 +7,6 @@ direction: North
 type: Shadow Quality
 type_general: Shadow Quality
 image: /images/back/shame.jpg
+draft: true
 ---
 #draft pic

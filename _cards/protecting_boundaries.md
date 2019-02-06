@@ -7,5 +7,6 @@ direction: South
 type: Skill
 type_general: Skill
 image: /images/back/protecting_boundaries.jpg
+draft: true
 ---
 #draft pic

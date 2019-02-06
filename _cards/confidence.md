@@ -7,6 +7,7 @@ direction: South
 type: Quality
 type_general: Quality
 image: /images/back/confidence.jpg
+draft: true
 ---
 #draft pic  
   

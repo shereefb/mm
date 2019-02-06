@@ -6,6 +6,7 @@ category: King
 type: Shadow
 type_general: Archetype
 image: /images/back/weakling.jpg
+draft: false
 toc: true
 toc_label: Quick Jump
 ---

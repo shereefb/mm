@@ -7,6 +7,7 @@ direction: West
 type: Quality
 type_general: Quality
 image: /images/back/being_real.jpg
+draft: true
 ---
 #draft   
 To live according to the truth, we need to be able to allow the truth. We need to have the integrity and the self-respect to confront ourselves. We must be willing to see things about ourselves that are problematic, selfish, or reactive. We need to acknowledge and confront difficulties and delusions, and learn to deal with them instead of doing everything to run away from them. We need to learn to confront not only the beautiful truth of essential states, but  

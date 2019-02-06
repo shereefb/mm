@@ -7,6 +7,7 @@ direction: North
 type: Skill
 type_general: Skill
 image: /images/back/resisting_manipulation.jpg
+draft: true
 ---
 #draft   
 People manipulate through fear.   

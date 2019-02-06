@@ -7,6 +7,7 @@ direction: West
 type: Skill
 type_general: Skill
 image: /images/back/confronting_falsehood.jpg
+draft: true
 ---
 #draft   
 level 1: in self  

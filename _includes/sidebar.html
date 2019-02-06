@@ -37,7 +37,13 @@
               <ul>
                   {% assign items = item_group.items | sort: 'title' %}
                     {% for item in items %}
-                      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                      <li><a href="{{ item.url }}">
+                        {{ item.title %}}
+                        {% if item.draft %}
+                        *
+                        {% endif %}
+
+                      </a></li>
                         {% endfor %}
               </ul>
             </li>

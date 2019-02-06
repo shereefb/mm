@@ -7,5 +7,6 @@ direction: West
 type: Skill
 type_general: Skill
 image: /images/back/delaying_gratification.jpg
+draft: true
 ---
 #draft Saving

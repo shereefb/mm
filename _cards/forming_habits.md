@@ -7,6 +7,7 @@ direction: South
 type: Skill
 type_general: Skill
 image: /images/back/forming_habits.jpg
+draft: true
 ---
 #draft Streaks. 1 week. 1 month.   
 Weakly. Monthly.  

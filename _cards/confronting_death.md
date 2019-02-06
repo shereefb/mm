@@ -7,6 +7,7 @@ direction: West
 type: Skill
 type_general: Skill
 image: /images/back/confronting_death.jpg
+draft: true
 ---
 #draft   
 Shambalah warrior: Every day lived without death on your shoulder is a day not well lived.   

@@ -7,5 +7,6 @@ direction: West
 type: Skill
 type_general: Skill
 image: /images/back/fasting.jpg
+draft: true
 ---
 #draft something you like. fast for a week. Support others in fasting. 

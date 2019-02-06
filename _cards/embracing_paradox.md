@@ -7,6 +7,7 @@ direction: North
 type: Skill
 type_general: Skill
 image: /images/back/embracing_paradox.jpg
+draft: true
 ---
 #draft   
 dummy is defeated by paradox  

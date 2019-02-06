@@ -7,6 +7,7 @@ direction: North
 type: Quality
 type_general: Quality
 image: /images/back/aloneness_.jpg
+draft: true
 ---
 #draft   
 hermit is lonely   

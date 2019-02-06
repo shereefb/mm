@@ -6,6 +6,7 @@ category: Magician
 type: Shadow
 type_general: Archetype
 image: /images/back/manipulator.jpg
+draft: false
 toc: true
 toc_label: Quick Jump
 ---

@@ -7,6 +7,7 @@ direction: East
 type: Skill
 type_general: Skill
 image: /images/back/resisting_addiction.jpg
+draft: true
 ---
 #draft   
 gambling, screen, sugar, consuming, money, drugs, sex, people

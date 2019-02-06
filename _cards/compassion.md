@@ -7,6 +7,7 @@ direction: South
 type: Quality
 type_general: Quality
 image: /images/back/compassion.jpg
+draft: true
 ---
 #draft pic Compassion is great  
 Balance Action and Empathy.   

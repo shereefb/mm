@@ -7,6 +7,7 @@ direction: South
 type: Quality
 type_general: Quality
 image: /images/back/self-worth.jpg
+draft: true
 ---
 #draft   
 Every day, do something that increases your measure of self worth. 

@@ -7,5 +7,6 @@ direction: North
 type: Skill
 type_general: Skill
 image: /images/back/protecting_and_passing_tradition.jpg
+draft: true
 ---
 #draft Telling stories, passin on legacy of elders

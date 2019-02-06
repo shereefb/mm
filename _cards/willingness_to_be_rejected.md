@@ -7,6 +7,7 @@ direction: South
 type: Skill
 type_general: Skill
 image: /images/back/willingness_to_be_rejected.jpg
+draft: true
 ---
 #draft   
 Find your rejection number. Honor your heart. Get rejected that many times. 

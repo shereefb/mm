@@ -7,5 +7,6 @@ direction: North
 type: Shadow Quality
 type_general: Shadow Quality
 image: /images/back/guilt.jpg
+draft: true
 ---
 #draft Guilt is the false belief that there is something wrong with us. 

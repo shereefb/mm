@@ -7,5 +7,6 @@ direction: East
 type: Skill
 type_general: Skill
 image: /images/back/living_at_the_edge_of_the_mystery.jpg
+draft: true
 ---
 #draft Relationship with silence

@@ -7,6 +7,7 @@ direction: South
 type: Quality
 type_general: Quality
 image: /images/back/mastery.jpg
+draft: true
 ---
 #draft pic  
 manipulator tries to master to control. wants to reach the end.   

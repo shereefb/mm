@@ -7,6 +7,7 @@ direction: West
 type: Quality
 type_general: Quality
 image: /images/back/wisdom.jpg
+draft: true
 ---
 #draft   
 Is from experienced. Embodied knowledge. Different than smart or intelligent. 

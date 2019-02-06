@@ -7,6 +7,7 @@ direction: South
 type: Quality
 type_general: Quality
 image: /images/back/generosity.jpg
+draft: true
 ---
 #draft   
 Mature king balances giving and receiving. Acknowledges limits.   

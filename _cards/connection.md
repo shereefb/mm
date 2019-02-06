@@ -7,6 +7,7 @@ direction: South
 type: Quality
 type_general: Quality
 image: /images/back/connection.jpg
+draft: true
 ---
 #draft pic  
 Balances connection to self and others  

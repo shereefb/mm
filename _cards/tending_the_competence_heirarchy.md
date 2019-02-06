@@ -7,5 +7,6 @@ direction: East
 type: Skill
 type_general: Skill
 image: /images/back/tending_the_competence_heirarchy.jpg
+draft: true
 ---
 #draft No one capable stays down. No one incapable rises. Not on my watch. 

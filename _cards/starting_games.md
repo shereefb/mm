@@ -7,6 +7,7 @@ direction: East
 type: Skill
 type_general: Skill
 image: /images/back/starting_games.jpg
+draft: true
 ---
 #draft   
 Creating new games. existing games. Enrolling others. Improvising. Co-creating with others. 

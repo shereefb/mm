@@ -6,6 +6,7 @@ category: Warrior
 type: Shadow
 type_general: Archetype
 image: /images/back/bully.jpg
+draft: false
 toc: true
 toc_label: Quick Jump
 ---

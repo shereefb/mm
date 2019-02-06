@@ -7,5 +7,6 @@ direction: East
 type: Skill
 type_general: Skill
 image: /images/back/celebrating_life.jpg
+draft: true
 ---
 #draft pic

@@ -7,6 +7,7 @@ direction: West
 type: Skill
 type_general: Skill
 image: /images/back/making_money.jpg
+draft: true
 ---
 #draft   
 level 1: instead of allowance   

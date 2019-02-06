@@ -7,6 +7,7 @@ direction: South
 type: Quality
 type_general: Quality
 image: /images/back/discipline.jpg
+draft: true
 ---
 #draft   
 Warrior: Discipline equals freedom. short term pain for long term freedom and pleasure. Develop control and mastery of mind and body. Capacity to withstand pain both psychological and physical.   

@@ -7,6 +7,7 @@ direction: North
 type: Quality
 type_general: Quality
 image: /images/back/knowledge.jpg
+draft: true
 ---
 #draft pic  
 manipulator collects information. thinks he is the authority  

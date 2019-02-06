@@ -7,6 +7,7 @@ direction: North
 type: Quality
 type_general: Quality
 image: /images/back/balance_order_and_chaos.jpg
+draft: true
 ---
 #draft pic  
 Balances everything. Includes everything so that there can be balance.   

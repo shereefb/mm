@@ -7,6 +7,7 @@ direction: South
 type: Quality
 type_general: Quality
 image: /images/back/justice.jpg
+draft: true
 ---
 #draft   
 Mature king includes all. Refers to a higher code of ethics and morality than his own.   

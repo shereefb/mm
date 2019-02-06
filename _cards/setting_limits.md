@@ -7,6 +7,7 @@ direction: West
 type: Skill
 type_general: Skill
 image: /images/back/setting_limits.jpg
+draft: true
 ---
 #draft   
 Level 1: for own body and stuff  

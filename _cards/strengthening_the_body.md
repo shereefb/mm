@@ -7,6 +7,7 @@ direction: West
 type: Skill
 type_general: Skill
 image: /images/back/strengthening_the_body.jpg
+draft: true
 ---
 #draft   
 victim's body no strength, just flexibility  

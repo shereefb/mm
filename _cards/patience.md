@@ -7,5 +7,6 @@ direction: South
 type: Quality
 type_general: Quality
 image: /images/back/patience.jpg
+draft: true
 ---
 #draft pic

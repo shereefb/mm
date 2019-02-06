@@ -7,6 +7,7 @@ direction: West
 type: Skill
 type_general: Skill
 image: /images/back/tending_the_physical.jpg
+draft: true
 ---
 #draft   
 level 1: responsibility for all my physical.   

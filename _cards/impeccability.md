@@ -7,6 +7,7 @@ direction: North
 type: Quality
 type_general: Quality
 image: /images/back/impeccability.jpg
+draft: true
 ---
 #draft indulgence  
 to be and do your best at every moment page 202 dh1 book

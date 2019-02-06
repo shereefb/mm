@@ -53,8 +53,9 @@ end
 
 def generate (node,ancestors)
 
-  @title = node["text"]
   @description = node["_note"]
+  @title = node["text"]
+  @draft = @description.include? "#draft"
   @permalink = permalink(ancestors,@title)
   @archetype = archetype(ancestors)
   @direction = direction(ancestors)
@@ -76,6 +77,7 @@ def generate (node,ancestors)
   f.write("type: #{@type}\n") #quality/skill/mature/shadow
   f.write("type_general: #{@type_general}\n") #quality/skill/archetype
   f.write("image: /images/back/#{to_url@title}.jpg\n")
+  f.write("draft: #{@draft}\n")
 
   if @type_general == "Archetype"
     f.write("toc: true\n")

@@ -7,6 +7,7 @@ direction: South
 type: Skill
 type_general: Skill
 image: /images/back/resolving_conflict.jpg
+draft: true
 ---
 #draft   
 Level 1: resolving conflicts im in  

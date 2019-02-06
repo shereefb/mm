@@ -7,5 +7,6 @@ direction: West
 type: Quality
 type_general: Quality
 image: /images/back/integrity.jpg
+draft: true
 ---
 #draft integration.

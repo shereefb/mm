@@ -7,6 +7,7 @@ direction: North
 type: Quality
 type_general: Quality
 image: /images/back/wonder.jpg
+draft: true
 ---
 #draft   
 in touch with the miracle of life.   

@@ -7,6 +7,7 @@ direction: East
 type: Quality
 type_general: Quality
 image: /images/back/spirituality.jpg
+draft: true
 ---
 #draft pic  
   
