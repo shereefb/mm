@@ -9,7 +9,7 @@ image: /images/back/mature_magician.jpg
 toc: true
 toc_label: Quick Jump
 ---
-#printed The Mature Magician is the knower and the master of technology. He guides the process of transformation, both within and without, by using ritual and ceremony. He is initiated into secret and hidden knowledge of all kinds by other Magicians. All knowledge that takes special training to acquire is the province of the Magician. He has insight, and connects the hidden world and the visible world with his knowledge. He uses this knowledge for the benefit of the realm.  
+ The Mature Magician is the knower and the master of technology. He guides the process of transformation, both within and without, by using ritual and ceremony. He is initiated into secret and hidden knowledge of all kinds by other Magicians. All knowledge that takes special training to acquire is the province of the Magician. He has insight, and connects the hidden world and the visible world with his knowledge. He uses this knowledge for the benefit of the realm.  
   
   
 ## Mature Declarations  

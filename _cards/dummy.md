@@ -9,7 +9,7 @@ image: /images/back/dummy.jpg
 toc: true
 toc_label: Quick Jump
 ---
-#printed The Dummy is a Magician that doesn't want the responsibility that comes from the knowledge. He doesn't want to share, teach or help others. He does not want to do the work to steward a sacred space, or to know himself.  
+ The Dummy is a Magician that doesn't want the responsibility that comes from the knowledge. He doesn't want to share, teach or help others. He does not want to do the work to steward a sacred space, or to know himself.  
   
   
 ## Shadow Declarations  

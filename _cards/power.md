@@ -8,16 +8,16 @@ type: Quality
 type_general: Quality
 image: /images/back/power.jpg
 ---
-#printed  
   
   
-###"Power is the ability to do good things for others."  
+  
+|"Power is the ability to do good things for others."  
   
   
-###"When the power of love overcomes the love of power, there will be peace."  
+|"When the power of love overcomes the love of power, there will be peace."  
   
   
-###"The measure of a man is what he does with power."  
+|"The measure of a man is what he does with power."  
   
 The Mature King understands that the key to owning his power, is allowing his hatred. He uses the hatred to connect to his power and serve the realm.   
   

@@ -8,7 +8,7 @@ type: Quality
 type_general: Quality
 image: /images/back/honesty.jpg
 ---
-#printed   
+   
   
 The Mature Warrior's sword is his Honesty. A Mature Warrior balances telling the truth, and kindness. He doesn't let one defeat the other.   
   

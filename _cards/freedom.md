@@ -10,7 +10,7 @@ image: /images/back/freedom.jpg
 ---
 #draft   
   
-### freedom is an inside job.   
+| freedom is an inside job.   
   
 Freedom within limitations.   
 Addict wants no external limitations. Hermit sees only external limitations.   

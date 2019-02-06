@@ -8,21 +8,21 @@ type: Quality
 type_general: Quality
 image: /images/back/courage.jpg
 ---
-#printed  
-  
-###“Don't be afraid of your fears. They're not there to scare you. They're there to let you know that something is worth it.”  
   
   
-###“A ship is safe in harbor, but that's not what ships are for.”   
+|“Don't be afraid of your fears. They're not there to scare you. They're there to let you know that something is worth it.”  
   
   
-###“Scared is what you're feeling. Brave is what you're doing.”   
+|“A ship is safe in harbor, but that's not what ships are for.”   
   
   
-###"Safety third."  
+|“Scared is what you're feeling. Brave is what you're doing.”   
   
   
-###“Courage is resistance to fear, mastery of fear - not absence of fear.”   
+|"Safety third."  
+  
+  
+|“Courage is resistance to fear, mastery of fear - not absence of fear.”   
   
 Fear is normal. Fear is good. Fear is what warns you when when things are dangerous. Fear is what makes you prepare. Fear keeps us out of a lot of trouble. So there is nothing wrong with fear. But fear can also be overwhelming. It can be unreasonable. It can cause you to freeze up and make bad decisions or hesitate when you need to act. So you have to learn to control fear.   
   

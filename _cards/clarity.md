@@ -8,12 +8,12 @@ type: Quality
 type_general: Quality
 image: /images/back/clarity.jpg
 ---
-#printed  
-  
-###“It’s a lack of clarity that creates chaos and frustration. Those emotions are poison to any living goal.”  
   
   
-###“When things feel murky and unsure, fine tuning our hearing so as to distinguish the voice of our Innermost Self brings clarity.”   
+|“It’s a lack of clarity that creates chaos and frustration. Those emotions are poison to any living goal.”  
+  
+  
+|“When things feel murky and unsure, fine tuning our hearing so as to distinguish the voice of our Innermost Self brings clarity.”   
   
 A king needs a clear mind to see reality as it is, not how he would like it to be. He learns from the eagle how to soar above the details and look at the big picture. He learns from the air element how to not hold on to ideas, or opinions, and clear the mind to receive the information that's needed. When he is not clear, he learns to be in silence, and to wait for clarity.   
   

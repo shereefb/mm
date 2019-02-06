@@ -8,7 +8,7 @@ type: Quality
 type_general: Quality
 image: /images/back/responsibility.jpg
 ---
-#printed   
+   
   
 The Weakling thinks that responsibility is a burden that reduces his freedom. He doesn't understand that avoiding responsibility is the opposite of freedom. The less responsibility he takes, the weaker he gets, which leads to taking less responsibility. This makes the weakling always depend on other people to take care of his realm. He becomes less free, and attracts tyrants into his life who will manipulate and control him.   
   

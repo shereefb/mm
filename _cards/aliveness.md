@@ -8,18 +8,18 @@ type: Quality
 type_general: Quality
 image: /images/back/aliveness.jpg
 ---
-#printed  
-  
-###“Live so fully and so brilliantly that your pain diminishes in your aliveness.”   
   
   
-###"Follow your bliss"  
+|“Live so fully and so brilliantly that your pain diminishes in your aliveness.”   
   
   
-###“When we move in a direction that touches our heart, we add to the momentum of deeper purpose that makes us feel more alive.”   
+|"Follow your bliss"  
   
   
-###"Life isn't meant to be lived perfectly, but merely to be lived. Boldly, wildly, beautifully, uncertainly, imperfectly, and magically lived."  
+|“When we move in a direction that touches our heart, we add to the momentum of deeper purpose that makes us feel more alive.”   
+  
+  
+|"Life isn't meant to be lived perfectly, but merely to be lived. Boldly, wildly, beautifully, uncertainly, imperfectly, and magically lived."  
   
 A Lover's sensitive heart allows him to feel life's energy and passion, and his full belly grounds him to the earth. He needs to balance his passion and groundedness to enjoy the aliveness. The addict feels passion without being grounded, so his aliveness is manic and volatile. The Hermit feels grounded without passion, so he is depressed and has no energy.   
 Depression tries to ground us, remind us to connect to the earth. Mania reminds us to be alive. Balancing both brings us the aliveness of the lover.   

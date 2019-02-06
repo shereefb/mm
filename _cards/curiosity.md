@@ -8,15 +8,15 @@ type: Quality
 type_general: Quality
 image: /images/back/curiosity.jpg
 ---
-#printed   
+   
   
-###"The important thing is not to stop questioning. "  
-  
-  
-###“It's not a silly question if you can't answer it.”   
+|"The important thing is not to stop questioning. "  
   
   
-###“Let go of certainty. The opposite isn't uncertainty. It's openness, curiosity and a willingness to embrace paradox, rather than choose up sides. The ultimate challenge is to accept ourselves exactly as we are, but never stop trying to learn and grow.”   
+|“It's not a silly question if you can't answer it.”   
+  
+  
+|“Let go of certainty. The opposite isn't uncertainty. It's openness, curiosity and a willingness to embrace paradox, rather than choose up sides. The ultimate challenge is to accept ourselves exactly as we are, but never stop trying to learn and grow.”   
   
 Curiosity is what drives the Magician to learn about the mystery, and to transform the world. The mature Magician wonders about everything, and wants to know how things work, what things are, and most importantly, wants to understand himself and connect to the spirit.   
   
