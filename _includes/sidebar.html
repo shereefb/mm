@@ -37,11 +37,18 @@
               <ul>
                   {% assign items = item_group.items | sort: 'title' %}
                     {% for item in items %}
-                      <li><a href="{{ item.url }}">
+                      <li
+                      {% if item.draft %}
+                      style="font-style: italic;"
+                      {% else %}
+                      style="font-weight: bold;"
+                      {% endif %}
+                      ><a href="{{ item.url }}">
                         {{ item.title %}}
-                        {% if item.draft %}
+                        <!-- {% if item.draft %}
                         *
-                        {% endif %}
+                        {% endif %} -->
+
 
                       </a></li>
                         {% endfor %}
