@@ -11,16 +11,13 @@ draft: false
 ---
   
   
-  
 |"Power is the ability to do good things for others."  
-  
   
 |"When the power of love overcomes the love of power, there will be peace."  
   
-  
 |"The measure of a man is what he does with power."  
   
-The Mature King understands that the key to owning his power, is allowing his hatred. He uses the hatred to connect to his power and serve the realm.   
+The Mature King understands that the key to owning his power, is allowing his hatred. He uses the hatred to connect to his power and serve the realm. He understands that good and evil are inside of him. And not something that’s out there to be eliminated.   
   
 He does this by feeling his hatred fully, and letting its energy fill his heart and his body, but never discharging it. By accepting the hatred in his body, not denying it, and not acting it out, he let's his body transform hatred into pure power.   
   

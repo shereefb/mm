@@ -10,7 +10,6 @@ image: /images/back/freedom.jpg
 draft: true
 ---
 #draft   
-  
 | freedom is an inside job.   
   
 Freedom within limitations.   

@@ -12,4 +12,8 @@ draft: true
 #draft   
 hermit is lonely   
 addict can’t be alone  
-lover loves themself
+lover loves themself. respects their aloneness and the aloneness of others.   
+Doesn't come together to get rid of aloneness. but to witness it and be witnessed in it.   
+True intimacy respects the aloneness  
+---  
+Respect your child's aloneness

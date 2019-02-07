@@ -10,15 +10,11 @@ image: /images/back/aliveness.jpg
 draft: false
 ---
   
-  
 |“Live so fully and so brilliantly that your pain diminishes in your aliveness.”   
-  
   
 |"Follow your bliss"  
   
-  
 |“When we move in a direction that touches our heart, we add to the momentum of deeper purpose that makes us feel more alive.”   
-  
   
 |"Life isn't meant to be lived perfectly, but merely to be lived. Boldly, wildly, beautifully, uncertainly, imperfectly, and magically lived."  
   

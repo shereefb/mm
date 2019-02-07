@@ -1,12 +1,12 @@
 ---
-title: Making money
-permalink: /king/direction/west/skill/making_money
+title: Providing
+permalink: /king/direction/west/skill/providing
 archetype: King
 category: King
 direction: West
 type: Skill
 type_general: Skill
-image: /images/back/making_money.jpg
+image: /images/back/providing.jpg
 draft: true
 ---
 #draft   

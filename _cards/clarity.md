@@ -10,9 +10,7 @@ image: /images/back/clarity.jpg
 draft: false
 ---
   
-  
 |“It’s a lack of clarity that creates chaos and frustration. Those emotions are poison to any living goal.”  
-  
   
 |“When things feel murky and unsure, fine tuning our hearing so as to distinguish the voice of our Innermost Self brings clarity.”   
   
@@ -23,4 +21,4 @@ A Mature King does not confuse his mind for his brain. He makes sure his body an
 The King learns to clear his mind by getting rest, connecting to nature, going for a walk, listening to music, or moving his body. Above all, like the eagle, he learns to connect to the sky, rise above the details, and wait until he sees what he is looking for.   
   
 The Tyrant and the Weakling both do not have clarity. The Tyrant does not wait for clarity, and makes decisions and acts blindly. The Weakling doubts himself when clarity comes and doesn't trust his mind, or his seeing.   
-
+??

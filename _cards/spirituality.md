@@ -10,7 +10,6 @@ image: /images/back/spirituality.jpg
 draft: true
 ---
 #draft pic  
-  
 |"We are in the world, but not of the world"  
   
 A Mature Magician is a star dancer. He connects the invisible world and the visible world. The world of spirit, and the world of matter.   

@@ -10,12 +10,9 @@ image: /images/back/curiosity.jpg
 draft: false
 ---
    
-  
 |"The important thing is not to stop questioning. "  
   
-  
 |“It's not a silly question if you can't answer it.”   
-  
   
 |“Let go of certainty. The opposite isn't uncertainty. It's openness, curiosity and a willingness to embrace paradox, rather than choose up sides. The ultimate challenge is to accept ourselves exactly as we are, but never stop trying to learn and grow.”   
   

@@ -10,18 +10,13 @@ image: /images/back/courage.jpg
 draft: false
 ---
   
-  
 |“Don't be afraid of your fears. They're not there to scare you. They're there to let you know that something is worth it.”  
-  
   
 |“A ship is safe in harbor, but that's not what ships are for.”   
   
-  
 |“Scared is what you're feeling. Brave is what you're doing.”   
   
-  
 |"Safety third."  
-  
   
 |“Courage is resistance to fear, mastery of fear - not absence of fear.”   
   

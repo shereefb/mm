@@ -11,9 +11,7 @@ draft: true
 ---
 #draft pic  
   
-  
 | "I don’t know but I can figure it out."  
-  
   
 | "If you are indifferent to what people think, you can be confident, and if you're confident, you can speak well."  
   
