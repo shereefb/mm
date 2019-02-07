@@ -3,7 +3,7 @@ title: Welcoming Mistakes
 permalink: /magician/south/skill/welcoming_mistakes
 archetype: Magician
 category: Magician
-direction: Skill
+direction: South
 type: Skill
 type_general: South
 image: /images/back/welcoming_mistakes.jpg

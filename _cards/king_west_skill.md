@@ -3,6 +3,7 @@ title: Skill
 permalink: /king/west/skill
 archetype: King
 category: King
+direction: West
 type: Menu
 type_general: Menu
 image: /images/back/skill.jpg

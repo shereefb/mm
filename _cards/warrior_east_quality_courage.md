@@ -3,7 +3,7 @@ title: Courage
 permalink: /warrior/east/quality/courage
 archetype: Warrior
 category: Warrior
-direction: Quality
+direction: East
 type: Quality
 type_general: East
 image: /images/back/courage.jpg

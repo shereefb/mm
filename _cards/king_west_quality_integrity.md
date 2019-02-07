@@ -3,7 +3,7 @@ title: Integrity
 permalink: /king/west/quality/integrity
 archetype: King
 category: King
-direction: Quality
+direction: West
 type: Quality
 type_general: West
 image: /images/back/integrity.jpg

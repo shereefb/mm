@@ -3,7 +3,7 @@ title: Knowledge
 permalink: /magician/north/quality/knowledge
 archetype: Magician
 category: Magician
-direction: Quality
+direction: North
 type: Quality
 type_general: North
 image: /images/back/knowledge.jpg

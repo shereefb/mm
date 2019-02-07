@@ -3,7 +3,7 @@ title: Beginner's Mind
 permalink: /magician/north/quality/beginner's_mind
 archetype: Magician
 category: Magician
-direction: Quality
+direction: North
 type: Quality
 type_general: North
 image: /images/back/beginner's_mind.jpg

@@ -3,7 +3,7 @@ title: Handling Disapointment
 permalink: /lover/south/skill/handling_disapointment
 archetype: Lover
 category: Lover
-direction: Skill
+direction: South
 type: Skill
 type_general: South
 image: /images/back/handling_disapointment.jpg

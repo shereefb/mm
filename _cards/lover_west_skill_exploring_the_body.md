@@ -3,7 +3,7 @@ title: Exploring the body
 permalink: /lover/west/skill/exploring_the_body
 archetype: Lover
 category: Lover
-direction: Skill
+direction: West
 type: Skill
 type_general: West
 image: /images/back/exploring_the_body.jpg

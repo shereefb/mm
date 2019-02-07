@@ -3,7 +3,7 @@ title: Sincerity
 permalink: /warrior/south/quality/sincerity
 archetype: Warrior
 category: Warrior
-direction: Quality
+direction: South
 type: Quality
 type_general: South
 image: /images/back/sincerity.jpg

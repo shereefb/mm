@@ -3,7 +3,7 @@ title: Dealing with ambiguity
 permalink: /magician/north/skill/dealing_with_ambiguity
 archetype: Magician
 category: Magician
-direction: Skill
+direction: North
 type: Skill
 type_general: North
 image: /images/back/dealing_with_ambiguity.jpg

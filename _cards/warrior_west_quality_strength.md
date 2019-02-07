@@ -3,7 +3,7 @@ title: Strength
 permalink: /warrior/west/quality/strength
 archetype: Warrior
 category: Warrior
-direction: Quality
+direction: West
 type: Quality
 type_general: West
 image: /images/back/strength.jpg

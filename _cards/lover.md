@@ -1,0 +1,65 @@
+---
+title: Lover
+permalink: //lover
+archetype: Menu
+category: Menu
+type: Menu
+type_general: Menu
+image: /images/back/lover.jpg
+draft: true
+---
+
+---
+- [Archetype](/lover/archetype)
+  - [Mature Lover](/lover/archetype/mature_lover)
+    - [Innocent (north)](/lover/archetype/mature_lover/innocent_(north))
+    - [Jester (east)](/lover/archetype/mature_lover/jester_(east))
+    - [Orphan (west)](/lover/archetype/mature_lover/orphan_(west))
+    - [Care Giver (south)](/lover/archetype/mature_lover/care_giver_(south))
+  - [Shadow](/lover/archetype/shadow)
+    - [Addict](/lover/archetype/shadow/addict)
+    - [Hermit](/lover/archetype/shadow/hermit)
+- [North](/lover/north)
+  - [Quality](/lover/north/quality)
+    - [Presence](/lover/north/quality/presence)
+    - [Wonder](/lover/north/quality/wonder)
+    - [Aloneness ](/lover/north/quality/aloneness_)
+  - [Shadow Quality](/lover/north/shadow_quality)
+    - [Repression](/lover/north/shadow_quality/repression)
+    - [Shame](/lover/north/shadow_quality/shame)
+  - [Skill](/lover/north/skill)
+    - [Living in the present](/lover/north/skill/living_in_the_present)
+    - [Seeing with new eyes](/lover/north/skill/seeing_with_new_eyes)
+- [East](/lover/east)
+  - [Quality](/lover/east/quality)
+    - [Aliveness](/lover/east/quality/aliveness)
+    - [Freedom](/lover/east/quality/freedom)
+    - [Enthusiasm](/lover/east/quality/enthusiasm)
+  - [Skill](/lover/east/skill)
+    - [Celebrating life](/lover/east/skill/celebrating_life)
+    - [Resisting addiction](/lover/east/skill/resisting_addiction)
+    - [Starting Games](/lover/east/skill/starting_games)
+- [South](/lover/south)
+  - [Quality](/lover/south/quality)
+    - [Joy](/lover/south/quality/joy)
+    - [Connection](/lover/south/quality/connection)
+    - [Playfulness](/lover/south/quality/playfulness)
+    - [Empathy](/lover/south/quality/empathy)
+  - [Skill](/lover/south/skill)
+    - [Handling Disapointment](/lover/south/skill/handling_disapointment)
+    - [Enjoying life](/lover/south/skill/enjoying_life)
+    - [Having and creating fun](/lover/south/skill/having_and_creating_fun)
+    - [Joining others in play](/lover/south/skill/joining_others_in_play)
+    - [Making Friends](/lover/south/skill/making_friends)
+- [West](/lover/west)
+  - [Quality](/lover/west/quality)
+    - [Pleasure](/lover/west/quality/pleasure)
+    - [Sensuality](/lover/west/quality/sensuality)
+    - [Gratitude](/lover/west/quality/gratitude)
+    - [Groundedness](/lover/west/quality/groundedness)
+  - [Skill](/lover/west/skill)
+    - [Cuddling](/lover/west/skill/cuddling)
+    - [Massages](/lover/west/skill/massages)
+    - [Exploring the body](/lover/west/skill/exploring_the_body)
+    - [Resisting indulgence](/lover/west/skill/resisting_indulgence)
+    - [Fasting](/lover/west/skill/fasting)

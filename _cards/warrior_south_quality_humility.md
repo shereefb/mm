@@ -3,7 +3,7 @@ title: Humility
 permalink: /warrior/south/quality/humility
 archetype: Warrior
 category: Warrior
-direction: Quality
+direction: South
 type: Quality
 type_general: South
 image: /images/back/humility.jpg

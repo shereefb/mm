@@ -3,7 +3,7 @@ title: Discipline
 permalink: /warrior/south/quality/discipline
 archetype: Warrior
 category: Warrior
-direction: Quality
+direction: South
 type: Quality
 type_general: South
 image: /images/back/discipline.jpg

@@ -3,7 +3,7 @@ title: Accountability
 permalink: /warrior/west/quality/accountability
 archetype: Warrior
 category: Warrior
-direction: Quality
+direction: West
 type: Quality
 type_general: West
 image: /images/back/accountability.jpg

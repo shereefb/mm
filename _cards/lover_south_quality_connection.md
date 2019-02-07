@@ -3,7 +3,7 @@ title: Connection
 permalink: /lover/south/quality/connection
 archetype: Lover
 category: Lover
-direction: Quality
+direction: South
 type: Quality
 type_general: South
 image: /images/back/connection.jpg

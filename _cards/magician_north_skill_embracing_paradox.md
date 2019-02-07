@@ -3,7 +3,7 @@ title: Embracing paradox
 permalink: /magician/north/skill/embracing_paradox
 archetype: Magician
 category: Magician
-direction: Skill
+direction: North
 type: Skill
 type_general: North
 image: /images/back/embracing_paradox.jpg

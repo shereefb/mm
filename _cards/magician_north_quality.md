@@ -3,6 +3,7 @@ title: Quality
 permalink: /magician/north/quality
 archetype: Magician
 category: Magician
+direction: North
 type: Menu
 type_general: Menu
 image: /images/back/quality.jpg

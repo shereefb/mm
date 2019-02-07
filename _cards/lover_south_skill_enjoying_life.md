@@ -3,7 +3,7 @@ title: Enjoying life
 permalink: /lover/south/skill/enjoying_life
 archetype: Lover
 category: Lover
-direction: Skill
+direction: South
 type: Skill
 type_general: South
 image: /images/back/enjoying_life.jpg

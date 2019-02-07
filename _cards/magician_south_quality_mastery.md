@@ -3,7 +3,7 @@ title: Mastery
 permalink: /magician/south/quality/mastery
 archetype: Magician
 category: Magician
-direction: Quality
+direction: South
 type: Quality
 type_general: South
 image: /images/back/mastery.jpg

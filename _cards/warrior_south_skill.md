@@ -3,6 +3,7 @@ title: Skill
 permalink: /warrior/south/skill
 archetype: Warrior
 category: Warrior
+direction: South
 type: Menu
 type_general: Menu
 image: /images/back/skill.jpg

@@ -3,7 +3,7 @@ title: Transformation
 permalink: /magician/west/quality/transformation
 archetype: Magician
 category: Magician
-direction: Quality
+direction: West
 type: Quality
 type_general: West
 image: /images/back/transformation.jpg

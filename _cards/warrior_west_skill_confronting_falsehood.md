@@ -3,7 +3,7 @@ title: Confronting Falsehood
 permalink: /warrior/west/skill/confronting_falsehood
 archetype: Warrior
 category: Warrior
-direction: Skill
+direction: West
 type: Skill
 type_general: West
 image: /images/back/confronting_falsehood.jpg

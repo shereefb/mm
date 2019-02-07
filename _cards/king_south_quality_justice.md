@@ -3,7 +3,7 @@ title: Justice
 permalink: /king/south/quality/justice
 archetype: King
 category: King
-direction: Quality
+direction: South
 type: Quality
 type_general: South
 image: /images/back/justice.jpg

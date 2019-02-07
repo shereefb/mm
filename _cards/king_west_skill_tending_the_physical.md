@@ -3,7 +3,7 @@ title: Tending the physical
 permalink: /king/west/skill/tending_the_physical
 archetype: King
 category: King
-direction: Skill
+direction: West
 type: Skill
 type_general: West
 image: /images/back/tending_the_physical.jpg

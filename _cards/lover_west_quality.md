@@ -3,6 +3,7 @@ title: Quality
 permalink: /lover/west/quality
 archetype: Lover
 category: Lover
+direction: West
 type: Menu
 type_general: Menu
 image: /images/back/quality.jpg

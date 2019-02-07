@@ -3,6 +3,7 @@ title: Quality
 permalink: /king/east/quality
 archetype: King
 category: King
+direction: East
 type: Menu
 type_general: Menu
 image: /images/back/quality.jpg

@@ -3,7 +3,7 @@ title: Setting limits
 permalink: /king/west/skill/setting_limits
 archetype: King
 category: King
-direction: Skill
+direction: West
 type: Skill
 type_general: West
 image: /images/back/setting_limits.jpg

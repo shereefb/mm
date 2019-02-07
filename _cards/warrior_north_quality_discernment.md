@@ -3,7 +3,7 @@ title: Discernment
 permalink: /warrior/north/quality/discernment
 archetype: Warrior
 category: Warrior
-direction: Quality
+direction: North
 type: Quality
 type_general: North
 image: /images/back/discernment.jpg

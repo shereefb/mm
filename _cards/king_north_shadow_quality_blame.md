@@ -3,7 +3,7 @@ title: Blame
 permalink: /king/north/shadow_quality/blame
 archetype: King
 category: King
-direction: Shadow Quality
+direction: North
 type: Shadow Quality
 type_general: North
 image: /images/back/blame.jpg

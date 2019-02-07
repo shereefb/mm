@@ -3,7 +3,7 @@ title: Impeccability
 permalink: /warrior/north/quality/impeccability
 archetype: Warrior
 category: Warrior
-direction: Quality
+direction: North
 type: Quality
 type_general: North
 image: /images/back/impeccability.jpg

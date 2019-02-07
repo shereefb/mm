@@ -3,7 +3,7 @@ title: Resisting addiction
 permalink: /lover/east/skill/resisting_addiction
 archetype: Lover
 category: Lover
-direction: Skill
+direction: East
 type: Skill
 type_general: East
 image: /images/back/resisting_addiction.jpg

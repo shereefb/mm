@@ -34,23 +34,27 @@ end
 
 def filename(node)
   ancestors = node.ancestors.reverse[4..10]
-  ancestors.collect{ |n| to_url(n["text"]) }.join("_") + "_#{to_url(node["text"])}"
+  (ancestors << node).collect{ |n| to_url(n["text"]) }.join("_")
 end
 
-def archetype(ancestors)
+def archetype(node)
+  ancestors = node.ancestors.reverse[4..10]
+  return "Menu" if ancestors.length < 1 && !node["_note"]
   ancestors[0]["text"]
 end
 
-def direction(ancestors)
-  return if ancestors.length < 3
-    ancestors[2]["text"] if ancestors[1]["text"] != "Archetype"
+def direction(node)
+  ancestors = node.ancestors.reverse[4..10]
+  return if ancestors.length < 2
+  ancestors[1]["text"] if ancestors[1]["text"] != "Archetype"
 end
 
 def image(title)
 end
 
-def type(ancestors,generalize=false)
-  return "Menu" if ancestors.length < 3
+def type(node,generalize=false)
+  ancestors = node.ancestors.reverse[4..10]
+  return "Menu" if ancestors.length < 3 && !node["_note"]
   return "Archetype" if ancestors[1]["text"] == "Archetype"
   generalize ? ancestors[1]["text"] : ancestors[2]["text"]
 end
@@ -75,10 +79,10 @@ def generate (node,ancestors)
   @title = node["text"]
   @draft = @description.nil? || (@description.include? "#draft")
   @permalink = permalink(node)
-  @archetype = archetype(ancestors)
-  @direction = direction(ancestors)
-  @type = type(ancestors,false)
-  @type_general = type(ancestors,true)
+  @archetype = archetype(node)
+  @direction = direction(node)
+  @type = type(node,false)
+  @type_general = type(node,true)
 
   puts "Generating" + "    " + @title + "  \t\t\t\t  " + ancestors.collect{ |n| n["text"] }.join(":")
 
@@ -114,14 +118,15 @@ end
 def generate_all
   @doc = Nokogiri::XML(File.open($SOURCE))
   # @doc.css("outline[_note]").each do |node|
-  @doc.css("outline[text]").each do |node|
+  @doc.css("outline").each do |node|
 
-    @ancestors = node.ancestors.reverse[4..10]
+    @ancestors = node.ancestors.reverse[3..10]
 
     next unless @ancestors
     next unless @ancestors[0]
+    next if node["text"].start_with?("_")
 
-    if @ancestors[0]["text"].start_with?("_")
+    if @ancestors.length > 1 && @ancestors[1]["text"].start_with?("_")
       puts "skipping #{node["text"]}"
     else
       generate(node, @ancestors)

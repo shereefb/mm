@@ -3,6 +3,7 @@ title: Skill
 permalink: /lover/north/skill
 archetype: Lover
 category: Lover
+direction: North
 type: Menu
 type_general: Menu
 image: /images/back/skill.jpg

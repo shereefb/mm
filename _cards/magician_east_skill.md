@@ -3,6 +3,7 @@ title: Skill
 permalink: /magician/east/skill
 archetype: Magician
 category: Magician
+direction: East
 type: Menu
 type_general: Menu
 image: /images/back/skill.jpg

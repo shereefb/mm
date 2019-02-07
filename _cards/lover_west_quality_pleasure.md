@@ -3,7 +3,7 @@ title: Pleasure
 permalink: /lover/west/quality/pleasure
 archetype: Lover
 category: Lover
-direction: Quality
+direction: West
 type: Quality
 type_general: West
 image: /images/back/pleasure.jpg

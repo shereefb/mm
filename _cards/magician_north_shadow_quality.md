@@ -3,6 +3,7 @@ title: Shadow Quality
 permalink: /magician/north/shadow_quality
 archetype: Magician
 category: Magician
+direction: North
 type: Menu
 type_general: Menu
 image: /images/back/shadow_quality.jpg

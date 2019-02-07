@@ -3,7 +3,7 @@ title: Creativity
 permalink: /magician/west/quality/creativity
 archetype: Magician
 category: Magician
-direction: Quality
+direction: West
 type: Quality
 type_general: West
 image: /images/back/creativity.jpg

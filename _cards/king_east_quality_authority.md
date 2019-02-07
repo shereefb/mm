@@ -3,7 +3,7 @@ title: Authority
 permalink: /king/east/quality/authority
 archetype: King
 category: King
-direction: Quality
+direction: East
 type: Quality
 type_general: East
 image: /images/back/authority.jpg

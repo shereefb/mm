@@ -3,7 +3,7 @@ title: Wandering
 permalink: /warrior/east/quality/wandering
 archetype: Warrior
 category: Warrior
-direction: Quality
+direction: East
 type: Quality
 type_general: East
 image: /images/back/wandering.jpg

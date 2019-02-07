@@ -3,7 +3,7 @@ title: Sensuality
 permalink: /lover/west/quality/sensuality
 archetype: Lover
 category: Lover
-direction: Quality
+direction: West
 type: Quality
 type_general: West
 image: /images/back/sensuality.jpg

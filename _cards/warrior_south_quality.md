@@ -3,6 +3,7 @@ title: Quality
 permalink: /warrior/south/quality
 archetype: Warrior
 category: Warrior
+direction: South
 type: Menu
 type_general: Menu
 image: /images/back/quality.jpg
