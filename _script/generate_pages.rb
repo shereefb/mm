@@ -47,14 +47,14 @@ def type(ancestors,generalize=false)
   generalize ? ancestors[1]["text"] : ancestors[2]["text"]
 end
 
-def menu(node, ancestors, permalink, depth)
+def menu(node,depth)
   out = ""
   space = "  " * depth
   if node.children
     node.children.each  do |child|
       if child["text"]
-        out += space + "- " + child["text"] + "\n"
-        out += menu(child, ancestors, permalink, depth + 1) if child.children
+        out += space + "- [#{child["text"]}](#{permalink(child.ancestors.reverse[4..10],child["text"])})\n"
+        out += menu(child, depth + 1) if child.children
      end
     end
   end
@@ -98,7 +98,7 @@ def generate (node,ancestors)
   # f.write("##{@title}\n")
   f.write("#{@description}\n")
   f.write("---\n")
-  f.write(menu(node,@ancestors,@permalink,0))
+  f.write(menu(node,0))
   f.close
 end
 

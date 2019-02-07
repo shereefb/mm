@@ -37,10 +37,10 @@ draft: false
 https://charactertherapist.blogspot.com/search/label/Archetypes  
 
 ---
-- Visionary (north)
-- Leader (east)
-- Judge (west)
-- Diplomat (south)
-- Peace Maker (south)
-- Ruler (west)
-- Cheif
+- [Visionary (north)](/king/archetype/mature/mature_king/visionary_(north))
+- [Leader (east)](/king/archetype/mature/mature_king/leader_(east))
+- [Judge (west)](/king/archetype/mature/mature_king/judge_(west))
+- [Diplomat (south)](/king/archetype/mature/mature_king/diplomat_(south))
+- [Peace Maker (south)](/king/archetype/mature/mature_king/peace_maker_(south))
+- [Ruler (west)](/king/archetype/mature/mature_king/ruler_(west))
+- [Cheif](/king/archetype/mature/mature_king/cheif)

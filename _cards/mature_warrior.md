@@ -32,10 +32,10 @@ draft: false
 **Power Animal:** Tiger   
 **Qualities:** Honesty, Ruthlessness, Exploration, Destruction, Discipline, Courage, Strength, Vulnerability, Focus, Strength, Grit, Resilience, Discernment, Decisive
 ---
-- Activist (north)
-- Revolutionary (west)
-- Athelete
-- Hero (north)
-- Rebel (south)
-- Explorer (south)
-- Monk (east)
+- [Activist (north)](/warrior/archetype/mature/mature_warrior/activist_(north))
+- [Revolutionary (west)](/warrior/archetype/mature/mature_warrior/revolutionary_(west))
+- [Athelete](/warrior/archetype/mature/mature_warrior/athelete)
+- [Hero (north)](/warrior/archetype/mature/mature_warrior/hero_(north))
+- [Rebel (south)](/warrior/archetype/mature/mature_warrior/rebel_(south))
+- [Explorer (south)](/warrior/archetype/mature/mature_warrior/explorer_(south))
+- [Monk (east)](/warrior/archetype/mature/mature_warrior/monk_(east))
