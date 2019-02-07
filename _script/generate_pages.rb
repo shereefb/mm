@@ -27,8 +27,9 @@ def to_url(string)
   string.downcase.gsub(" ","_")
 end
 
-def permalink(ancestors,title)
-  "/" + ancestors.collect{ |n| to_url(n["text"]) }.join("/") + "/#{to_url(title)}"
+def permalink(node)
+  ancestors = node.ancestors.reverse[4..10]
+  "/" + ancestors.collect{ |n| to_url(n["text"]) }.join("/") + "/#{to_url(node["text"])}"
 end
 
 def archetype(ancestors)
@@ -53,7 +54,7 @@ def menu(node,depth)
   if node.children
     node.children.each  do |child|
       if child["text"]
-        out += space + "- [#{child["text"]}](#{permalink(child.ancestors.reverse[4..10],child["text"])})\n"
+        out += space + "- [#{child["text"]}](#{permalink(child)})\n"
         out += menu(child, depth + 1) if child.children
      end
     end
@@ -66,7 +67,7 @@ def generate (node,ancestors)
   @description = node["_note"]
   @title = node["text"]
   @draft = @description.include? "#draft"
-  @permalink = permalink(ancestors,@title)
+  @permalink = permalink(node)
   @archetype = archetype(ancestors)
   @direction = direction(ancestors)
   @type = type(ancestors,false)
