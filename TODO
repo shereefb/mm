@@ -1,3 +1,5 @@
+
+
 Better breadcrumbs (fix links and create internal menu pages?)
 
 Figure out better colorscheme
@@ -21,3 +23,5 @@ Figure out a way for side navigation to only pickup pages with content in them
 Consider generating the breadcrumbs in the page itself?
 
 If there's content, search in it for all node names and titles (aliases?) and link to them so that content is cross-linked.
+
+Page we're on gets highlighted in side-bar navigation
