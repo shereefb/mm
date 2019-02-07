@@ -3,6 +3,7 @@ title: Guilt
 permalink: /king/north/shadow_quality/guilt
 archetype: King
 category: King
+direction: Shadow Quality
 type: Shadow Quality
 type_general: North
 image: /images/back/guilt.jpg

@@ -3,6 +3,7 @@ title: Facing Failure
 permalink: /magician/south/skill/facing_failure
 archetype: Magician
 category: Magician
+direction: Skill
 type: Skill
 type_general: South
 image: /images/back/facing_failure.jpg

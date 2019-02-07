@@ -3,10 +3,12 @@ title: Care Giver (south)
 permalink: /lover/archetype/mature/mature_lover/care_giver_(south)
 archetype: Lover
 category: Lover
-type: 
-type_general: 
+type: Archetype
+type_general: Archetype
 image: /images/back/care_giver_(south).jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
   

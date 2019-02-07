@@ -3,10 +3,12 @@ title: Hero (north)
 permalink: /warrior/archetype/mature/mature_warrior/hero_(north)
 archetype: Warrior
 category: Warrior
-type: 
-type_general: 
+type: Archetype
+type_general: Archetype
 image: /images/back/hero_(north).jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
   

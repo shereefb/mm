@@ -3,10 +3,12 @@ title: Addict
 permalink: /lover/archetype/shadow/addict
 archetype: Lover
 category: Lover
-type: 
-type_general: 
+type: Archetype
+type_general: Archetype
 image: /images/back/addict.jpg
 draft: false
+toc: true
+toc_label: Quick Jump
 ---
  The Addict is a lover who is avoiding pain and focused on the outside world for pleasure. He's always restless, and always searching for something "more." He is hungry to experience the next thing, and doesn't accept limit on his pleasure or recognize healthy boundaries.  
   

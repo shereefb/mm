@@ -3,6 +3,7 @@ title: Keeping Agreements
 permalink: /warrior/north/skill/keeping_agreements
 archetype: Warrior
 category: Warrior
+direction: Skill
 type: Skill
 type_general: North
 image: /images/back/keeping_agreements.jpg

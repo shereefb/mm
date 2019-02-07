@@ -3,10 +3,12 @@ title: Dummy
 permalink: /magician/archetype/shadow/dummy
 archetype: Magician
 category: Magician
-type: 
-type_general: 
+type: Archetype
+type_general: Archetype
 image: /images/back/dummy.jpg
 draft: false
+toc: true
+toc_label: Quick Jump
 ---
  The Dummy is a Magician that doesn't want the responsibility that comes from the knowledge. He doesn't want to share, teach or help others. He does not want to do the work to steward a sacred space, or to know himself.  
   

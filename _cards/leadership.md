@@ -3,6 +3,7 @@ title: Leadership
 permalink: /king/east/quality/leadership
 archetype: King
 category: King
+direction: Quality
 type: Quality
 type_general: East
 image: /images/back/leadership.jpg

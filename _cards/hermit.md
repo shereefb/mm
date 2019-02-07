@@ -3,10 +3,12 @@ title: Hermit
 permalink: /lover/archetype/shadow/hermit
 archetype: Lover
 category: Lover
-type: 
-type_general: 
+type: Archetype
+type_general: Archetype
 image: /images/back/hermit.jpg
 draft: false
+toc: true
+toc_label: Quick Jump
 ---
  The Hermit is a Lover who has lost touch with his aliveness and experiences life in an "unfeeling" way. He has a lack of enthusiasm, vividness and vitality. Bored and listless, he is isolated and disconnected from friends and family. He feels cut off from himself, and his heart is closed.   
   

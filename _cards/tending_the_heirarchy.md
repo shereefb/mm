@@ -3,6 +3,7 @@ title: Tending the heirarchy
 permalink: /king/east/skill/tending_the_heirarchy
 archetype: King
 category: King
+direction: Skill
 type: Skill
 type_general: East
 image: /images/back/tending_the_heirarchy.jpg

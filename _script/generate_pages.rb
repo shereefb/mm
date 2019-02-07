@@ -37,14 +37,16 @@ def archetype(ancestors)
 end
 
 def direction(ancestors)
-    ancestors[2]["text"] if ancestors[1]["text"] == "Direction"
+  return if ancestors.length < 3
+    ancestors[2]["text"] if ancestors[1]["text"] != "Archetype"
 end
 
 def image(title)
 end
 
 def type(ancestors,generalize=false)
-  return if "Archetype" if ancestors[1]["text"] == "Archetype"
+  return "Menu" if ancestors.length < 3
+  return "Archetype" if ancestors[1]["text"] == "Archetype"
   generalize ? ancestors[1]["text"] : ancestors[2]["text"]
 end
 
@@ -66,7 +68,7 @@ def generate (node,ancestors)
 
   @description = node["_note"]
   @title = node["text"]
-  @draft = @description.include? "#draft"
+  @draft = @description.nil? || (@description.include? "#draft")
   @permalink = permalink(node)
   @archetype = archetype(ancestors)
   @direction = direction(ancestors)
@@ -106,9 +108,13 @@ end
 
 def generate_all
   @doc = Nokogiri::XML(File.open($SOURCE))
-  @doc.css("outline[_note]").each do |node|
+  # @doc.css("outline[_note]").each do |node|
+  @doc.css("outline[text]").each do |node|
 
     @ancestors = node.ancestors.reverse[4..10]
+
+    next unless @ancestors
+    next unless @ancestors[0]
 
     if @ancestors[0]["text"].start_with?("_")
       puts "skipping #{node["text"]}"

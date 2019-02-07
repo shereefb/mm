@@ -3,6 +3,7 @@ title: Aloneness
 permalink: /lover/north/quality/aloneness_
 archetype: Lover
 category: Lover
+direction: Quality
 type: Quality
 type_general: North
 image: /images/back/aloneness_.jpg

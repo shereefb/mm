@@ -3,10 +3,12 @@ title: Bully
 permalink: /warrior/archetype/shadow/bully
 archetype: Warrior
 category: Warrior
-type: 
-type_general: 
+type: Archetype
+type_general: Archetype
 image: /images/back/bully.jpg
 draft: false
+toc: true
+toc_label: Quick Jump
 ---
  The Bully is a Warrior who loses touch with his vulnerability and his sensitivity. He has the false belief that Courage means not being afraid, so he pretends not to be afraid and tries to control his feelings. Instead of using his strength and agressiveness to serve the realm, he uses them to only serve his own interests. His anger becomes violent, and his actions cause unnecessary pain and suffering in others.   
   

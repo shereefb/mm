@@ -3,6 +3,7 @@ title: Strengthening the body
 permalink: /warrior/west/skill/strengthening_the_body
 archetype: Warrior
 category: Warrior
+direction: Skill
 type: Skill
 type_general: West
 image: /images/back/strengthening_the_body.jpg

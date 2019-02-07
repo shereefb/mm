@@ -9,14 +9,14 @@
   </head>
   <body>
     <outline text="Mature Masculine">
-      <outline text="_Todo">
+      <outline text="_Todo" collapsed="true">
         <outline text="Add element and body-part images to directions"/>
         <outline text="Victim qualities?">
           <outline text="Self pity"/>
         </outline>
         <outline text="False: King qualities? Self importance?"/>
       </outline>
-      <outline text="King">
+      <outline text="King" collapsed="true">
         <outline text="Archetype" collapsed="true">
           <outline text="Mature">
             <outline text="Mature King" _note=" The King in his fullness brings order, and fertility to the realm. He stabilizes chaotic emotion and provides centerdness to others. He brings calm and balance. Defends the integrity of being and purpose, and provides a sense of order. The mature King looks to the world with a firm and kind eye. He sees others in all their weakness and their talent and worth. He honors, promotes them, and guides them towards their potential. He rewards and encourages. He embodies true authority.   &#10;  &#10;  &#10;## Mature Declarations    &#10;- I take full responsibility for as much as I can. This gives meaning and purpose to my life.   &#10;- I use my power to serve everyone with fairness and wisdom.   &#10;- I serve the realm by providing for it, and bringing order to it.   &#10;- I inspire and bless my people and my realm.  &#10;- I balance order and chaos, making sure one does not defeat the other.   &#10;- I create and negotiate agreements.   &#10;- I define purpose, principle and meaning.  &#10;- I do what&apos;s needed for the present and the future. I order time and prioritize.  &#10;- I protect the legacy of my elders and pass it on.   &#10;- I grapple with good and evil inside my own heart.  &#10;- I make room for the other archetupes. Build a temple for the priest, carve out time for the lover, and provide tools for the magician.   &#10;- I resolve conflict with fairness and justice.  &#10;- I define, negotiate and clarify the boundaries of my realm.   &#10;- I set healthy limits for myself and others.   &#10;  &#10;**Balance:** Chaos &lt;--&gt; Order    &#10;**Shadow:** Tyrant &amp; Weakling    &#10;**Power Animal:** Eagle    &#10;**Qualities:** Power, Leadership, Clarity, Balance, Generosity, Justice, Order, Responsibility, Compassion, Dignity, Wisdom, Integrity, Stability, Centerdness, Authority  &#10;  &#10;---  &#10;  &#10;https://charactertherapist.blogspot.com/search/label/Archetypes  &#10;">
@@ -79,7 +79,7 @@
           <outline text="Skill">
             <outline text="Resolving Conflict" _note="#draft   &#10;Level 1: resolving conflicts im in  &#10;level 2: resolving conflicts for others I know and love.   &#10;level 3: resolving conflicts in the world"/>
             <outline text="Considering all needs"/>
-            <outline text="Understanding/Respecting limits of power"/>
+            <outline text="Respecting limits of power"/>
           </outline>
         </outline>
         <outline text="West" collapsed="true">
@@ -101,7 +101,7 @@
           </outline>
         </outline>
       </outline>
-      <outline text="Warrior">
+      <outline text="Warrior" collapsed="true">
         <outline text="Archetype" collapsed="true">
           <outline text="Mature">
             <outline text="Mature Warrior" _note=" The Mature Warrior has an aggressive stance towards life that rouses, energizes, and motivates. He pushes to take an offensive position with life&apos;s problems and challenges. The warrior is always alert with a focused mind and a strong body. He is a hunter and explorer. He has a brave and unconquerable spirit. He is loyal to something greater than himself.   &#10;  &#10;  &#10;## Mature Declarations  &#10;- I use force to protect the realm, its order, boundaries and agreements.   &#10;- I love peace, and fight for it.   &#10;- I don&apos;t make enemies, or look for them.   &#10;- I know how to have healthy anger, and translate it to strong action.   &#10;- I persist. I give it my all and always do my best.   &#10;- I train to acquire skill, strength, control and accuracy.   &#10;- I am Anti-fragile: Every battle makes me stronger.   &#10;- I destroy what needs to be destroyed.   &#10;- I tell the truth. I confront falsehood, lies, and broken agreements.   &#10;-  I am vulnerable. I keep my heart open and let it guide me.  &#10;- I spend the least amount of energy, for the most amount of impact.   &#10;- I develop control and mastery over my mind and body through self-discipline.   &#10;- I have the capacity to withstand pain, both psychological and physcial.   &#10;- I am willing to suffer to achieve what I want.   &#10;  &#10;**Balance:** Strength &lt;--&gt; Vulnerability   &#10;**Shadow:** Bully &amp; Victim  &#10;**Power Animal:** Tiger   &#10;**Qualities:** Honesty, Ruthlessness, Exploration, Destruction, Discipline, Courage, Strength, Vulnerability, Focus, Strength, Grit, Resilience, Discernment, Decisive" collapsed="true">
@@ -194,7 +194,7 @@
           </outline>
         </outline>
       </outline>
-      <outline text="Magician">
+      <outline text="Magician" collapsed="true">
         <outline text="Archetype" collapsed="true">
           <outline text="Mature">
             <outline text="Mature Magician" _note=" The Mature Magician is the knower and the master of technology. He guides the process of transformation, both within and without, by using ritual and ceremony. He is initiated into secret and hidden knowledge of all kinds by other Magicians. All knowledge that takes special training to acquire is the province of the Magician. He has insight, and connects the hidden world and the visible world with his knowledge. He uses this knowledge for the benefit of the realm.  &#10;  &#10;  &#10;## Mature Declarations  &#10;- I use my brilliance, creativity, knowledge, and skills to guide others and serve something greater than myself.   &#10;- I don&apos;t know everything, but I can figure it out.   &#10;- My purpose is to master transformation and to bridge the manifest and unmanifest worlds.  &#10;- I am thoughtful, reflective, and emotionally detached.  &#10;- I feed my spirit by connecting to nature and to the divine. I use this connection to heal others and help them get back into connection.   &#10;- I love building, creating, making music, art, and making something out of nothing.   &#10;- I compare myself to my past self, and I&apos;m always improving my skills. Every mistake makes me more competent.   &#10;- I love learning and teaching. I honor my teachers, and return their gift by teaching others.   &#10;- Sometimes I succeed, sometimes I fail, but I&apos;m always learning, growing, and transforming.  &#10;- I guide others, teach them, and initiate them to share my knowledge.  &#10;- I steward sacred space.  &#10;  &#10;**Balance:** Knowledge &lt;--&gt; Mystery  &#10;**Shadow:** Manipulator, Dummy  &#10;**Power Animal:** Pheonix  &#10;**Qualities:** Curiosity, Knowledge, Confidence, Mastery, Transformation, Creativity, Spirituality, Beginner&apos;s Mind  &#10;  &#10;---  &#10;  &#10;Motto: I make things happen.  &#10;Core desire: understanding the fundamental laws of the universe  &#10;Goal: to make dreams come true  &#10;Greatest fear: unintended negative consequences  &#10;Strategy: develop a vision and live by it  &#10;Weakness: becoming manipulative  &#10;Talent: finding win-win solutions  &#10;The Magician is also known as:The visionary, catalyst, inventor, charismatic leader, shaman, healer, medicine man.  &#10;  &#10;https://charactertherapist.blogspot.com/2013/06/character-archetypes-101-magician.html  &#10;">

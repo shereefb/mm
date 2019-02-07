@@ -3,6 +3,7 @@ title: Joy
 permalink: /lover/south/quality/joy
 archetype: Lover
 category: Lover
+direction: Quality
 type: Quality
 type_general: South
 image: /images/back/joy.jpg

@@ -3,6 +3,7 @@ title: Aliveness
 permalink: /lover/east/quality/aliveness
 archetype: Lover
 category: Lover
+direction: Quality
 type: Quality
 type_general: East
 image: /images/back/aliveness.jpg

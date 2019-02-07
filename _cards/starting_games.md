@@ -3,6 +3,7 @@ title: Starting Games
 permalink: /lover/east/skill/starting_games
 archetype: Lover
 category: Lover
+direction: Skill
 type: Skill
 type_general: East
 image: /images/back/starting_games.jpg

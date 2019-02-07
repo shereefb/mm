@@ -3,6 +3,7 @@ title: Self-Worth
 permalink: /warrior/south/quality/self-worth
 archetype: Warrior
 category: Warrior
+direction: Quality
 type: Quality
 type_general: South
 image: /images/back/self-worth.jpg

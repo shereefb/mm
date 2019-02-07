@@ -3,6 +3,7 @@ title: Wisdom
 permalink: /king/west/quality/wisdom
 archetype: King
 category: King
+direction: Quality
 type: Quality
 type_general: West
 image: /images/back/wisdom.jpg

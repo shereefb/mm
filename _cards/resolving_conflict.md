@@ -3,6 +3,7 @@ title: Resolving Conflict
 permalink: /king/south/skill/resolving_conflict
 archetype: King
 category: King
+direction: Skill
 type: Skill
 type_general: South
 image: /images/back/resolving_conflict.jpg

@@ -3,6 +3,7 @@ title: Care Giving
 permalink: /magician/south/skill/care_giving
 archetype: Magician
 category: Magician
+direction: Skill
 type: Skill
 type_general: South
 image: /images/back/care_giving.jpg

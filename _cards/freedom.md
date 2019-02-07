@@ -3,6 +3,7 @@ title: Freedom
 permalink: /lover/east/quality/freedom
 archetype: Lover
 category: Lover
+direction: Quality
 type: Quality
 type_general: East
 image: /images/back/freedom.jpg

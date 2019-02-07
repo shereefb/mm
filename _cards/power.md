@@ -3,6 +3,7 @@ title: Power
 permalink: /king/east/quality/power
 archetype: King
 category: King
+direction: Quality
 type: Quality
 type_general: East
 image: /images/back/power.jpg

@@ -3,6 +3,7 @@ title: Confidence
 permalink: /magician/south/quality/confidence
 archetype: Magician
 category: Magician
+direction: Quality
 type: Quality
 type_general: South
 image: /images/back/confidence.jpg

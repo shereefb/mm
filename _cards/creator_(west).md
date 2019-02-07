@@ -3,10 +3,12 @@ title: Creator (west)
 permalink: /magician/archetype/mature/mature_magician/creator_(west)
 archetype: Magician
 category: Magician
-type: 
-type_general: 
+type: Archetype
+type_general: Archetype
 image: /images/back/creator_(west).jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 - Master of technology  

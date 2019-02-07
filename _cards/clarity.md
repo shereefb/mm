@@ -3,6 +3,7 @@ title: Clarity
 permalink: /king/north/quality/clarity
 archetype: King
 category: King
+direction: Quality
 type: Quality
 type_general: North
 image: /images/back/clarity.jpg

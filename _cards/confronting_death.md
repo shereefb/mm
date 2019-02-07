@@ -3,6 +3,7 @@ title: Confronting Death
 permalink: /warrior/west/skill/confronting_death
 archetype: Warrior
 category: Warrior
+direction: Skill
 type: Skill
 type_general: West
 image: /images/back/confronting_death.jpg

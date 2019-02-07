@@ -3,6 +3,7 @@ title: Dignity
 permalink: /king/west/quality/dignity
 archetype: King
 category: King
+direction: Quality
 type: Quality
 type_general: West
 image: /images/back/dignity.jpg

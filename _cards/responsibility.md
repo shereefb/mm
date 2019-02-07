@@ -3,6 +3,7 @@ title: Responsibility
 permalink: /king/west/quality/responsibility
 archetype: King
 category: King
+direction: Quality
 type: Quality
 type_general: West
 image: /images/back/responsibility.jpg

@@ -3,6 +3,7 @@ title: Providing
 permalink: /king/west/skill/providing
 archetype: King
 category: King
+direction: Skill
 type: Skill
 type_general: West
 image: /images/back/providing.jpg

@@ -3,6 +3,7 @@ title: Balance Order and Chaos
 permalink: /king/north/quality/balance_order_and_chaos
 archetype: King
 category: King
+direction: Quality
 type: Quality
 type_general: North
 image: /images/back/balance_order_and_chaos.jpg

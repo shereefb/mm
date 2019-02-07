@@ -3,10 +3,12 @@ title: Healer (south)
 permalink: /magician/archetype/mature/mature_magician/healer_(south)
 archetype: Magician
 category: Magician
-type: 
-type_general: 
+type: Archetype
+type_general: Archetype
 image: /images/back/healer_(south).jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 - Inspires others to heal themselves.  

@@ -3,6 +3,7 @@ title: Challenge
 permalink: /warrior/west/quality/challenge
 archetype: Warrior
 category: Warrior
+direction: Quality
 type: Quality
 type_general: West
 image: /images/back/challenge.jpg

@@ -3,6 +3,7 @@ title: Internalizing Authority
 permalink: /magician/east/skill/internalizing_authority
 archetype: Magician
 category: Magician
+direction: Skill
 type: Skill
 type_general: East
 image: /images/back/internalizing_authority.jpg

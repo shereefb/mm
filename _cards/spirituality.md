@@ -3,6 +3,7 @@ title: Spirituality
 permalink: /magician/east/quality/spirituality
 archetype: Magician
 category: Magician
+direction: Quality
 type: Quality
 type_general: East
 image: /images/back/spirituality.jpg

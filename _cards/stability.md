@@ -3,6 +3,7 @@ title: Stability
 permalink: /king/west/quality/stability
 archetype: King
 category: King
+direction: Quality
 type: Quality
 type_general: West
 image: /images/back/stability.jpg
