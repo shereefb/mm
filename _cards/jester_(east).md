@@ -1,11 +1,11 @@
 ---
-title: Jester (east?)
-permalink: /lover/archetype/mature/mature_lover/jester_(east?)
+title: Jester (east)
+permalink: /lover/archetype/mature/mature_lover/jester_(east)
 archetype: Lover
 category: Lover
 type: Mature
 type_general: Archetype
-image: /images/back/jester_(east?).jpg
+image: /images/back/jester_(east).jpg
 draft: true
 toc: true
 toc_label: Quick Jump
