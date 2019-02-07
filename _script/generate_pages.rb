@@ -4,7 +4,7 @@ require 'fileutils'
 
 $Directory = "../_cards"
 $SOURCE = "processed.OPML"
-$RAW = "dynalist-2019-2-7b.opml"
+$RAW = "dynalist-2019-2-7.opml"
 
 def prepare_input
   raw = File.open($RAW, "r")
