@@ -12,3 +12,4 @@ draft: true
 victim's body no strength, just flexibility  
 bully strength without flexibility. overrides body's limits  
 mature warrior: flexible strength. learns to stretch. listens to the body's limits
+---

@@ -16,3 +16,4 @@ Doesn't come together to get rid of aloneness. but to witness it and be witnesse
 True intimacy respects the aloneness  
 ---  
 Respect your child's aloneness
+---

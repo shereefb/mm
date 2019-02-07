@@ -29,3 +29,4 @@ Strategy: to do things right
 Weakness: boring for all their naive innocence  
 Talent: faith and optimism  
 The Innocent is also known as: Utopian, traditionalist, naive, mystic, saint, romantic, dreamer.
+---

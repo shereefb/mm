@@ -34,3 +34,4 @@ If a Warrior is stuck in Bully energy, he can call on the gift of the Victim's v
   
 **Off Balance:** In touch with vulnerability but loses touch with strength.  
 **Qualities:** Self-pity. Pathetic. Whining. Complaining. Passive-Agressive.
+---

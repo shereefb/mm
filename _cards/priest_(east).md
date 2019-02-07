@@ -14,3 +14,4 @@ draft: true
 - Tends sacred space.   
 - Embodies the divine.   
 - Masters ceremony. 
+---

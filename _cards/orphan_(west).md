@@ -28,3 +28,4 @@ https://www.learning-mind.com/12-archetypes/
   
 https://charactertherapist.blogspot.com/2013/04/character-archetypes-101-orphan.html  
 
+---

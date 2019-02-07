@@ -37,3 +37,4 @@ When the Magician is in his Dummy shadow, he needs the gift of my confidence to 
 ----  
   
 Trickster
+---

@@ -10,3 +10,4 @@ draft: true
 ---
 #draft   
 dummy wants to know everything before deciding. is paralized by the unkown.
+---

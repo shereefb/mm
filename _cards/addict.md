@@ -34,3 +34,4 @@ When the Lover is in the Hermit shadow, he needs the passion and outward focus o
   
 **Off Balance:** Aliveness without groundedness makes the addict volatile and unhinged.  
 **Qualities:** Volatility. Restlessness. Obsession. Mania
+---

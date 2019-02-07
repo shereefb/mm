@@ -10,3 +10,4 @@ draft: true
 ---
 #draft   
 Every day, do something that increases your measure of self worth. 
+---

@@ -33,3 +33,4 @@ When the King is in Tyrant shadow, he needs the gift of my vulnerability. I help
   
 **Off Balance:** Lets Chaos reign through powerlessness to bring Order  
 **Qualities:** Guilt, Helplessness, Powerlessness, Avoidance
+---

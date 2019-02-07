@@ -12,3 +12,4 @@ draft: true
 manipulator collects information. thinks he is the authority  
 mature knows that knowledge is stored in the body. internalizes authority  
 dummy externalizes authority, and abdicates his own knowledge. 
+---

@@ -32,3 +32,4 @@ If a Warrior is stuck in Victim energy, they need the gift of the bully's explos
   
 **Off Balance:** Tries to override vulnerability with Strength  
 **Qualities:** Unhealthy Anger, Forcing, Coersion, Cruelty, Violence
+---

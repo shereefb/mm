@@ -9,3 +9,4 @@ image: /images/back/embracing_the_unkowng.jpg
 draft: true
 ---
 #draft Figuring things out
+---

@@ -34,3 +34,4 @@ When the King is in his Weakling shadow, I let him feel my power and hatred to b
   
 **Off Balance:** Tries to make Order defeat Chaos through control  
 **Qualities:** Blame, Self-importance, Hatred
+---

@@ -21,3 +21,4 @@ A Lover's sensitive heart allows him to feel life's energy and passion, and his 
 Depression tries to ground us, remind us to connect to the earth. Mania reminds us to be alive. Balancing both brings us the aliveness of the lover.   
   
 The Lover appreciates life, because he respects death. Death reminds him how precious life is, and how short. The addict pretends death doesn't no exist. The hermit, lives in the shadow of death and has given up on life. The Lover remembers death, and lives life fully because of it. 
+---

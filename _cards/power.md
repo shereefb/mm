@@ -29,3 +29,4 @@ When the Weakling avoids owning his power he acts "nice" and pretends to like th
 When the King lets his power fill his body, mind, and heart, he is peaceful and centered. Pure power doesn't hurt anyone. It does not attack or violate others, and does not allow others to attack or violate. Mature King power creates true peace.  
   
 
+---

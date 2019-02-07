@@ -35,3 +35,4 @@ When the Magician is in the Manipulator shadow, he needs the gift of "beginner's
   
 **Off Balance:** Believes that the mystery is too much and loses touch with his capacity to know.  
 **Qualities:** Ignorance. False Humility. Lack of curiosity. Fear of failure.
+---

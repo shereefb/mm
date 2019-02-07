@@ -24,3 +24,4 @@ The Caregiver is also known as: The saint, altruist, parent, helper, supporter.
 https://charactertherapist.blogspot.com/2013/04/character-archetypes-101-caregiver.html  
   
 
+---

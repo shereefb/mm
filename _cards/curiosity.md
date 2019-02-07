@@ -21,3 +21,4 @@ The Manipulator is focused on having answers, because he is afraid of the myster
   
 When exploring with other people, the mature Magician always assumes other people know something that he doesn't. He tries to learn from them. The Manipulator thinks that he knows it all. He doesn't listen or ask questions, and just wants to show off what he knows. The Dummy doesn't want to reveal there's something he doesn't know, and doesn't share his knowledge because he feels insecure.  
 
+---

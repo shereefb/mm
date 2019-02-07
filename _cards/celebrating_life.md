@@ -9,3 +9,4 @@ image: /images/back/celebrating_life.jpg
 draft: true
 ---
 #draft pic
+---

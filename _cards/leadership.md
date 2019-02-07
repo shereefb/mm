@@ -18,3 +18,4 @@ draft: true
  The processor: leadership as an exercise in efficiency. These executives like organizations to be smoothly running, well-oiled machines. They are very effective at setting up the structures and systems needed to support an organization’s objectives.  
  The coach: leadership as a form of people development. These executives know how to get the best out of people, thus creating high performance cultures.  
  The communicator: leadership as stage management. These executives are great influencers, and have a considerable impact on their surroundings.
+---

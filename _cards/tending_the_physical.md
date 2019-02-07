@@ -12,3 +12,4 @@ draft: true
 level 1: responsibility for all my physical.   
 Level 2: tending the shared commons   
 level 3: tending past the shared commons. 
+---

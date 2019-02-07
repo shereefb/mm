@@ -12,3 +12,4 @@ draft: true
 in touch with the miracle of life.   
 hermit becomes overwhelmed  
 addict loses wonder in the every day life and seeks novelty
+---

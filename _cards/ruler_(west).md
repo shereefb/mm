@@ -25,3 +25,4 @@ The ruler loves to be in control. They often have a clear vision of what will wo
   
 Goal: create a prosperous, successful family or communityFear: chaos, being undermined or overthrownWeakness: being authoritarian, unable to delegateTalent: responsibility, leadership  
 https://www.learning-mind.com/12-archetypes/2
+---

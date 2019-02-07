@@ -45,3 +45,8 @@ The Lover is also known as: The partner, friend, intimate, enthusiast, sensualis
   
 https://charactertherapist.blogspot.com/2013/05/character-archetypes-101-lover.html  
 
+---
+- Innocent (north)
+- Jester (east)
+- Orphan (west)
+- Care Giver (south)

@@ -34,3 +34,4 @@ When the Lover is in the Addict shadow, he needs the groundedness and inner focu
   
 **Off Balance:** Groundedness without Aliveness makes the Hermit depressed and lacking aliveness.  
 **Qualities:** Depression. Flatness. Sterility. Impotence. Boredom. 
+---

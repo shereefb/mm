@@ -25,3 +25,4 @@ https://charactertherapist.blogspot.com/2013/06/archetypes-101-sage.html
 The sage values ideas above all else. However, they can sometimes become frustrated at not being able to know everything about the world. Sages are good listeners and often have the ability to make complicated ideas easy for others to understand. They can often be found in teaching roles.  
 Goal: to use wisdom and intelligence to understand the world and teach othersFear: being ignorant, or being perceived as stupidWeakness: can be unable to make a decision as never believe they have enough informationTalent: wisdom, intelligence and curiosity   
 https://www.learning-mind.com/12-archetypes/2
+---

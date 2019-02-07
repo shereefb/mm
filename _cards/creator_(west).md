@@ -32,3 +32,4 @@ https://www.learning-mind.com/12-archetypes/2
   
 https://charactertherapist.blogspot.com/2013/06/character-archetypes-101-creator.html  
 
+---

@@ -47,3 +47,4 @@ Almaas: I was sure that question would come up. That question is probably arisin
 incomplete awareness, incomplete knowledge of what is there. This will often arise because you rarely know everything about a situation. That is exactly when the attitude of impeccability is needed. It is not to be perfect, but to do your best to act according to all the wisdom, all the understanding, all the experience, all the awareness, all the will that you have.~ A.H. Almaas  
   
 | To be impeccable at that moment is to do all that you can do to pay attention, to use whatever you have learned, especially at those times when you know you have a tendency not to pay attention. Your knowledge is not perfect, not complete, but you use what you know, the best techniques you have, the best attitude you have, the best understanding you have, and apply it right then. ~ A.H. Almaas
+---

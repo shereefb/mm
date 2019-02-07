@@ -27,3 +27,4 @@ The Mature King understands that the more he is responsible for others, the free
 - Don't do something for someone that they can do for themselves  
 - Expand your realm every day by increasing what you're responsible for  
 - Respect other's freedom to live their lives and make their own choices
+---

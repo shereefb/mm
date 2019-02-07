@@ -9,3 +9,4 @@ image: /images/back/determining_with_spirit.jpg
 draft: true
 ---
 #draft pic
+---

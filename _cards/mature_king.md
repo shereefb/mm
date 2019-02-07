@@ -36,3 +36,11 @@ draft: false
   
 https://charactertherapist.blogspot.com/search/label/Archetypes  
 
+---
+- Visionary (north)
+- Leader (east)
+- Judge (west)
+- Diplomat (south)
+- Peace Maker (south)
+- Ruler (west)
+- Cheif

@@ -9,3 +9,4 @@ image: /images/back/developing_&_sharing_skills.jpg
 draft: true
 ---
 #draft Concentration, Efficiency
+---

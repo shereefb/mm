@@ -13,3 +13,4 @@ draft: true
 |"The biggest mistake you can make is being too afraid to make one."  
   
 Every mistake makes me more competent. manipulator tries to not make mistakes by being always right. dummy is afraid of mistakes and so doesn't learn. 
+---

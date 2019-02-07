@@ -9,3 +9,4 @@ image: /images/back/groundedness.jpg
 draft: true
 ---
 #draft grounded in body. connected to earth.
+---

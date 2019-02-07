@@ -10,3 +10,4 @@ draft: true
 ---
 #draft   
 Is from experienced. Embodied knowledge. Different than smart or intelligent. 
+---

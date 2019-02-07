@@ -12,3 +12,4 @@ draft: true
 dummy is defeated by paradox  
 manipulator tries to defeat paradox  
 magician lets the paradox live inside him and stretch him
+---

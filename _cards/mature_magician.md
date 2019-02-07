@@ -42,3 +42,10 @@ The Magician is also known as:The visionary, catalyst, inventor, charismatic lea
   
 https://charactertherapist.blogspot.com/2013/06/character-archetypes-101-magician.html  
 
+---
+- Healer (south)
+- Priest (east)
+- Alchemist (east)
+- Creator (west)
+- Image Maker (north)
+- Sage (north)

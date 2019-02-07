@@ -18,3 +18,4 @@ Face adversity and win. Witness self and other. Be in integrity with self and ot
 The mature masculine thrives in a good challenge. It unleashed his potential. Resistance build strength and power. Mature warrior challenges all four archetypes in self and other.   
   
 Also challenges others to grow. In the stretch zone. Doesn’t tear and doesn’t succumb to comfort. 
+---

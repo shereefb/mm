@@ -19,3 +19,4 @@ Remebering free choice is an insife job and accepting and enjouing enjoying life
 Its not not something we earn, or gets given to us or taken away. It’s something we are born with that we need to connect to and recognize.   
   
 Like water I’m free to be myself and respond as myself regardless of the container I’m in. 
+---

@@ -24,3 +24,4 @@ The great question in disappointment is whether we allow it to bring us to groun
   
 Disappointment is a friend to transformation, a call to both accuracy and generosity in the assessment of our self and others, a test of sincerity and a catalyst of resilience. Disappointment is just the initial meeting with the frontier of an evolving life, an invitation to reality, which we expected to be one particular way and turns out to be another, often something more difficult, more overwhelming and strangely, in the end, more rewarding.   
 
+---

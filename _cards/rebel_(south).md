@@ -27,3 +27,4 @@ https://www.learning-mind.com/12-archetypes/
   
 https://charactertherapist.blogspot.com/2013/05/character-archetypes-101-rebel.html  
 
+---

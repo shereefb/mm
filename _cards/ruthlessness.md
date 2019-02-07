@@ -10,3 +10,4 @@ draft: true
 ---
 #draft Not cruelty.  
 Cruelty outwards is bullying. Cruelty inward is victim
+---

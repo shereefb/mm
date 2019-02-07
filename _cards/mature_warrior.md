@@ -31,3 +31,11 @@ draft: false
 **Shadow:** Bully & Victim  
 **Power Animal:** Tiger   
 **Qualities:** Honesty, Ruthlessness, Exploration, Destruction, Discipline, Courage, Strength, Vulnerability, Focus, Strength, Grit, Resilience, Discernment, Decisive
+---
+- Activist (north)
+- Revolutionary (west)
+- Athelete
+- Hero (north)
+- Rebel (south)
+- Explorer (south)
+- Monk (east)

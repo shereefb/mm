@@ -27,3 +27,4 @@ The explorer is never happy unless experiencing new things. They may enjoy visit
 Goal: to experience as much of life as possible in one lifetimeFear: getting trapped or being forced to conformWeakness: aimless wandering and inability to stick at thingsTalent: being true to their own desires and a sense of wonder  
 https://www.learning-mind.com/12-archetypes/  
 
+---

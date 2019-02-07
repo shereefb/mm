@@ -9,3 +9,4 @@ image: /images/back/stability.jpg
 draft: true
 ---
 #draft Centerdeness
+---

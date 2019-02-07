@@ -11,3 +11,4 @@ draft: true
 #draft pic  
 warrior strength from within. sourced in the divine. penetrates with love and truth.   
 bully: phallic strength. stubborn. 
+---

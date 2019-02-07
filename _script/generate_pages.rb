@@ -47,6 +47,19 @@ def type(ancestors,generalize=false)
   generalize ? ancestors[1]["text"] : ancestors[2]["text"]
 end
 
+def menu(node, ancestors, permalink, depth)
+  out = ""
+  space = "  " * depth
+  if node.children
+    node.children.each  do |child|
+      if child["text"]
+        out += space + "- " + child["text"] + "\n"
+        out += menu(child, ancestors, permalink, depth + 1) if child.children
+     end
+    end
+  end
+  out
+end
 
 def generate (node,ancestors)
 
@@ -84,6 +97,8 @@ def generate (node,ancestors)
   f.write("---\n")
   # f.write("##{@title}\n")
   f.write("#{@description}\n")
+  f.write("---\n")
+  f.write(menu(node,@ancestors,@permalink,0))
   f.close
 end
 

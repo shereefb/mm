@@ -19,3 +19,4 @@ dummy hides insecurity with silliness. Feels humiliated by the unknown. Avoids i
 Bully pretends to know. Tries to defeat the unknown. Avoids humiliation.   
   
 Mature lives at the edge of unknown. Trusts that he can learn and can figure things out. 
+---

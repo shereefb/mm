@@ -27,3 +27,4 @@ Goal: to lighten up the world and make others laughFear: being perceived as bori
 https://www.learning-mind.com/12-archetypes/2  
   
 clown, comedian
+---
