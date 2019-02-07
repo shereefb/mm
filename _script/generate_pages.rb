@@ -43,11 +43,8 @@ def image(title)
 end
 
 def type(ancestors,generalize=false)
-  if ancestors[1]["text"] == "Direction"
-    ancestors[3]["text"]
-  else
-    generalize ? "Archetype" : ancestors[2]["text"]
-  end
+  return if "Archetype" if ancestors[1]["text"] == "Archetype"
+  generalize ? ancestors[1]["text"] : ancestors[2]["text"]
 end
 
 

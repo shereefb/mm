@@ -3,12 +3,10 @@ title: Monk (east)
 permalink: /warrior/archetype/mature/mature_warrior/monk_(east)
 archetype: Warrior
 category: Warrior
-type: Mature
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/monk_(east).jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 Spiritual warrior. Confronts aloneness. Spiritual discipline

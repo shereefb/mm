@@ -4,11 +4,9 @@ permalink: /magician/south/quality/confidence
 archetype: Magician
 category: Magician
 type: Quality
-type_general: Archetype
+type_general: South
 image: /images/back/confidence.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft pic  
   

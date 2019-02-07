@@ -4,11 +4,9 @@ permalink: /magician/east/quality/spirituality
 archetype: Magician
 category: Magician
 type: Quality
-type_general: Archetype
+type_general: East
 image: /images/back/spirituality.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft pic  
 |"We are in the world, but not of the world"  

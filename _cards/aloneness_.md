@@ -4,11 +4,9 @@ permalink: /lover/north/quality/aloneness_
 archetype: Lover
 category: Lover
 type: Quality
-type_general: Archetype
+type_general: North
 image: /images/back/aloneness_.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 hermit is lonely   

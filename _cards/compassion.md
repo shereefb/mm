@@ -4,11 +4,9 @@ permalink: /king/south/quality/compassion
 archetype: King
 category: King
 type: Quality
-type_general: Archetype
+type_general: South
 image: /images/back/compassion.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft pic Compassion is great  
 Balance Action and Empathy.   

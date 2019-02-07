@@ -3,12 +3,10 @@ title: Explorer (south)
 permalink: /warrior/archetype/mature/mature_warrior/explorer_(south)
 archetype: Warrior
 category: Warrior
-type: Mature
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/explorer_(south).jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 Archeology. Travel. Astronaut.   

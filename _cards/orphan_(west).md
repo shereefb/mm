@@ -3,12 +3,10 @@ title: Orphan (west)
 permalink: /lover/archetype/mature/mature_lover/orphan_(west)
 archetype: Lover
 category: Lover
-type: Mature
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/orphan_(west).jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 body worker, dancer  

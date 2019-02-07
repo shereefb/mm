@@ -4,11 +4,9 @@ permalink: /magician/north/quality/curiosity
 archetype: Magician
 category: Magician
 type: Quality
-type_general: Archetype
+type_general: North
 image: /images/back/curiosity.jpg
 draft: false
-toc: true
-toc_label: Quick Jump
 ---
    
 |"The important thing is not to stop questioning. "  

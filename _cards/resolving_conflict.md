@@ -4,11 +4,9 @@ permalink: /king/south/skill/resolving_conflict
 archetype: King
 category: King
 type: Skill
-type_general: Archetype
+type_general: South
 image: /images/back/resolving_conflict.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 Level 1: resolving conflicts im in  

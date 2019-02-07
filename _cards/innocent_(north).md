@@ -3,12 +3,10 @@ title: Innocent (north)
 permalink: /lover/archetype/mature/mature_lover/innocent_(north)
 archetype: Lover
 category: Lover
-type: Mature
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/innocent_(north).jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
   

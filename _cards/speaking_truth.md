@@ -4,11 +4,9 @@ permalink: /warrior/north/skill/speaking_truth
 archetype: Warrior
 category: Warrior
 type: Skill
-type_general: Archetype
+type_general: North
 image: /images/back/speaking_truth.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 

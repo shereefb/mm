@@ -4,11 +4,9 @@ permalink: /warrior/north/quality/impeccability
 archetype: Warrior
 category: Warrior
 type: Quality
-type_general: Archetype
+type_general: North
 image: /images/back/impeccability.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
   

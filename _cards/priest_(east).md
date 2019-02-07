@@ -3,12 +3,10 @@ title: Priest (east)
 permalink: /magician/archetype/mature/mature_magician/priest_(east)
 archetype: Magician
 category: Magician
-type: Mature
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/priest_(east).jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 - Connects the heavens with the earth.   

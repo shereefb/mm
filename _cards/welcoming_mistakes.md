@@ -4,11 +4,9 @@ permalink: /magician/south/skill/welcoming_mistakes
 archetype: Magician
 category: Magician
 type: Skill
-type_general: Archetype
+type_general: South
 image: /images/back/welcoming_mistakes.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
   

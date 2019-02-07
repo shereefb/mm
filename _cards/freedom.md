@@ -4,11 +4,9 @@ permalink: /lover/east/quality/freedom
 archetype: Lover
 category: Lover
 type: Quality
-type_general: Archetype
+type_general: East
 image: /images/back/freedom.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 | freedom is an inside job.   

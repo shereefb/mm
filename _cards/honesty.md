@@ -4,11 +4,9 @@ permalink: /warrior/north/quality/honesty
 archetype: Warrior
 category: Warrior
 type: Quality
-type_general: Archetype
+type_general: North
 image: /images/back/honesty.jpg
 draft: false
-toc: true
-toc_label: Quick Jump
 ---
    
   

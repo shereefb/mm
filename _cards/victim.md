@@ -3,12 +3,10 @@ title: Victim
 permalink: /warrior/archetype/shadow/victim
 archetype: Warrior
 category: Warrior
-type: Shadow
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/victim.jpg
 draft: false
-toc: true
-toc_label: Quick Jump
 ---
  The Victim is a Warrior who loses touch with his strength and courage. He has the false belief that he shouldn't do things he's afraid of. He becomes a "pushover" and gives up easily on his dreams. He is depressed, lacks confidence and feels sorry for himself. He tries to get things from others by making them feel sorry for him, or guilty.   
   

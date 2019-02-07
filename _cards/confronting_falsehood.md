@@ -4,11 +4,9 @@ permalink: /warrior/west/skill/confronting_falsehood
 archetype: Warrior
 category: Warrior
 type: Skill
-type_general: Archetype
+type_general: West
 image: /images/back/confronting_falsehood.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 level 1: in self  

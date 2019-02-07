@@ -4,11 +4,9 @@ permalink: /warrior/west/quality/challenge
 archetype: Warrior
 category: Warrior
 type: Quality
-type_general: Archetype
+type_general: West
 image: /images/back/challenge.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 challenging others. Challenging self. Seeking challenge. Receiving challenge. Balancing acceptance and drive.   

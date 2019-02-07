@@ -4,11 +4,9 @@ permalink: /magician/south/quality/mastery
 archetype: Magician
 category: Magician
 type: Quality
-type_general: Archetype
+type_general: South
 image: /images/back/mastery.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft pic  
 manipulator tries to master to control. wants to reach the end.   

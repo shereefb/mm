@@ -4,10 +4,8 @@ permalink: /lover/west/skill/fasting
 archetype: Lover
 category: Lover
 type: Skill
-type_general: Archetype
+type_general: West
 image: /images/back/fasting.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft something you like. fast for a week. Support others in fasting. 

@@ -4,11 +4,9 @@ permalink: /lover/east/skill/starting_games
 archetype: Lover
 category: Lover
 type: Skill
-type_general: Archetype
+type_general: East
 image: /images/back/starting_games.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 Creating new games. existing games. Enrolling others. Improvising. Co-creating with others. 

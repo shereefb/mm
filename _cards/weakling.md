@@ -3,12 +3,10 @@ title: Weakling
 permalink: /king/archetype/shadow/weakling
 archetype: King
 category: King
-type: Shadow
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/weakling.jpg
 draft: false
-toc: true
-toc_label: Quick Jump
 ---
  The Weakling lacks centerednes, calmness, and security within himself. He doesn't feel his power, and takes as little responsibility as possible for the world around him, expecting others to take care of him, and attracting Tyrants into his life.  
   

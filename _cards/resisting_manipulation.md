@@ -4,11 +4,9 @@ permalink: /magician/north/skill/resisting_manipulation
 archetype: Magician
 category: Magician
 type: Skill
-type_general: Archetype
+type_general: North
 image: /images/back/resisting_manipulation.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 People manipulate through fear.   

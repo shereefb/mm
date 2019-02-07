@@ -4,11 +4,9 @@ permalink: /king/west/skill/providing
 archetype: King
 category: King
 type: Skill
-type_general: Archetype
+type_general: West
 image: /images/back/providing.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 level 1: instead of allowance   

@@ -4,11 +4,9 @@ permalink: /king/north/quality/balance_order_and_chaos
 archetype: King
 category: King
 type: Quality
-type_general: Archetype
+type_general: North
 image: /images/back/balance_order_and_chaos.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft pic  
 Balances everything. Includes everything so that there can be balance.   

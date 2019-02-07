@@ -4,11 +4,9 @@ permalink: /king/south/quality/justice
 archetype: King
 category: King
 type: Quality
-type_general: Archetype
+type_general: South
 image: /images/back/justice.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 Mature king includes all. Refers to a higher code of ethics and morality than his own.   

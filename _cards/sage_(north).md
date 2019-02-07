@@ -3,12 +3,10 @@ title: Sage (north)
 permalink: /magician/archetype/mature/mature_magician/sage_(north)
 archetype: Magician
 category: Magician
-type: Mature
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/sage_(north).jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
   

@@ -3,12 +3,10 @@ title: Rebel (south)
 permalink: /warrior/archetype/mature/mature_warrior/rebel_(south)
 archetype: Warrior
 category: Warrior
-type: Mature
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/rebel_(south).jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
   

@@ -4,11 +4,9 @@ permalink: /king/west/quality/responsibility
 archetype: King
 category: King
 type: Quality
-type_general: Archetype
+type_general: West
 image: /images/back/responsibility.jpg
 draft: false
-toc: true
-toc_label: Quick Jump
 ---
    
   

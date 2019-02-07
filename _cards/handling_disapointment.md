@@ -4,11 +4,9 @@ permalink: /lover/south/skill/handling_disapointment
 archetype: Lover
 category: Lover
 type: Skill
-type_general: Archetype
+type_general: South
 image: /images/back/handling_disapointment.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
   

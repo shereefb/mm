@@ -4,11 +4,9 @@ permalink: /lover/south/quality/connection
 archetype: Lover
 category: Lover
 type: Quality
-type_general: Archetype
+type_general: South
 image: /images/back/connection.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft pic  
 Balances connection to self and others  

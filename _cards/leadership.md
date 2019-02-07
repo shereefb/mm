@@ -4,11 +4,9 @@ permalink: /king/east/quality/leadership
 archetype: King
 category: King
 type: Quality
-type_general: Archetype
+type_general: East
 image: /images/back/leadership.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
   

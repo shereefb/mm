@@ -4,11 +4,9 @@ permalink: /king/east/quality/power
 archetype: King
 category: King
 type: Quality
-type_general: Archetype
+type_general: East
 image: /images/back/power.jpg
 draft: false
-toc: true
-toc_label: Quick Jump
 ---
   
   

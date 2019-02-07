@@ -4,11 +4,9 @@ permalink: /warrior/east/quality/courage
 archetype: Warrior
 category: Warrior
 type: Quality
-type_general: Archetype
+type_general: East
 image: /images/back/courage.jpg
 draft: false
-toc: true
-toc_label: Quick Jump
 ---
   
 |“Don't be afraid of your fears. They're not there to scare you. They're there to let you know that something is worth it.”  

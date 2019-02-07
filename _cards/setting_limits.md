@@ -4,11 +4,9 @@ permalink: /king/west/skill/setting_limits
 archetype: King
 category: King
 type: Skill
-type_general: Archetype
+type_general: West
 image: /images/back/setting_limits.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
 Level 1: for own body and stuff  

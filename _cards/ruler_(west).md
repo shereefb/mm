@@ -3,12 +3,10 @@ title: Ruler (west)
 permalink: /king/archetype/mature/mature_king/ruler_(west)
 archetype: King
 category: King
-type: Mature
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/ruler_(west).jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft   
   

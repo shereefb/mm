@@ -3,12 +3,10 @@ title: Tyrant
 permalink: /king/archetype/shadow/tyrant
 archetype: King
 category: King
-type: Shadow
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/tyrant.jpg
 draft: false
-toc: true
-toc_label: Quick Jump
 ---
  The Tyrant exploits and abuses others. He is ruthless, merciless, and without feeling when he is pursuing what he thinks is his own self-interest. He hates all beauty, all innocence, all strength, all talent, all life energy. He does so because he lacks inner structure, and he is afraid of his own hidden weakness and his underlying lack of potency.  
   

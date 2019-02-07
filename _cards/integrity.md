@@ -4,10 +4,8 @@ permalink: /king/west/quality/integrity
 archetype: King
 category: King
 type: Quality
-type_general: Archetype
+type_general: West
 image: /images/back/integrity.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft integration.

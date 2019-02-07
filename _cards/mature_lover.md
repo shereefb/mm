@@ -3,12 +3,10 @@ title: Mature Lover
 permalink: /lover/archetype/mature/mature_lover
 archetype: Lover
 category: Lover
-type: Mature
-type_general: Archetype
+type: 
+type_general: 
 image: /images/back/mature_lover.jpg
 draft: false
-toc: true
-toc_label: Quick Jump
 ---
  The Mature Lover is extremely sensitive to the inner environment and his inner heart. He is embodied, and knows how to be present and enjoy pleasure without shame. He is connected to self and others. He takes others as part of himself. The Lover is the source of longing for a better world. He is the idealist and the dreamer. The one who wants an abundance of good things for himself and others.    
   

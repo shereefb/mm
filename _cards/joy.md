@@ -4,11 +4,9 @@ permalink: /lover/south/quality/joy
 archetype: Lover
 category: Lover
 type: Quality
-type_general: Archetype
+type_general: South
 image: /images/back/joy.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft pic  
 Mature lover understands joy is an inside job  

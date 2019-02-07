@@ -4,11 +4,9 @@ permalink: /magician/north/quality/knowledge
 archetype: Magician
 category: Magician
 type: Quality
-type_general: Archetype
+type_general: North
 image: /images/back/knowledge.jpg
 draft: true
-toc: true
-toc_label: Quick Jump
 ---
 #draft pic  
 manipulator collects information. thinks he is the authority  
