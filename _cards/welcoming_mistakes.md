@@ -1,13 +1,14 @@
 ---
 title: Welcoming Mistakes
-permalink: /magician/direction/south/skill/welcoming_mistakes
+permalink: /magician/south/skill/welcoming_mistakes
 archetype: Magician
 category: Magician
-direction: South
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/welcoming_mistakes.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
   

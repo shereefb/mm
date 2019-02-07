@@ -1,13 +1,14 @@
 ---
 title: Transformation
-permalink: /magician/direction/west/quality/transformation
+permalink: /magician/west/quality/transformation
 archetype: Magician
 category: Magician
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/transformation.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic  
 The body holds and transforms. the earth holds and transforms. alchemy. synergy (1 plus 1 equals 3). 

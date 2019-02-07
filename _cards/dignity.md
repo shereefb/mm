@@ -1,12 +1,13 @@
 ---
 title: Dignity
-permalink: /king/direction/west/quality/dignity
+permalink: /king/west/quality/dignity
 archetype: King
 category: King
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/dignity.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft belonging. Tyrant humiliates with pride. Weakling self humiliates doesn’t know where he belongs. False humility. Humility and belonging. 

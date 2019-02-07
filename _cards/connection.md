@@ -1,13 +1,14 @@
 ---
 title: Connection
-permalink: /lover/direction/south/quality/connection
+permalink: /lover/south/quality/connection
 archetype: Lover
 category: Lover
-direction: South
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/connection.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic  
 Balances connection to self and others  

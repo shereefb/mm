@@ -1,13 +1,14 @@
 ---
 title: Balance Order and Chaos
-permalink: /king/direction/north/quality/balance_order_and_chaos
+permalink: /king/north/quality/balance_order_and_chaos
 archetype: King
 category: King
-direction: North
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/balance_order_and_chaos.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic  
 Balances everything. Includes everything so that there can be balance.   

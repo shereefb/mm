@@ -1,12 +1,13 @@
 ---
 title: Stability
-permalink: /king/direction/west/quality/stability
+permalink: /king/west/quality/stability
 archetype: King
 category: King
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/stability.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft Centerdeness

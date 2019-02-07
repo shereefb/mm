@@ -1,13 +1,14 @@
 ---
 title: Responsibility
-permalink: /king/direction/west/quality/responsibility
+permalink: /king/west/quality/responsibility
 archetype: King
 category: King
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/responsibility.jpg
 draft: false
+toc: true
+toc_label: Quick Jump
 ---
    
   

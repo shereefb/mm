@@ -1,13 +1,14 @@
 ---
 title: Tending the heirarchy
-permalink: /king/direction/east/skill/tending_the_heirarchy
+permalink: /king/east/skill/tending_the_heirarchy
 archetype: King
 category: King
-direction: East
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/tending_the_heirarchy.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft No one capable stays down. No one incapable rises. Not on my watch.   
   

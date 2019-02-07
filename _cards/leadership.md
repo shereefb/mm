@@ -1,13 +1,14 @@
 ---
 title: Leadership
-permalink: /king/direction/east/quality/leadership
+permalink: /king/east/quality/leadership
 archetype: King
 category: King
-direction: East
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/leadership.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
   

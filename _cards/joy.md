@@ -1,13 +1,14 @@
 ---
 title: Joy
-permalink: /lover/direction/south/quality/joy
+permalink: /lover/south/quality/joy
 archetype: Lover
 category: Lover
-direction: South
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/joy.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic  
 Mature lover understands joy is an inside job  

@@ -1,13 +1,14 @@
 ---
 title: Confronting Falsehood
-permalink: /warrior/direction/west/skill/confronting_falsehood
+permalink: /warrior/west/skill/confronting_falsehood
 archetype: Warrior
 category: Warrior
-direction: West
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/confronting_falsehood.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 level 1: in self  

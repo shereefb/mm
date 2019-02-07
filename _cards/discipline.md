@@ -1,13 +1,14 @@
 ---
 title: Discipline
-permalink: /warrior/direction/south/quality/discipline
+permalink: /warrior/south/quality/discipline
 archetype: Warrior
 category: Warrior
-direction: South
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/discipline.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 Warrior: Discipline equals freedom. short term pain for long term freedom and pleasure. Develop control and mastery of mind and body. Capacity to withstand pain both psychological and physical.   

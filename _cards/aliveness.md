@@ -1,13 +1,14 @@
 ---
 title: Aliveness
-permalink: /lover/direction/east/quality/aliveness
+permalink: /lover/east/quality/aliveness
 archetype: Lover
 category: Lover
-direction: East
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/aliveness.jpg
 draft: false
+toc: true
+toc_label: Quick Jump
 ---
   
 |“Live so fully and so brilliantly that your pain diminishes in your aliveness.”   

@@ -1,13 +1,14 @@
 ---
 title: Generosity
-permalink: /king/direction/south/quality/generosity
+permalink: /king/south/quality/generosity
 archetype: King
 category: King
-direction: South
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/generosity.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 Mature king balances giving and receiving. Acknowledges limits.   

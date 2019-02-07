@@ -1,12 +1,13 @@
 ---
 title: Shame
-permalink: /lover/direction/north/shadow_quality/shame
+permalink: /lover/north/shadow_quality/shame
 archetype: Lover
 category: Lover
-direction: North
 type: Shadow Quality
-type_general: Shadow Quality
+type_general: Archetype
 image: /images/back/shame.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic

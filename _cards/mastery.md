@@ -1,13 +1,14 @@
 ---
 title: Mastery
-permalink: /magician/direction/south/quality/mastery
+permalink: /magician/south/quality/mastery
 archetype: Magician
 category: Magician
-direction: South
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/mastery.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic  
 manipulator tries to master to control. wants to reach the end.   

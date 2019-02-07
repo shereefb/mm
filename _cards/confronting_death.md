@@ -1,13 +1,14 @@
 ---
 title: Confronting Death
-permalink: /warrior/direction/west/skill/confronting_death
+permalink: /warrior/west/skill/confronting_death
 archetype: Warrior
 category: Warrior
-direction: West
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/confronting_death.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 Shambalah warrior: Every day lived without death on your shoulder is a day not well lived.   

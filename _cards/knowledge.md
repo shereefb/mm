@@ -1,13 +1,14 @@
 ---
 title: Knowledge
-permalink: /magician/direction/north/quality/knowledge
+permalink: /magician/north/quality/knowledge
 archetype: Magician
 category: Magician
-direction: North
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/knowledge.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic  
 manipulator collects information. thinks he is the authority  

@@ -1,13 +1,14 @@
 ---
 title: Wonder
-permalink: /lover/direction/north/quality/wonder
+permalink: /lover/north/quality/wonder
 archetype: Lover
 category: Lover
-direction: North
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/wonder.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 in touch with the miracle of life.   

@@ -1,13 +1,14 @@
 ---
 title: Compassion
-permalink: /king/direction/south/quality/compassion
+permalink: /king/south/quality/compassion
 archetype: King
 category: King
-direction: South
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/compassion.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic Compassion is great  
 Balance Action and Empathy.   

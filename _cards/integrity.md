@@ -1,12 +1,13 @@
 ---
 title: Integrity
-permalink: /king/direction/west/quality/integrity
+permalink: /king/west/quality/integrity
 archetype: King
 category: King
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/integrity.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft integration.

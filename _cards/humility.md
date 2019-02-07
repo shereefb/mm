@@ -1,13 +1,14 @@
 ---
 title: Humility
-permalink: /warrior/direction/south/quality/humility
+permalink: /warrior/south/quality/humility
 archetype: Warrior
 category: Warrior
-direction: South
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/humility.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
  #draft The Mature Warrior understands that dignity and defeat can co-exist. He knows that his value and self-worth comes from how he meets winning or losing, not whether or not he wins or loses. He is graceful in winning, and dignified in losing.   
   

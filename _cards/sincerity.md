@@ -1,13 +1,14 @@
 ---
 title: Sincerity
-permalink: /warrior/direction/south/quality/sincerity
+permalink: /warrior/south/quality/sincerity
 archetype: Warrior
 category: Warrior
-direction: South
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/sincerity.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 Water flows sincerely.   

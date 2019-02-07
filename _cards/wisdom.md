@@ -1,13 +1,14 @@
 ---
 title: Wisdom
-permalink: /king/direction/west/quality/wisdom
+permalink: /king/west/quality/wisdom
 archetype: King
 category: King
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/wisdom.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 Is from experienced. Embodied knowledge. Different than smart or intelligent. 

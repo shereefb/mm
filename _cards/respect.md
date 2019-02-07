@@ -1,13 +1,14 @@
 ---
 title: Respect
-permalink: /king/direction/south/quality/respect
+permalink: /king/south/quality/respect
 archetype: King
 category: King
-direction: South
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/respect.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 |"Over time we gain self-respect by grappling with our deficiencies, by learning that we can do that. If we run away from the difficult parts, we’ll feel like a coward. If we feel like a coward, we won’t respect ourselves. And we can’t lie to ourselves about what we’re actually doing; on a deep level, we know the truth. So we have to grapple with the difficulties in a courageous way. That’s how we gain respect and value."  

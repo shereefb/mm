@@ -1,13 +1,14 @@
 ---
 title: Clarity
-permalink: /king/direction/north/quality/clarity
+permalink: /king/north/quality/clarity
 archetype: King
 category: King
-direction: North
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/clarity.jpg
 draft: false
+toc: true
+toc_label: Quick Jump
 ---
   
 |“It’s a lack of clarity that creates chaos and frustration. Those emotions are poison to any living goal.”  

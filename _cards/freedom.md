@@ -1,13 +1,14 @@
 ---
 title: Freedom
-permalink: /lover/direction/east/quality/freedom
+permalink: /lover/east/quality/freedom
 archetype: Lover
 category: Lover
-direction: East
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/freedom.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 | freedom is an inside job.   

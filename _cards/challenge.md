@@ -1,13 +1,14 @@
 ---
 title: Challenge
-permalink: /warrior/direction/west/quality/challenge
+permalink: /warrior/west/quality/challenge
 archetype: Warrior
 category: Warrior
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/challenge.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 challenging others. Challenging self. Seeking challenge. Receiving challenge. Balancing acceptance and drive.   

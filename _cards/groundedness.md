@@ -1,12 +1,13 @@
 ---
 title: Groundedness
-permalink: /lover/direction/west/quality/groundedness
+permalink: /lover/west/quality/groundedness
 archetype: Lover
 category: Lover
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/groundedness.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft grounded in body. connected to earth.

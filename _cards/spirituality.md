@@ -1,13 +1,14 @@
 ---
 title: Spirituality
-permalink: /magician/direction/east/quality/spirituality
+permalink: /magician/east/quality/spirituality
 archetype: Magician
 category: Magician
-direction: East
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/spirituality.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic  
 |"We are in the world, but not of the world"  

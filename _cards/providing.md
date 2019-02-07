@@ -1,13 +1,14 @@
 ---
 title: Providing
-permalink: /king/direction/west/skill/providing
+permalink: /king/west/skill/providing
 archetype: King
 category: King
-direction: West
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/providing.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 level 1: instead of allowance   

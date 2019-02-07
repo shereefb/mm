@@ -11,3 +11,13 @@ https://mmistakes.github.io/minimal-mistakes/docs/configuration/#reading-time
 Attribute quotes to their authors!
 
 Breakup sections into cards and booklet/website?
+
+Create a page for every node in the OPML.
+Each page automatically has a section at the bottom that points to it's children (and recursively all of its children), and creates an outline.
+If there's no content in the node, then the page is just a menu page.
+
+Figure out a way for side navigation to only pickup pages with content in them
+
+Consider generating the breadcrumbs in the page itself?
+
+If there's content, search in it for all node names and titles (aliases?) and link to them so that content is cross-linked.

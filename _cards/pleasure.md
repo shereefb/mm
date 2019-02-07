@@ -1,12 +1,13 @@
 ---
 title: Pleasure
-permalink: /lover/direction/west/quality/pleasure
+permalink: /lover/west/quality/pleasure
 archetype: Lover
 category: Lover
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/pleasure.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic

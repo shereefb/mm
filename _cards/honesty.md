@@ -1,13 +1,14 @@
 ---
 title: Honesty
-permalink: /warrior/direction/north/quality/honesty
+permalink: /warrior/north/quality/honesty
 archetype: Warrior
 category: Warrior
-direction: North
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/honesty.jpg
 draft: false
+toc: true
+toc_label: Quick Jump
 ---
    
   

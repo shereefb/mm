@@ -1,13 +1,14 @@
 ---
 title: Wandering
-permalink: /warrior/direction/east/quality/wandering
+permalink: /warrior/east/quality/wandering
 archetype: Warrior
 category: Warrior
-direction: East
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/wandering.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic  
 See "The Hero Within"

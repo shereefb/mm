@@ -1,13 +1,14 @@
 ---
 title: Resolving Conflict
-permalink: /king/direction/south/skill/resolving_conflict
+permalink: /king/south/skill/resolving_conflict
 archetype: King
 category: King
-direction: South
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/resolving_conflict.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 Level 1: resolving conflicts im in  

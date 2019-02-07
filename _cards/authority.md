@@ -1,13 +1,14 @@
 ---
 title: Authority
-permalink: /king/direction/east/quality/authority
+permalink: /king/east/quality/authority
 archetype: King
 category: King
-direction: East
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/authority.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 page 208 community and growth  

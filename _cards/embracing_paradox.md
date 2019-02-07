@@ -1,13 +1,14 @@
 ---
 title: Embracing paradox
-permalink: /magician/direction/north/skill/embracing_paradox
+permalink: /magician/north/skill/embracing_paradox
 archetype: Magician
 category: Magician
-direction: North
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/embracing_paradox.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 dummy is defeated by paradox  

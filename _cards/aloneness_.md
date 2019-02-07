@@ -1,13 +1,14 @@
 ---
 title: Aloneness 
-permalink: /lover/direction/north/quality/aloneness_
+permalink: /lover/north/quality/aloneness_
 archetype: Lover
 category: Lover
-direction: North
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/aloneness_.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 hermit is lonely   

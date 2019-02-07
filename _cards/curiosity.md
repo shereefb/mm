@@ -1,13 +1,14 @@
 ---
 title: Curiosity
-permalink: /magician/direction/north/quality/curiosity
+permalink: /magician/north/quality/curiosity
 archetype: Magician
 category: Magician
-direction: North
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/curiosity.jpg
 draft: false
+toc: true
+toc_label: Quick Jump
 ---
    
 |"The important thing is not to stop questioning. "  

@@ -1,13 +1,14 @@
 ---
 title: Forming Habits
-permalink: /warrior/direction/south/skill/forming_habits
+permalink: /warrior/south/skill/forming_habits
 archetype: Warrior
 category: Warrior
-direction: South
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/forming_habits.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft Streaks. 1 week. 1 month.   
 Weakly. Monthly.  

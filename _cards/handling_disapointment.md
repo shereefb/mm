@@ -1,13 +1,14 @@
 ---
 title: Handling Disapointment
-permalink: /lover/direction/south/skill/handling_disapointment
+permalink: /lover/south/skill/handling_disapointment
 archetype: Lover
 category: Lover
-direction: South
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/handling_disapointment.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
   

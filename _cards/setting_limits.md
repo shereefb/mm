@@ -1,13 +1,14 @@
 ---
 title: Setting limits
-permalink: /king/direction/west/skill/setting_limits
+permalink: /king/west/skill/setting_limits
 archetype: King
 category: King
-direction: West
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/setting_limits.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 Level 1: for own body and stuff  

@@ -1,13 +1,14 @@
 ---
 title: Power
-permalink: /king/direction/east/quality/power
+permalink: /king/east/quality/power
 archetype: King
 category: King
-direction: East
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/power.jpg
 draft: false
+toc: true
+toc_label: Quick Jump
 ---
   
   

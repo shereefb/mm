@@ -1,13 +1,14 @@
 ---
 title: Impeccability
-permalink: /warrior/direction/north/quality/impeccability
+permalink: /warrior/north/quality/impeccability
 archetype: Warrior
 category: Warrior
-direction: North
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/impeccability.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
   

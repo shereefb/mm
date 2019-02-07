@@ -1,13 +1,14 @@
 ---
 title: Gratitude
-permalink: /lover/direction/west/quality/gratitude
+permalink: /lover/west/quality/gratitude
 archetype: Lover
 category: Lover
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/gratitude.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft  
 |“To live, to truly live, one must consider each and every thing a blessing.”  ~ Kamand Kojouri  

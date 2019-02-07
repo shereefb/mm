@@ -1,12 +1,13 @@
 ---
 title: Fasting
-permalink: /lover/direction/west/skill/fasting
+permalink: /lover/west/skill/fasting
 archetype: Lover
 category: Lover
-direction: West
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/fasting.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft something you like. fast for a week. Support others in fasting. 

@@ -1,12 +1,13 @@
 ---
 title: Delaying Gratification
-permalink: /king/direction/west/skill/delaying_gratification
+permalink: /king/west/skill/delaying_gratification
 archetype: King
 category: King
-direction: West
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/delaying_gratification.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft Saving

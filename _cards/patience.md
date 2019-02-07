@@ -1,12 +1,13 @@
 ---
 title: Patience
-permalink: /warrior/direction/south/quality/patience
+permalink: /warrior/south/quality/patience
 archetype: Warrior
 category: Warrior
-direction: South
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/patience.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft pic

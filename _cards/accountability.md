@@ -1,13 +1,14 @@
 ---
 title: Accountability
-permalink: /warrior/direction/west/quality/accountability
+permalink: /warrior/west/quality/accountability
 archetype: Warrior
 category: Warrior
-direction: West
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/accountability.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 Accountable to self. Accountable to other. Holds other accountable.

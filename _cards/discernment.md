@@ -1,12 +1,13 @@
 ---
 title: Discernment
-permalink: /warrior/direction/north/quality/discernment
+permalink: /warrior/north/quality/discernment
 archetype: Warrior
 category: Warrior
-direction: North
 type: Quality
-type_general: Quality
+type_general: Archetype
 image: /images/back/discernment.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft judgement for the tyrant, and non-discernment for the weakling. 

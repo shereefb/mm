@@ -1,12 +1,13 @@
 ---
 title: Internalizing Authority
-permalink: /magician/direction/east/skill/internalizing_authority
+permalink: /magician/east/skill/internalizing_authority
 archetype: Magician
 category: Magician
-direction: East
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/internalizing_authority.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft skepticism for the manipulator, non questioning for the dummy 

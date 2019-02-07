@@ -1,13 +1,14 @@
 ---
 title: Tending the physical
-permalink: /king/direction/west/skill/tending_the_physical
+permalink: /king/west/skill/tending_the_physical
 archetype: King
 category: King
-direction: West
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/tending_the_physical.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 level 1: responsibility for all my physical.   

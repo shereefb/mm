@@ -1,13 +1,14 @@
 ---
 title: Strengthening the body
-permalink: /warrior/direction/west/skill/strengthening_the_body
+permalink: /warrior/west/skill/strengthening_the_body
 archetype: Warrior
 category: Warrior
-direction: West
 type: Skill
-type_general: Skill
+type_general: Archetype
 image: /images/back/strengthening_the_body.jpg
 draft: true
+toc: true
+toc_label: Quick Jump
 ---
 #draft   
 victim's body no strength, just flexibility  
