@@ -32,6 +32,11 @@ def permalink(node)
   "/" + ancestors.collect{ |n| to_url(n["text"]) }.join("/") + "/#{to_url(node["text"])}"
 end
 
+def filename(node)
+  ancestors = node.ancestors.reverse[4..10]
+  ancestors.collect{ |n| to_url(n["text"]) }.join("_") + "_#{to_url(node["text"])}"
+end
+
 def archetype(ancestors)
   ancestors[0]["text"]
 end
@@ -77,7 +82,7 @@ def generate (node,ancestors)
 
   puts "Generating" + "    " + @title + "  \t\t\t\t  " + ancestors.collect{ |n| n["text"] }.join(":")
 
-  file_name = "#{$Directory}/#{to_url(@title)}.md"
+  file_name = "#{$Directory}/#{filename(node)}.md"
 
   f = File.new(file_name, 'w')
 
