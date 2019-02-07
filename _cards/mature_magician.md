@@ -29,4 +29,18 @@ toc_label: Quick Jump
 **Balance:** Knowledge <--> Mystery  
 **Shadow:** Manipulator, Dummy  
 **Power Animal:** Pheonix  
-**Qualities:** Curiosity, Knowledge, Confidence, Mastery, Transformation, Creativity, Spirituality, Beginner's Mind
+**Qualities:** Curiosity, Knowledge, Confidence, Mastery, Transformation, Creativity, Spirituality, Beginner's Mind  
+  
+---  
+  
+Motto: I make things happen.  
+Core desire: understanding the fundamental laws of the universe  
+Goal: to make dreams come true  
+Greatest fear: unintended negative consequences  
+Strategy: develop a vision and live by it  
+Weakness: becoming manipulative  
+Talent: finding win-win solutions  
+The Magician is also known as:The visionary, catalyst, inventor, charismatic leader, shaman, healer, medicine man.  
+  
+https://charactertherapist.blogspot.com/2013/06/character-archetypes-101-magician.html  
+

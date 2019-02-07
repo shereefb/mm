@@ -34,4 +34,8 @@ toc_label: Quick Jump
 When the Magician is in his Dummy shadow, he needs the gift of my confidence to get in touch with his ability to know, learn and grow, and not be lost in the mystery.   
   
 **Off Balance:** Believes his knowledge is bigger than the mystery, so becomes arrogant and tries to control the mystery.   
-**Qualities:** Grandiosity. Arrogance. Manipulative. Hustler.
+**Qualities:** Grandiosity. Arrogance. Manipulative. Hustler.  
+  
+----  
+  
+Trickster

@@ -32,4 +32,9 @@ toc_label: Quick Jump
 **Balance:** Chaos <--> Order    
 **Shadow:** Tyrant & Weakling    
 **Power Animal:** Eagle    
-**Qualities:** Power, Leadership, Clarity, Balance, Generosity, Justice, Order, Responsibility, Compassion, Dignity, Wisdom, Integrity, Stability, Centerdness, Authority
+**Qualities:** Power, Leadership, Clarity, Balance, Generosity, Justice, Order, Responsibility, Compassion, Dignity, Wisdom, Integrity, Stability, Centerdness, Authority  
+  
+---  
+  
+https://charactertherapist.blogspot.com/search/label/Archetypes  
+

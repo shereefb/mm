@@ -32,4 +32,18 @@ toc_label: Quick Jump
 **Balance:** Aliveness <--> Groundedness  
 **Shadow:** Addict, Hermit  
 **Power Animal:** Sea Otter  
-**Qualities:** Presence, Wonder, Aliveness, Freedom, Joy, Connection, Pleasure, Sensuality, Passion, Groundedness, Enthusiasm, Empathy
+**Qualities:** Presence, Wonder, Aliveness, Freedom, Joy, Connection, Pleasure, Sensuality, Passion, Groundedness, Enthusiasm, Empathy  
+  
+---  
+  
+Motto: You're the only one  
+Core desire: intimacy and experience  
+Goal: being in a relationship with the people, work and surroundings they love  
+Greatest fear: being alone, a wallflower, unwanted, unloved  
+Strategy: to become more and more physically and emotionally attractive  
+Weakness: outward-directed desire to please others at risk of losing own identity  
+Talent: passion, gratitude, appreciation, and commitment  
+The Lover is also known as: The partner, friend, intimate, enthusiast, sensualist, spouse, team-builder.  
+  
+https://charactertherapist.blogspot.com/2013/05/character-archetypes-101-lover.html  
+
