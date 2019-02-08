@@ -43,10 +43,10 @@ def archetype(node)
   ancestors[0]["text"]
 end
 
-def direction(node)
+def aspect(node)
   ancestors = node.ancestors.reverse[4..10]
   return if ancestors.length < 2
-  ancestors[1]["text"] if ancestors[1]["text"] != "Archetype"
+  ancestors[1]["text"]
 end
 
 def image(title)
@@ -54,9 +54,11 @@ end
 
 def type(node,generalize=false)
   ancestors = node.ancestors.reverse[4..10]
-  return "Menu" if ancestors.length < 3 && !node["_note"]
-  return "Archetype" if ancestors[1]["text"] == "Archetype"
-  generalize ? ancestors[1]["text"] : ancestors[2]["text"]
+  return "Menu" if ancestors.length < 1
+  return "Aspect" if ["Mind","Body","Heart","Spirit"].include? node["text"]
+  return "Archetype" if node["text"].include?("Mature") || node["text"].include?("Shadow")
+  return "Sub Archetype" if ["Mind","Body","Heart","Spirit"].include?(ancestors[1]["text"])
+  return "Quality"
 end
 
 def menu(node,depth)
@@ -80,7 +82,7 @@ def generate (node,ancestors)
   @draft = @description.nil? || (@description.include? "#draft")
   @permalink = permalink(node)
   @archetype = archetype(node)
-  @direction = direction(node)
+  @aspect = aspect(node)
   @type = type(node,false)
   @type_general = type(node,true)
 
@@ -95,7 +97,7 @@ def generate (node,ancestors)
   f.write("permalink: #{@permalink}\n")
   f.write("archetype: #{@archetype}\n") #king/lover/magician/warrior
   f.write("category: #{@archetype}\n") #king/lover/magician/warrior
-  f.write("direction: #{@direction}\n") if @direction #north/south/west/east
+  f.write("aspect: #{@aspect}\n") if @aspect #north/south/west/east
   f.write("type: #{@type}\n") #quality/skill/mature/shadow
   f.write("type_general: #{@type_general}\n") #quality/skill/archetype
   f.write("image: /images/back/#{to_url@title}.jpg\n")
