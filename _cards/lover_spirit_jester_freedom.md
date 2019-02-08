@@ -13,7 +13,7 @@ draft: true
 | freedom is an inside job.   
   
 Freedom within limitations.   
-Addict wants no external limitations. Hermit sees only external limitations.   
+[Addict](/lover/mature_lover/addict_shadow) wants no external limitations. [Hermit](/lover/mature_lover/hermit_shadow) sees only external limitations.   
   
 Remebering free choice is an insife job and accepting and enjouing enjoying life regardless of the outside world.   
   

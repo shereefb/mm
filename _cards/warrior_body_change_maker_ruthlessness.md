@@ -10,5 +10,5 @@ image: /images/back/ruthlessness.jpg
 draft: true
 ---
 #draft Not cruelty.  
-Cruelty outwards is bullying. Cruelty inward is victim
+Cruelty outwards is bullying. Cruelty inward is [victim](/warrior/mature_warrior/victim_shadow)
 ---

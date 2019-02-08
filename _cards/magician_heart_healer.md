@@ -13,7 +13,7 @@ draft: true
 - Inspires others to heal themselves.  
 - Master the flow of energy in self and other. disease is blocked energy.   
 - Wholeness v.s. perfection  
-- Alchemy and transformation  
+- Alchemy and [transformation](/magician/body/creator/transformation)  
 - heals body, mind, heart and spirit  
 - balances elements
 ---

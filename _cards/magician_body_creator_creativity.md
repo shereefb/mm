@@ -9,5 +9,5 @@ type_general: Quality
 image: /images/back/creativity.jpg
 draft: true
 ---
-#draft Addict buys. Handles disconnection by going outside. Hermit handles disconnection by numbing out and getting depressed. Withdrawing. 
+#draft [Addict](/lover/mature_lover/addict_shadow) buys. Handles disconnection by going outside. [Hermit](/lover/mature_lover/hermit_shadow) handles disconnection by numbing out and getting depressed. Withdrawing. 
 ---

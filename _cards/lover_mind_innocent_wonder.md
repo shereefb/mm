@@ -11,6 +11,6 @@ draft: true
 ---
 #draft   
 in touch with the miracle of life.   
-hermit becomes overwhelmed  
-addict loses wonder in the every day life and seeks novelty
+[hermit](/lover/mature_lover/hermit_shadow) becomes overwhelmed  
+[addict](/lover/mature_lover/addict_shadow) loses wonder in the every day life and seeks novelty
 ---

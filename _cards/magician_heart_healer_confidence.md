@@ -15,9 +15,9 @@ draft: true
   
 | "If you are indifferent to what people think, you can be confident, and if you're confident, you can speak well."  
   
-dummy hides insecurity with silliness. Feels humiliated by the unknown. Avoids it.   
+[dummy](/magician/mature_magician/dummy_shadow) hides insecurity with silliness. Feels humiliated by the unknown. Avoids it.   
   
-Bully pretends to know. Tries to defeat the unknown. Avoids humiliation.   
+[Bully](/warrior/mature_warrior/bully_shadow) pretends to know. Tries to defeat the unknown. Avoids humiliation.   
   
 Mature lives at the edge of unknown. Trusts that he can learn and can figure things out. 
 ---

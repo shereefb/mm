@@ -15,7 +15,7 @@ Paradox: Being myself, being in relationship
 Misheif is the mix of gold and red. Love and individuation. Humour things the boundary between two people. Can't happen without a difference, and can't happen without a connection.   
 Jester brings the light heartedness. Removes the seriousness.  
   
-Addict and Hermit become serious. Addict becomes silly, obnoxious. Brings the individuality without the connection. Hermit, loses the connection. Becomes over sensitive. Is hurt by the difference and feels lonely instead of alone. Loses touch with the absurdity of it all.   
+[Addict](/lover/mature_lover/addict_shadow) and [Hermit](/lover/mature_lover/hermit_shadow) become serious. [Addict](/lover/mature_lover/addict_shadow) becomes silly, obnoxious. Brings the individuality without the connection. [Hermit](/lover/mature_lover/hermit_shadow), loses the connection. Becomes over sensitive. Is hurt by the difference and feels lonely instead of alone. Loses touch with the absurdity of it all.   
   
 ---  
 Motto: You only live once  

@@ -13,5 +13,5 @@ draft: true
 Balances everything. Includes everything so that there can be balance.   
 Lays attention to imbalance. Doesn’t reject it. But brings in the other energy.   
   
-Respect the shadow. And brings everything into the light. 
+[Respect](/king/spirit/leader/[respect](/king/spirit/leader/respect)) the shadow. And brings everything into the light. 
 ---

@@ -19,7 +19,7 @@ Goal: to help others
 Greatest fear: selfishness and ingratitude  
 Strategy: doing things for others  
 Weakness: martyrdom and being exploited  
-Talent: compassion, generosity  
+Talent: [compassion](/king/heart/peace_maker_and_diplomat/compassion), [generosity](/king/heart/peace_maker_and_diplomat/generosity)  
 The Caregiver is also known as: The saint, altruist, parent, helper, supporter.  
   
 https://charactertherapist.blogspot.com/2013/04/character-archetypes-101-caregiver.html  

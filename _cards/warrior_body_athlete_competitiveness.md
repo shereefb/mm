@@ -11,5 +11,5 @@ draft: true
 ---
 #draft   
 intimacy and competition. Comparison without jealous or malice.   
-victim defeated by comparison. bully tries to defeat. warrior competes with himself and appreciates other warriors for pushing him to his edge. 
+[victim](/warrior/mature_warrior/victim_shadow) defeated by comparison. [bully](/warrior/mature_warrior/bully_shadow) tries to defeat. [warrior](/warrior/mature_warrior) competes with himself and appreciates other warriors for pushing him to his edge. 
 ---

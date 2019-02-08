@@ -75,10 +75,23 @@ def menu(node,depth)
   out
 end
 
-def generate (node,ancestors)
+def generate_links(text, link_table, title)
+  return unless text
+  link_table.each do |link|
+    next if link["title"] == title
 
-  @description = node["_note"]
+
+
+    text = text.gsub(/\b(?:#{link["title"]})\b/,"[#{link['title']}](#{link['link']})")
+    text = text.gsub(/\b(?:#{link["title"].downcase})\b/,"[#{link['title'].downcase}](#{link['link']})")
+  end
+  text
+end
+
+def generate (node, link_table)
+
   @title = node["text"]
+  @description = generate_links(node["_note"], link_table, @title)
   @permalink = permalink(node)
   @archetype = archetype(node)
   @aspect = aspect(node)
@@ -87,7 +100,7 @@ def generate (node,ancestors)
   @draft = @description.nil? || (@description.include? "#draft")
   @draft = false if @type == "Aspect" || @type == "Menu"
 
-  puts "Generating" + "    " + @title + "  \t\t\t\t  " + ancestors.collect{ |n| n["text"] }.join(":")
+  puts "Generating" + "    " + @title
 
   file_name = "#{$Directory}/#{filename(node)}.md"
 
@@ -117,10 +130,8 @@ def generate (node,ancestors)
   f.close
 end
 
-
-def generate_all
-  @doc = Nokogiri::XML(File.open($SOURCE))
-  # @doc.css("outline[_note]").each do |node|
+def link_table(doc)
+  table = []
   @doc.css("outline").each do |node|
 
     @ancestors = node.ancestors.reverse[3..10]
@@ -132,7 +143,47 @@ def generate_all
     if @ancestors.length > 1 && @ancestors[1]["text"].start_with?("_")
       puts "skipping #{node["text"]}"
     else
-      generate(node, @ancestors)
+      @description = node["_note"]
+      @title = node["text"]
+      @permalink = permalink(node)
+      @archetype = archetype(node)
+      @aspect = aspect(node)
+      @type = type(node,false)
+      @type_general = type(node,true)
+      @draft = @description.nil? || (@description.include? "#draft")
+      @draft = false if @type == "Aspect" || @type == "Menu"
+
+      table << {"link" => @permalink, "title" => @title.gsub("Shadow","").gsub("Mature","").strip} unless @type == "Aspect" || @type == "Menu"
+    end
+
+
+
+  end
+
+  table
+end
+
+def generate_all
+  @doc = Nokogiri::XML(File.open($SOURCE))
+  # @doc.css("outline[_note]").each do |node|
+
+  @link_table = link_table(@doc)
+
+  puts @link_table.inspect
+
+
+  @doc.css("outline").each do |node|
+
+    @ancestors = node.ancestors.reverse[3..10]
+
+    next unless @ancestors
+    next unless @ancestors[0]
+    next if node["text"].start_with?("_")
+
+    if @ancestors.length > 1 && @ancestors[1]["text"].start_with?("_")
+      puts "skipping #{node["text"]}"
+    else
+      generate(node, @link_table)
     end
   end
 end
