@@ -36,6 +36,6 @@ toc_label: Quick Jump
 ## Gift of the Dummy  
 When the [Magician](/magician/mature_magician) is in the [Manipulator](/magician/mature_magician/manipulator_shadow) shadow, he needs the gift of "[beginner's mind](/magician/mind/sage/beginner's_mind)." This helps him be in touch with mystery and [humility](/warrior/heart/explorer/humility).  
   
-**Off [Balance](/king/body/ruler_and_judge/balance):** Believes that the mystery is too much and loses touch with his capacity to know.  
+**Off [Balance](/king/body/peace_maker/balance):** Believes that the mystery is too much and loses touch with his capacity to know.  
 **Qualities:** Ignorance. False [Humility](/warrior/heart/explorer/humility). Lack of [curiosity](/magician/mind/sage/curiosity). Fear of failure.
 ---

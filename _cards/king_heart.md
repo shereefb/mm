@@ -10,6 +10,6 @@ draft: false
 ---
 
 ---
-- [Peace Maker and Diplomat](/king/heart/peace_maker_and_diplomat)
-  - [Compassion](/king/heart/peace_maker_and_diplomat/compassion)
-  - [Generosity](/king/heart/peace_maker_and_diplomat/generosity)
+- [Care Giver](/king/heart/care_giver)
+  - [Compassion](/king/heart/care_giver/compassion)
+  - [Generosity](/king/heart/care_giver/generosity)

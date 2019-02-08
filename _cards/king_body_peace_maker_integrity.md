@@ -1,6 +1,6 @@
 ---
 title: Integrity
-permalink: /king/body/ruler_and_judge/integrity
+permalink: /king/body/peace_maker/integrity
 archetype: King
 category: King
 aspect: Body

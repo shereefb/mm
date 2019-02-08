@@ -21,7 +21,7 @@ toc_label: Quick Jump
 - I depend on people to take care of my realm  
   
 ## Balancing the Weakling  
-- If I'm attracting Tyrants into my life, that means the Weakling energy is out of [balance](/king/body/ruler_and_judge/balance) and taking over.  
+- If I'm attracting Tyrants into my life, that means the Weakling energy is out of [balance](/king/body/peace_maker/balance) and taking over.  
 - I stop letting others do for me what I can do for yourself.  
 - I get in touch with the [Tyrant](/king/mature_king/tyrant_shadow). I feel his hatred and [power](/king/mature_king/power). I accept his qualities as a part of me.  
 - I remember free choice, and claim my [freedom](/lover/spirit/jester/freedom) to live my life the way I want to.   
@@ -29,11 +29,11 @@ toc_label: Quick Jump
 - I remember that people need to keep their agreements with me.  
 - I notice when I'm saying "yes", when I want to be saying "no".  
 - I look for places where I'm not clear about the boundaries of my realm and clarify them.  
-- I feel the [power](/king/mature_king/power) in my belly, and use it with my love to take care of myself and others.  
+- I feel the [power](/king/mature_king/power) in my belly, and use it with my [love](/lover/heart/romantic/love) to take care of myself and others.  
   
 ## Gift of the Weakling  
 When the [King](/king/mature_king) is in [Tyrant](/king/mature_king/tyrant_shadow) shadow, he needs the gift of my [vulnerability](/warrior/mature_warrior/vulnerability). I help him to connect with his heart, and the limits of his [power](/king/mature_king/power), so that he can allow himself to not be in total control.   
   
-**Off [Balance](/king/body/ruler_and_judge/balance):** Lets Chaos reign through powerlessness to bring Order  
+**Off [Balance](/king/body/peace_maker/balance):** Lets Chaos reign through powerlessness to bring Order  
 **Qualities:** Guilt, Helplessness, Powerlessness, Avoidance
 ---

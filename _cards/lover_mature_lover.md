@@ -10,7 +10,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The Mature Lover is extremely sensitive to the inner environment and his inner heart. He is embodied, and knows how to be present and enjoy [pleasure](/lover/heart/care_giver/pleasure) without shame. He is connected to self and others. He takes others as part of himself. The Lover is the source of longing for a better world. He is the idealist and the dreamer. The one who wants an abundance of good things for himself and others.    
+ The Mature Lover is extremely sensitive to the inner environment and his inner heart. He is embodied, and knows how to be present and enjoy [pleasure](/lover/heart/romantic/pleasure) without shame. He is connected to self and others. He takes others as part of himself. The Lover is the source of longing for a better world. He is the idealist and the dreamer. The one who wants an abundance of good things for himself and others.    
   
   
 ## Mature Declarations  
@@ -29,10 +29,10 @@ toc_label: Quick Jump
 - I want to touch and be touched.   
 - I want to experience the world fully.   
   
-**[Balance](/king/body/ruler_and_judge/balance):** [Aliveness](/lover/mature_lover/aliveness) <--> [Groundedness](/lover/mature_lover/groundedness)  
+**[Balance](/king/body/peace_maker/balance):** [Aliveness](/lover/mature_lover/aliveness) <--> [Groundedness](/lover/mature_lover/groundedness)  
 **Shadow:** [Addict](/lover/mature_lover/addict_shadow), [Hermit](/lover/mature_lover/hermit_shadow)  
 **[Power](/king/mature_king/power) Animal:** Sea Otter  
-**Qualities:** [Presence](/lover/mind/innocent/presence), [Wonder](/lover/mind/innocent/wonder), [Aliveness](/lover/mature_lover/aliveness), [Freedom](/lover/spirit/jester/freedom), Joy, Connection, [Pleasure](/lover/heart/care_giver/pleasure), Sensuality, Passion, [Groundedness](/lover/mature_lover/groundedness), Enthusiasm, Empathy  
+**Qualities:** [Presence](/lover/mind/innocent/presence), [Wonder](/lover/mind/innocent/wonder), [Aliveness](/lover/mature_lover/aliveness), [Freedom](/lover/spirit/jester/freedom), Joy, Connection, [Pleasure](/lover/heart/romantic/pleasure), Sensuality, Passion, [Groundedness](/lover/mature_lover/groundedness), Enthusiasm, Empathy  
   
 ---  
   
@@ -42,7 +42,7 @@ Goal: being in a relationship with the people, work and surroundings they love
 Greatest fear: being alone, a wallflower, unwanted, unloved  
 Strategy: to become more and more physically and emotionally attractive  
 Weakness: outward-directed desire to please others at risk of losing own identity  
-Talent: passion, [gratitude](/lover/heart/care_giver/gratitude), appreciation, and commitment  
+Talent: passion, [gratitude](/lover/heart/romantic/gratitude), appreciation, and commitment  
 The Lover is also known as: The partner, friend, intimate, enthusiast, sensualist, spouse, team-builder.  
   
 https://charactertherapist.blogspot.com/2013/05/character-archetypes-101-lover.html  

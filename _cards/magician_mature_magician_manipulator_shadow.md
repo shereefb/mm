@@ -34,7 +34,7 @@ toc_label: Quick Jump
 ## Gift of the Manipulator  
 When the [Magician](/magician/mature_magician) is in his [Dummy](/magician/mature_magician/dummy_shadow) shadow, he needs the gift of my [confidence](/magician/heart/healer/confidence) to get in touch with his ability to know, learn and grow, and not be lost in the mystery.   
   
-**Off [Balance](/king/body/ruler_and_judge/balance):** Believes his [knowledge](/magician/mature_magician/knowledge) is bigger than the mystery, so becomes arrogant and tries to control the mystery.   
+**Off [Balance](/king/body/peace_maker/balance):** Believes his [knowledge](/magician/mature_magician/knowledge) is bigger than the mystery, so becomes arrogant and tries to control the mystery.   
 **Qualities:** Grandiosity. Arrogance. Manipulative. Hustler.  
   
 ----  

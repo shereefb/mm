@@ -10,6 +10,7 @@ draft: false
 ---
 
 ---
-- [Care Giver](/lover/heart/care_giver)
-  - [Pleasure](/lover/heart/care_giver/pleasure)
-  - [Gratitude](/lover/heart/care_giver/gratitude)
+- [Romantic](/lover/heart/romantic)
+  - [Love](/lover/heart/romantic/love)
+  - [Pleasure](/lover/heart/romantic/pleasure)
+  - [Gratitude](/lover/heart/romantic/gratitude)

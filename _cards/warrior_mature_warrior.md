@@ -15,7 +15,7 @@ toc_label: Quick Jump
   
 ## Mature Declarations  
 - I use force to protect the realm, its order, boundaries and agreements.   
-- I love peace, and fight for it.   
+- I [love](/lover/heart/romantic/love) peace, and fight for it.   
 - I don't make enemies, or look for them.   
 - I know how to have healthy anger, and translate it to strong action.   
 - I persist. I give it my all and always do my best.   
@@ -29,7 +29,7 @@ toc_label: Quick Jump
 - I have the capacity to withstand pain, both psychological and physcial.   
 - I am willing to suffer to achieve what I want.   
   
-**[Balance](/king/body/ruler_and_judge/balance):** [Strength](/warrior/mature_warrior/strength) <--> [Vulnerability](/warrior/mature_warrior/vulnerability)   
+**[Balance](/king/body/peace_maker/balance):** [Strength](/warrior/mature_warrior/strength) <--> [Vulnerability](/warrior/mature_warrior/vulnerability)   
 **Shadow:** [Bully](/warrior/mature_warrior/bully_shadow) & [Victim](/warrior/mature_warrior/victim_shadow)  
 **[Power](/king/mature_king/power) Animal:** Tiger   
 **Qualities:** [Honesty](/warrior/mind/activist/honesty), [Ruthlessness](/warrior/body/change_maker/ruthlessness), Exploration, [Destruction](/warrior/spirit/rebel/destruction), [Discipline](/warrior/body/athlete/discipline), [Courage](/warrior/spirit/rebel/courage), [Strength](/warrior/mature_warrior/strength), [Vulnerability](/warrior/mature_warrior/vulnerability), Focus, [Strength](/warrior/mature_warrior/strength), Grit, Resilience, [Discernment](/warrior/mind/activist/discernment), Decisive

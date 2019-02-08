@@ -15,7 +15,7 @@ toc_label: Quick Jump
   
   
 ## Shadow Declarations  
-- Nothing brings me [pleasure](/lover/heart/care_giver/pleasure).   
+- Nothing brings me [pleasure](/lover/heart/romantic/pleasure).   
 - I'm too worried about future consequences to enjoy myself.  
 - The past is too painful for me to enjoy myself now.   
 - I get lost in my inner world to avoid connecting with others.   
@@ -26,7 +26,7 @@ toc_label: Quick Jump
 - I learn to detach from my pain and grief. I am bigger than them.   
 - I reach out to connect to others.  
 - I accept that there is a very wide range of experiences of being alive and I welcome it all.  
-- I recognize that love is everywhere, and there is no limit to it.  
+- I recognize that [love](/lover/heart/romantic/love) is everywhere, and there is no limit to it.  
 - I learn to dance, breathe, and move my body so I can let my heart open and my emotions flow.  
 - I practice spontaneity and following my bliss so I can ignite the passion inside of me.   
 - I give and recieve touch to feel my body connecting to another and inhabit my sensuality.  
@@ -35,6 +35,6 @@ toc_label: Quick Jump
 ## Gift of the Hermit  
 When the [Lover](/lover/mature_lover) is in the [Addict](/lover/mature_lover/addict_shadow) shadow, he needs the [groundedness](/lover/mature_lover/groundedness) and inner focus of the Hermit to come back to reality and get in touch with his body and inner world.  
   
-**Off [Balance](/king/body/ruler_and_judge/balance):** [Groundedness](/lover/mature_lover/groundedness) without [Aliveness](/lover/mature_lover/aliveness) makes the Hermit depressed and lacking [aliveness](/lover/mature_lover/aliveness).  
+**Off [Balance](/king/body/peace_maker/balance):** [Groundedness](/lover/mature_lover/groundedness) without [Aliveness](/lover/mature_lover/aliveness) makes the Hermit depressed and lacking [aliveness](/lover/mature_lover/aliveness).  
 **Qualities:** Depression. Flatness. Sterility. Impotence. Boredom. 
 ---

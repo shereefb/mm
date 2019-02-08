@@ -1,6 +1,6 @@
 ---
 title: Balance
-permalink: /king/body/ruler_and_judge/balance
+permalink: /king/body/peace_maker/balance
 archetype: King
 category: King
 aspect: Body

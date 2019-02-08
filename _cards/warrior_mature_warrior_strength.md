@@ -10,6 +10,6 @@ image: /images/back/strength.jpg
 draft: true
 ---
 #draft pic  
-[warrior](/warrior/mature_warrior) strength from within. sourced in the divine. penetrates with love and truth.   
+[warrior](/warrior/mature_warrior) strength from within. sourced in the divine. penetrates with [love](/lover/heart/romantic/love) and truth.   
 [bully](/warrior/mature_warrior/bully_shadow): phallic strength. stubborn. 
 ---

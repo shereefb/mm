@@ -10,6 +10,6 @@ draft: false
 ---
 
 ---
-- [Ruler and Judge](/king/body/ruler_and_judge)
-  - [Balance](/king/body/ruler_and_judge/balance)
-  - [Integrity](/king/body/ruler_and_judge/integrity)
+- [Peace Maker](/king/body/peace_maker)
+  - [Balance](/king/body/peace_maker/balance)
+  - [Integrity](/king/body/peace_maker/integrity)

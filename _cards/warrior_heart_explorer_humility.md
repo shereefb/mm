@@ -22,7 +22,7 @@ Because the [victim](/warrior/mature_warrior/victim_shadow) is humiliated by lim
 The Mature [Warrior](/warrior/mature_warrior) lets his limitation bring humility. He defends against bullying voices and keeps his dignity. He knows his worth and meets his limitations.  
 He becomes like water. Staying close to the earth and respecting his limits. Like water, he uses patience and persistence to carve through rock.  
   
-When the [Bully](/warrior/mature_warrior/bully_shadow) and [Victim](/warrior/mature_warrior/victim_shadow) fall to their knees, they are humiliated and hang their head down in shame. Their shame comes from not having tried their best before being defeated. When the [Warrior](/warrior/mature_warrior) falls to his knees, he is humbled. Because he has tried his best, he is not humiliated. He connects to the source to reflect, heal and learn. He finds [balance](/king/body/ruler_and_judge/balance) again, and gets back on the battlefield.    
+When the [Bully](/warrior/mature_warrior/bully_shadow) and [Victim](/warrior/mature_warrior/victim_shadow) fall to their knees, they are humiliated and hang their head down in shame. Their shame comes from not having tried their best before being defeated. When the [Warrior](/warrior/mature_warrior) falls to his knees, he is humbled. Because he has tried his best, he is not humiliated. He connects to the source to reflect, heal and learn. He finds [balance](/king/body/peace_maker/balance) again, and gets back on the battlefield.    
   
 The [victim](/warrior/mature_warrior/victim_shadow) bends his head in self-pity. The [Warrior](/warrior/mature_warrior) bends his head down to look inwards, to reflect. To listen to his body and his heart. 
 ---

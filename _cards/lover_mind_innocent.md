@@ -29,7 +29,7 @@ Greatest fear: to be punished for doing something bad or wrong
 Strategy: to do things right  
 Weakness: boring for all their naive innocence  
 Talent: faith and optimism  
-The Innocent is also known as: Utopian, traditionalist, naive, mystic, saint, romantic, dreamer.
+The Innocent is also known as: Utopian, traditionalist, naive, mystic, saint, [romantic](/lover/heart/romantic), dreamer.
 ---
 - [Presence](/lover/mind/innocent/presence)
 - [Wonder](/lover/mind/innocent/wonder)

@@ -12,7 +12,7 @@ draft: true
 #draft   
   
  The strategist: leadership as a game of chess. These people are good at dealing with developments in the organization’s environment. They provide vision, strategic direction and outside-the-box thinking to create new organizational forms and generate future growth.  
- The change-catalyst: leadership as a turnaround activity. These executives love messy situations. They are masters at re-engineering and creating new organizational ”blueprints.”  
+ The change-catalyst: leadership as a turnaround activity. These executives [love](/lover/heart/romantic/love) messy situations. They are masters at re-engineering and creating new organizational ”blueprints.”  
  The transactor: leadership as deal making. These executives are great dealmakers. Skilled at identifying and tackling new opportunities, they thrive on negotiations.  
  The builder: leadership as an entrepreneurial activity. These executives dream of creating something and have the talent and [determination](/warrior/spirit/monk/determination) to make their dream come true.  
  The innovator: leadership as creative idea generation. These people are focused on the new. They possess a great capacity to solve extremely difficult problems.  

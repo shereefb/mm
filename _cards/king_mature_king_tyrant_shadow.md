@@ -22,19 +22,19 @@ toc_label: Quick Jump
 - I try to force order on everyone because I can't handle the chaos  
   
 ## Balancing the Tyrant  
-- If I'm attracting weaklings into my life then the Tyrant energy is out of [balance](/king/body/ruler_and_judge/balance) and taking over.  
+- If I'm attracting weaklings into my life then the Tyrant energy is out of [balance](/king/body/peace_maker/balance) and taking over.  
 - I get in touch with the [Weakling](/king/mature_king/weakling_shadow). I feel his [vulnerability](/warrior/mature_warrior/vulnerability) and out of controlness, and I accept his qualities as a part of me.   
 - I stop doing for others what they can do for themselves.   
 - I [respect](/king/spirit/leader/respect) other people's [freedom](/lover/spirit/jester/freedom) to be who they are, and do what they want.  
 - I focus on making requests and not demands.   
 - I remember that nobody owes me anything unless they agreed to it.   
 - I notice when people are saying "yes" just because they are scared of me.  
-- I feel the [compassion](/king/heart/peace_maker_and_diplomat/compassion) in my heart, and my love for people, and use my [power](/king/mature_king/power) to serve with love.   
+- I feel the [compassion](/king/heart/care_giver/compassion) in my heart, and my [love](/lover/heart/romantic/love) for people, and use my [power](/king/mature_king/power) to serve with [love](/lover/heart/romantic/love).   
 - I notice and let go of my addiction to be needed so I can feel important.  
   
 ## Gift of the Tyrant  
-When the [King](/king/mature_king) is in his [Weakling](/king/mature_king/weakling_shadow) shadow, I let him feel my [power](/king/mature_king/power) and hatred to [balance](/king/body/ruler_and_judge/balance) him.   
+When the [King](/king/mature_king) is in his [Weakling](/king/mature_king/weakling_shadow) shadow, I let him feel my [power](/king/mature_king/power) and hatred to [balance](/king/body/peace_maker/balance) him.   
   
-**Off [Balance](/king/body/ruler_and_judge/balance):** Tries to make Order defeat Chaos through control  
+**Off [Balance](/king/body/peace_maker/balance):** Tries to make Order defeat Chaos through control  
 **Qualities:** Blame, Self-importance, Hatred
 ---

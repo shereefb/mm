@@ -13,7 +13,7 @@ draft: false
   
 |"Power is the ability to do good things for others."  
   
-|"When the power of love overcomes the love of power, there [will](/warrior/body/athlete/will) be peace."  
+|"When the power of [love](/lover/heart/romantic/love) overcomes the [love](/lover/heart/romantic/love) of power, there [will](/warrior/body/athlete/will) be peace."  
   
 |"The measure of a man is what he does with power."  
   

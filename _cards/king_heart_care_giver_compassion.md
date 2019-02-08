@@ -1,6 +1,6 @@
 ---
 title: Compassion
-permalink: /king/heart/peace_maker_and_diplomat/compassion
+permalink: /king/heart/care_giver/compassion
 archetype: King
 category: King
 aspect: Heart
@@ -10,7 +10,7 @@ image: /images/back/compassion.jpg
 draft: true
 ---
 #draft pic Compassion is great  
-[Balance](/king/body/ruler_and_judge/balance) Action and Empathy.   
+[Balance](/king/body/peace_maker/balance) Action and Empathy.   
 Mature [king](/king/mature_king) allows for the pain of others, and lets his heart be touched and resonate with their pain. Tries to prevent unnecessary suffering.   
 [Tyrant](/king/mature_king/tyrant_shadow) is closed-hearted, and inflicts pain without compassion. Action without Empathy.   
 [Weakling](/king/mature_king/weakling_shadow) doesn't want others to hurt, tries to protect them from pain and suffering with false compassion. Empathy without Action.   

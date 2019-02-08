@@ -20,9 +20,9 @@ toc_label: Quick Jump
 - I hate weak people  
   
 ## Balancing the Bully  
-- If I'm attracting Victims in my life then the Bully energy is out of [balance](/king/body/ruler_and_judge/balance) and taking over.   
+- If I'm attracting Victims in my life then the Bully energy is out of [balance](/king/body/peace_maker/balance) and taking over.   
 - I get in touch with the [vulnerability](/warrior/mature_warrior/vulnerability) and sensitivity of the [Victim](/warrior/mature_warrior/victim_shadow)  
-- I remember that I need love and connection to other people, and that my feelings and theirs matter.   
+- I remember that I need [love](/lover/heart/romantic/love) and connection to other people, and that my feelings and theirs matter.   
 - I remember that [courage](/warrior/spirit/rebel/courage) doesn't mean not being afraid. I connect with my fear and accept it.  
 - I remember that [strength](/warrior/mature_warrior/strength) doesn't mean not having weakness. I connect with my weakness and accept it.  
 - I remember that I'm here to serve something greater than myself, and that my [strength](/warrior/mature_warrior/strength) was given to me to serve others.  
@@ -33,6 +33,6 @@ toc_label: Quick Jump
 ## Gift of the Bully  
 If a [Warrior](/warrior/mature_warrior) is stuck in [Victim](/warrior/mature_warrior/victim_shadow) energy, they need the gift of the bully's explosive anger in order to get back in touch with their [strength](/warrior/mature_warrior/strength).   
   
-**Off [Balance](/king/body/ruler_and_judge/balance):** Tries to override [vulnerability](/warrior/mature_warrior/vulnerability) with [Strength](/warrior/mature_warrior/strength)  
+**Off [Balance](/king/body/peace_maker/balance):** Tries to override [vulnerability](/warrior/mature_warrior/vulnerability) with [Strength](/warrior/mature_warrior/strength)  
 **Qualities:** Unhealthy Anger, Forcing, Coersion, Cruelty, Violence
 ---

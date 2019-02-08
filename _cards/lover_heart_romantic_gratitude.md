@@ -1,6 +1,6 @@
 ---
 title: Gratitude
-permalink: /lover/heart/care_giver/gratitude
+permalink: /lover/heart/romantic/gratitude
 archetype: Lover
 category: Lover
 aspect: Heart

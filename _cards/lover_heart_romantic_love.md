@@ -1,13 +1,13 @@
 ---
-title: Pleasure
-permalink: /lover/heart/care_giver/pleasure
+title: Love
+permalink: /lover/heart/romantic/love
 archetype: Lover
 category: Lover
 aspect: Heart
 type: Quality
 type_general: Quality
-image: /images/back/pleasure.jpg
+image: /images/back/love.jpg
 draft: true
 ---
-#draft pic
+
 ---

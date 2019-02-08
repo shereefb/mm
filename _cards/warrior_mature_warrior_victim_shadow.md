@@ -21,7 +21,7 @@ toc_label: Quick Jump
 - I need to be hard on myself  
   
 ## Balancing the Victim  
-- If I'm attracting Bullies in my life, then the Victim energy is out of [balance](/king/body/ruler_and_judge/balance) and taking over.   
+- If I'm attracting Bullies in my life, then the Victim energy is out of [balance](/king/body/peace_maker/balance) and taking over.   
 - I get in touch with anger, [strength](/warrior/mature_warrior/strength) and [courage](/warrior/spirit/rebel/courage) of the [Bully](/warrior/mature_warrior/bully_shadow)  
 - I remember that I am bigger than my fear, and I practice doing things that I'm afraid of.   
 - I remember that having weakness, doesn't mean I'm weak.  
@@ -35,6 +35,6 @@ toc_label: Quick Jump
 ## Gift of the Victim  
 If a [Warrior](/warrior/mature_warrior) is stuck in [Bully](/warrior/mature_warrior/bully_shadow) energy, he can call on the gift of the Victim's [vulnerability](/warrior/mature_warrior/vulnerability) and sensitivity to get in touch with his pain and others.'  
   
-**Off [Balance](/king/body/ruler_and_judge/balance):** In touch with [vulnerability](/warrior/mature_warrior/vulnerability) but loses touch with [strength](/warrior/mature_warrior/strength).  
+**Off [Balance](/king/body/peace_maker/balance):** In touch with [vulnerability](/warrior/mature_warrior/vulnerability) but loses touch with [strength](/warrior/mature_warrior/strength).  
 **Qualities:** Self-pity. Pathetic. Whining. Complaining. Passive-Agressive.
 ---

@@ -4,7 +4,8 @@ require 'fileutils'
 
 $Directory = "../_cards"
 $SOURCE = "processed.OPML"
-$RAW = "dynalist-2019-2-8.opml"
+$RAW = "dynalist-2019-2-7.opml"
+$out = File.new("becomingmen.md","w")
 
 def prepare_input
   raw = File.open($RAW, "r")
@@ -17,24 +18,8 @@ def prepare_input
   processed.close
 end
 
-def refresh_directory
-  # Refreshing directory
-  FileUtils.remove_dir($Directory)
-  Dir.mkdir($Directory)
-end
-
 def to_url(string)
   string.downcase.gsub(" ","_")
-end
-
-def permalink(node)
-  ancestors = node.ancestors.reverse[4..10]
-  "/" + ancestors.collect{ |n| to_url(n["text"]) }.join("/") + "/#{to_url(node["text"])}"
-end
-
-def filename(node)
-  ancestors = node.ancestors.reverse[4..10]
-  (ancestors << node).collect{ |n| to_url(n["text"]) }.join("_")
 end
 
 def archetype(node)
@@ -85,23 +70,16 @@ def generate_links(text, link_table, title)
   text
 end
 
-def generate (node, link_table)
+def generate (node)
 
   @title = node["text"]
-  @description = generate_links(node["_note"], link_table, @title)
-  @permalink = permalink(node)
-  @archetype = archetype(node)
-  @aspect = aspect(node)
+  @description = node["_note"]
   @type = type(node,false)
   @type_general = type(node,true)
-  @draft = @description.nil? || (@description.include? "#draft")
-  @draft = false if @type == "Aspect" || @type == "Menu"
 
   puts "Generating" + "    " + @title
 
-  file_name = "#{$Directory}/#{filename(node)}.md"
-
-  f = File.new(file_name, 'w')
+  f = $out
 
   f.write("---\n")
   f.write("title: #{@title}\n")
@@ -164,11 +142,6 @@ def generate_all
   @doc = Nokogiri::XML(File.open($SOURCE))
   # @doc.css("outline[_note]").each do |node|
 
-  @link_table = link_table(@doc)
-
-  puts @link_table.inspect
-
-
   @doc.css("outline").each do |node|
 
     @ancestors = node.ancestors.reverse[3..10]
@@ -180,11 +153,10 @@ def generate_all
     if @ancestors.length > 1 && @ancestors[1]["text"].start_with?("_")
       puts "skipping #{node["text"]}"
     else
-      generate(node, @link_table)
+      generate(node)
     end
   end
 end
 
 prepare_input
-refresh_directory
 generate_all
