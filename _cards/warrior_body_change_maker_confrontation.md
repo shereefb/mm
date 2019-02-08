@@ -1,6 +1,6 @@
 ---
 title: Confrontation
-permalink: /warrior/body/revolutionary_change_maker/confrontation
+permalink: /warrior/body/change_maker/confrontation
 archetype: Warrior
 category: Warrior
 aspect: Body

@@ -1,6 +1,6 @@
 ---
 title: Ruthlessness
-permalink: /warrior/body/revolutionary_change_maker/ruthlessness
+permalink: /warrior/body/change_maker/ruthlessness
 archetype: Warrior
 category: Warrior
 aspect: Body
