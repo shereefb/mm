@@ -4,8 +4,8 @@ permalink: /warrior/spirit/monk/impeccability
 archetype: Warrior
 category: Warrior
 aspect: Spirit
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/impeccability.jpg
 draft: true
 ---

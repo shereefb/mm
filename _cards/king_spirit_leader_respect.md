@@ -4,8 +4,8 @@ permalink: /king/spirit/leader/respect
 archetype: King
 category: King
 aspect: Spirit
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/respect.jpg
 draft: true
 ---

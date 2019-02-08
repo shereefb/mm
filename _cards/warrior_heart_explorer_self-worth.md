@@ -4,8 +4,8 @@ permalink: /warrior/heart/explorer/self-worth
 archetype: Warrior
 category: Warrior
 aspect: Heart
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/self-worth.jpg
 draft: true
 ---

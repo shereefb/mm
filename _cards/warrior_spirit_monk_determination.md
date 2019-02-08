@@ -4,8 +4,8 @@ permalink: /warrior/spirit/monk/determination
 archetype: Warrior
 category: Warrior
 aspect: Spirit
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/determination.jpg
 draft: true
 ---

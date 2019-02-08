@@ -4,8 +4,8 @@ permalink: /magician/mind/sage/beginner's_mind
 archetype: Magician
 category: Magician
 aspect: Mind
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/beginner's_mind.jpg
 draft: true
 ---

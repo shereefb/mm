@@ -4,8 +4,8 @@ permalink: /lover/spirit/jester/freedom
 archetype: Lover
 category: Lover
 aspect: Spirit
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/freedom.jpg
 draft: true
 ---

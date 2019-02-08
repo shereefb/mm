@@ -4,8 +4,8 @@ permalink: /magician/spirit/priest/spirituality
 archetype: Magician
 category: Magician
 aspect: Spirit
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/spirituality.jpg
 draft: true
 ---

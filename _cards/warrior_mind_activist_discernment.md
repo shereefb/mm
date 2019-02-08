@@ -4,8 +4,8 @@ permalink: /warrior/mind/activist/discernment
 archetype: Warrior
 category: Warrior
 aspect: Mind
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/discernment.jpg
 draft: true
 ---

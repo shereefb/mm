@@ -57,7 +57,7 @@ def type(node,generalize=false)
   return "Menu" if ancestors.length < 1
   return "Aspect" if ["Mind","Body","Heart","Spirit"].include? node["text"]
   return "Archetype" if node["text"].include?("Mature") || node["text"].include?("Shadow")
-  return "Sub Archetype" if ["Mind","Body","Heart","Spirit"].include?(ancestors[1]["text"])
+  return "Sub Archetype" if ["Mind","Body","Heart","Spirit"].include?(ancestors[1]["text"]) && ancestors.length == 2
   return "Quality"
 end
 

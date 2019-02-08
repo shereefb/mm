@@ -4,8 +4,8 @@ permalink: /warrior/spirit/rebel/destruction
 archetype: Warrior
 category: Warrior
 aspect: Spirit
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/destruction.jpg
 draft: true
 ---

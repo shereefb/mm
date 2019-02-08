@@ -4,8 +4,8 @@ permalink: /king/mind/visionary/clarity
 archetype: King
 category: King
 aspect: Mind
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/clarity.jpg
 draft: false
 ---

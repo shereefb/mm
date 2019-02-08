@@ -4,8 +4,8 @@ permalink: /warrior/body/athlete/discipline
 archetype: Warrior
 category: Warrior
 aspect: Body
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/discipline.jpg
 draft: true
 ---

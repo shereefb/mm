@@ -4,8 +4,8 @@ permalink: /king/body/ruler_and_judge/balance
 archetype: King
 category: King
 aspect: Body
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/balance.jpg
 draft: true
 ---

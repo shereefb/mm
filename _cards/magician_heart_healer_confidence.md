@@ -4,8 +4,8 @@ permalink: /magician/heart/healer/confidence
 archetype: Magician
 category: Magician
 aspect: Heart
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/confidence.jpg
 draft: true
 ---

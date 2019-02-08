@@ -4,8 +4,8 @@ permalink: /king/heart/peace_maker_and_diplomat/generosity
 archetype: King
 category: King
 aspect: Heart
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/generosity.jpg
 draft: true
 ---

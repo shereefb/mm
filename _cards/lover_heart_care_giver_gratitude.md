@@ -4,8 +4,8 @@ permalink: /lover/heart/care_giver/gratitude
 archetype: Lover
 category: Lover
 aspect: Heart
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/gratitude.jpg
 draft: true
 ---

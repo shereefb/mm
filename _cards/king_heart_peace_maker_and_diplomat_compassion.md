@@ -4,8 +4,8 @@ permalink: /king/heart/peace_maker_and_diplomat/compassion
 archetype: King
 category: King
 aspect: Heart
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/compassion.jpg
 draft: true
 ---

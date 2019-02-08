@@ -4,8 +4,8 @@ permalink: /king/spirit/leader/leadership
 archetype: King
 category: King
 aspect: Spirit
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/leadership.jpg
 draft: true
 ---

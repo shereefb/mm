@@ -4,8 +4,8 @@ permalink: /warrior/body/revolutionary_change_maker/ruthlessness
 archetype: Warrior
 category: Warrior
 aspect: Body
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/ruthlessness.jpg
 draft: true
 ---

@@ -4,8 +4,8 @@ permalink: /warrior/heart/explorer/humility
 archetype: Warrior
 category: Warrior
 aspect: Heart
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/humility.jpg
 draft: true
 ---

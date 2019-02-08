@@ -4,8 +4,8 @@ permalink: /lover/mind/innocent/wonder
 archetype: Lover
 category: Lover
 aspect: Mind
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/wonder.jpg
 draft: true
 ---

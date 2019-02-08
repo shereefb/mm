@@ -4,8 +4,8 @@ permalink: /lover/mind/innocent/presence
 archetype: Lover
 category: Lover
 aspect: Mind
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/presence.jpg
 draft: true
 ---

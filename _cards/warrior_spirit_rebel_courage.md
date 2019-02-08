@@ -4,8 +4,8 @@ permalink: /warrior/spirit/rebel/courage
 archetype: Warrior
 category: Warrior
 aspect: Spirit
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/courage.jpg
 draft: false
 ---

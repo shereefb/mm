@@ -4,8 +4,8 @@ permalink: /lover/body/orphan/aloneness_
 archetype: Lover
 category: Lover
 aspect: Body
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/aloneness_.jpg
 draft: true
 ---

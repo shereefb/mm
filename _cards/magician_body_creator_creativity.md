@@ -4,8 +4,8 @@ permalink: /magician/body/creator/creativity
 archetype: Magician
 category: Magician
 aspect: Body
-type: Sub Archetype
-type_general: Sub Archetype
+type: Quality
+type_general: Quality
 image: /images/back/creativity.jpg
 draft: true
 ---
