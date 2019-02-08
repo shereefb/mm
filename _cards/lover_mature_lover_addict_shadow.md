@@ -11,7 +11,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The [Addict](/lover/mature_lover/addict_shadow) is a [lover](/lover/mature_lover) who is avoiding pain and focused on the outside world for [pleasure](/lover/heart/care_giver/pleasure). He's always restless, and always searching for something "more." He is hungry to experience the next thing, and doesn't accept limit on his [pleasure](/lover/heart/care_giver/pleasure) or recognize healthy boundaries.  
+ The Addict is a [lover](/lover/mature_lover) who is avoiding pain and focused on the outside world for [pleasure](/lover/heart/care_giver/pleasure). He's always restless, and always searching for something "more." He is hungry to experience the next thing, and doesn't accept limit on his [pleasure](/lover/heart/care_giver/pleasure) or recognize healthy boundaries.  
   
   
 ## Shadow Declarations  
@@ -23,7 +23,7 @@ toc_label: Quick Jump
 - I refuse limits on my sensual [pleasure](/lover/heart/care_giver/pleasure).  
   
   
-## Balancing the [Addict](/lover/mature_lover/addict_shadow)  
+## Balancing the Addict  
 - I connect to my pain and grief and feel it fully. I stop running from it and numbing it.  
 - I remember to connect to myself before others.  
 - I accept that there is a very wide range of experiences of being alive and I welcome it all.  
@@ -32,9 +32,9 @@ toc_label: Quick Jump
 - I set boundaries for myself and others, so I can gain distance and seperateness.  
   
   
-## Gift of the [Addict](/lover/mature_lover/addict_shadow)  
-When the [Lover](/lover/mature_lover) is in the [Hermit](/lover/mature_lover/hermit_shadow) shadow, he needs the passion and outward focus of the [Addict](/lover/mature_lover/addict_shadow) to get out of his rut.  
+## Gift of the Addict  
+When the [Lover](/lover/mature_lover) is in the [Hermit](/lover/mature_lover/hermit_shadow) shadow, he needs the passion and outward focus of the Addict to get out of his rut.  
   
-**Off [Balance](/king/body/ruler_and_judge/balance):** [Aliveness](/lover/mature_lover/aliveness) without [groundedness](/lover/mature_lover/groundedness) makes the [addict](/lover/mature_lover/addict_shadow) volatile and unhinged.  
+**Off [Balance](/king/body/ruler_and_judge/balance):** [Aliveness](/lover/mature_lover/aliveness) without [groundedness](/lover/mature_lover/groundedness) makes the addict volatile and unhinged.  
 **Qualities:** Volatility. Restlessness. Obsession. Mania
 ---

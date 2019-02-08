@@ -10,7 +10,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The [King](/king/mature_king) in his fullness brings order, and fertility to the realm. He stabilizes chaotic emotion and provides centerdness to others. He brings calm and [balance](/king/body/ruler_and_judge/balance). Defends the [integrity](/king/body/ruler_and_judge/integrity) of being and purpose, and provides a sense of order. The mature [King](/king/mature_king) looks to the world with a firm and kind eye. He sees others in all their weakness and their talent and worth. He honors, promotes them, and guides them towards their potential. He rewards and encourages. He embodies true [authority](/king/spirit/leader/authority).   
+ The King in his fullness brings order, and fertility to the realm. He stabilizes chaotic emotion and provides centerdness to others. He brings calm and [balance](/king/body/ruler_and_judge/balance). Defends the [integrity](/king/body/ruler_and_judge/integrity) of being and purpose, and provides a sense of order. The mature King looks to the world with a firm and kind eye. He sees others in all their weakness and their talent and worth. He honors, promotes them, and guides them towards their potential. He rewards and encourages. He embodies true [authority](/king/spirit/leader/authority).   
   
   
 ## Mature Declarations    

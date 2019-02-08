@@ -10,7 +10,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The Mature [Magician](/magician/mature_magician) is the knower and the master of technology. He guides the process of [transformation](/magician/body/creator/transformation), both within and without, by using ritual and ceremony. He is initiated into secret and hidden [knowledge](/magician/mature_magician/knowledge) of all kinds by other Magicians. All [knowledge](/magician/mature_magician/knowledge) that takes special training to acquire is the province of the [Magician](/magician/mature_magician). He has insight, and connects the hidden world and the visible world with his [knowledge](/magician/mature_magician/knowledge). He uses this [knowledge](/magician/mature_magician/knowledge) for the benefit of the realm.  
+ The Mature Magician is the knower and the master of technology. He guides the process of [transformation](/magician/body/creator/transformation), both within and without, by using ritual and ceremony. He is initiated into secret and hidden [knowledge](/magician/mature_magician/knowledge) of all kinds by other Magicians. All [knowledge](/magician/mature_magician/knowledge) that takes special training to acquire is the province of the Magician. He has insight, and connects the hidden world and the visible world with his [knowledge](/magician/mature_magician/knowledge). He uses this [knowledge](/magician/mature_magician/knowledge) for the benefit of the realm.  
   
   
 ## Mature Declarations  
@@ -40,9 +40,9 @@ Greatest fear: unintended negative consequences
 Strategy: develop a vision and live by it  
 Weakness: becoming manipulative  
 Talent: finding win-win solutions  
-The [Magician](/magician/mature_magician) is also known as:The [visionary](/king/mind/visionary), catalyst, inventor, charismatic [leader](/king/spirit/leader), shaman, [healer](/magician/heart/healer), medicine man.  
+The Magician is also known as:The [visionary](/king/mind/visionary), catalyst, inventor, charismatic [leader](/king/spirit/leader), shaman, [healer](/magician/heart/healer), medicine man.  
   
-https://charactertherapist.blogspot.com/2013/06/character-archetypes-101-[magician](/magician/mature_magician).html  
+https://charactertherapist.blogspot.com/2013/06/character-archetypes-101-magician.html  
 
 ---
 - [Mastery](/magician/mature_magician/mastery)

@@ -10,7 +10,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The Mature [Warrior](/warrior/mature_warrior) has an aggressive stance towards life that rouses, energizes, and motivates. He pushes to take an offensive position with life's problems and challenges. The [warrior](/warrior/mature_warrior) is always alert with a focused mind and a strong body. He is a hunter and [explorer](/warrior/heart/explorer). He has a brave and unconquerable spirit. He is loyal to something greater than himself.   
+ The Mature Warrior has an aggressive stance towards life that rouses, energizes, and motivates. He pushes to take an offensive position with life's problems and challenges. The warrior is always alert with a focused mind and a strong body. He is a hunter and [explorer](/warrior/heart/explorer). He has a brave and unconquerable spirit. He is loyal to something greater than himself.   
   
   
 ## Mature Declarations  

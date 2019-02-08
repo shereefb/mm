@@ -10,7 +10,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The Mature [Lover](/lover/mature_lover) is extremely sensitive to the inner environment and his inner heart. He is embodied, and knows how to be present and enjoy [pleasure](/lover/heart/care_giver/pleasure) without shame. He is connected to self and others. He takes others as part of himself. The [Lover](/lover/mature_lover) is the source of longing for a better world. He is the idealist and the dreamer. The one who wants an abundance of good things for himself and others.    
+ The Mature Lover is extremely sensitive to the inner environment and his inner heart. He is embodied, and knows how to be present and enjoy [pleasure](/lover/heart/care_giver/pleasure) without shame. He is connected to self and others. He takes others as part of himself. The Lover is the source of longing for a better world. He is the idealist and the dreamer. The one who wants an abundance of good things for himself and others.    
   
   
 ## Mature Declarations  
@@ -43,9 +43,9 @@ Greatest fear: being alone, a wallflower, unwanted, unloved
 Strategy: to become more and more physically and emotionally attractive  
 Weakness: outward-directed desire to please others at risk of losing own identity  
 Talent: passion, [gratitude](/lover/heart/care_giver/gratitude), appreciation, and commitment  
-The [Lover](/lover/mature_lover) is also known as: The partner, friend, intimate, enthusiast, sensualist, spouse, team-builder.  
+The Lover is also known as: The partner, friend, intimate, enthusiast, sensualist, spouse, team-builder.  
   
-https://charactertherapist.blogspot.com/2013/05/character-archetypes-101-[lover](/lover/mature_lover).html  
+https://charactertherapist.blogspot.com/2013/05/character-archetypes-101-lover.html  
 
 ---
 - [Aliveness](/lover/mature_lover/aliveness)

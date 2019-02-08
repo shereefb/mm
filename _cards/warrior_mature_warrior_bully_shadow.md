@@ -11,7 +11,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The [Bully](/warrior/mature_warrior/bully_shadow) is a [Warrior](/warrior/mature_warrior) who loses touch with his [vulnerability](/warrior/mature_warrior/vulnerability) and his sensitivity. He has the false belief that [Courage](/warrior/spirit/rebel/courage) means not being afraid, so he pretends not to be afraid and tries to control his feelings. Instead of using his [strength](/warrior/mature_warrior/strength) and agressiveness to serve the realm, he uses them to only serve his own interests. His anger becomes violent, and his actions cause unnecessary pain and suffering in others.   
+ The Bully is a [Warrior](/warrior/mature_warrior) who loses touch with his [vulnerability](/warrior/mature_warrior/vulnerability) and his sensitivity. He has the false belief that [Courage](/warrior/spirit/rebel/courage) means not being afraid, so he pretends not to be afraid and tries to control his feelings. Instead of using his [strength](/warrior/mature_warrior/strength) and agressiveness to serve the realm, he uses them to only serve his own interests. His anger becomes violent, and his actions cause unnecessary pain and suffering in others.   
   
   
 ## Shadow Declarations  
@@ -19,8 +19,8 @@ toc_label: Quick Jump
 - I don't care about feelings  
 - I hate weak people  
   
-## Balancing the [Bully](/warrior/mature_warrior/bully_shadow)  
-- If I'm attracting Victims in my life then the [Bully](/warrior/mature_warrior/bully_shadow) energy is out of [balance](/king/body/ruler_and_judge/balance) and taking over.   
+## Balancing the Bully  
+- If I'm attracting Victims in my life then the Bully energy is out of [balance](/king/body/ruler_and_judge/balance) and taking over.   
 - I get in touch with the [vulnerability](/warrior/mature_warrior/vulnerability) and sensitivity of the [Victim](/warrior/mature_warrior/victim_shadow)  
 - I remember that I need love and connection to other people, and that my feelings and theirs matter.   
 - I remember that [courage](/warrior/spirit/rebel/courage) doesn't mean not being afraid. I connect with my fear and accept it.  
@@ -30,8 +30,8 @@ toc_label: Quick Jump
 - I let go of the idea that other people are my enemy.  
 - I stop trying to control my feelings and the feelings of others.  
   
-## Gift of the [Bully](/warrior/mature_warrior/bully_shadow)  
-If a [Warrior](/warrior/mature_warrior) is stuck in [Victim](/warrior/mature_warrior/victim_shadow) energy, they need the gift of the [bully](/warrior/mature_warrior/bully_shadow)'s explosive anger in order to get back in touch with their [strength](/warrior/mature_warrior/strength).   
+## Gift of the Bully  
+If a [Warrior](/warrior/mature_warrior) is stuck in [Victim](/warrior/mature_warrior/victim_shadow) energy, they need the gift of the bully's explosive anger in order to get back in touch with their [strength](/warrior/mature_warrior/strength).   
   
 **Off [Balance](/king/body/ruler_and_judge/balance):** Tries to override [vulnerability](/warrior/mature_warrior/vulnerability) with [Strength](/warrior/mature_warrior/strength)  
 **Qualities:** Unhealthy Anger, Forcing, Coersion, Cruelty, Violence

@@ -11,7 +11,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The [Dummy](/magician/mature_magician/dummy_shadow) is a [Magician](/magician/mature_magician) that doesn't want the [responsibility](/king/mature_king/responsibility) that comes from the [knowledge](/magician/mature_magician/knowledge). He doesn't want to share, teach or help others. He does not want to do the work to steward a sacred space, or to know himself.  
+ The Dummy is a [Magician](/magician/mature_magician) that doesn't want the [responsibility](/king/mature_king/responsibility) that comes from the [knowledge](/magician/mature_magician/knowledge). He doesn't want to share, teach or help others. He does not want to do the work to steward a sacred space, or to know himself.  
   
   
 ## Shadow Declarations  
@@ -23,7 +23,7 @@ toc_label: Quick Jump
 - I don't want to make mistakes.   
 - It's easier not to make an effort, and to criticize the efforts of others.  
   
-## Balancing the [Dummy](/magician/mature_magician/dummy_shadow)  
+## Balancing the Dummy  
 - I recognize that to serve the realm I need to acquire [knowledge](/magician/mature_magician/knowledge).   
 - I get in touch with the [confidence](/magician/heart/healer/confidence) of the [Manipulator](/magician/mature_magician/manipulator_shadow) to feel less helpless and overwhelmed.  
 - I find Magicians that I [respect](/king/spirit/leader/respect) and ask them to teach me and initiate me.   
@@ -33,7 +33,7 @@ toc_label: Quick Jump
 - I learn to meditate so I can detach and connect to the mystery.   
   
   
-## Gift of the [Dummy](/magician/mature_magician/dummy_shadow)  
+## Gift of the Dummy  
 When the [Magician](/magician/mature_magician) is in the [Manipulator](/magician/mature_magician/manipulator_shadow) shadow, he needs the gift of "[beginner's mind](/magician/mind/sage/beginner's_mind)." This helps him be in touch with mystery and [humility](/warrior/heart/explorer/humility).  
   
 **Off [Balance](/king/body/ruler_and_judge/balance):** Believes that the mystery is too much and loses touch with his capacity to know.  
