@@ -13,7 +13,7 @@ draft: true
   
 ---  
   
-Motto: [Power](/king/mature_king/[power](/king/mature_king/power)) isn't everything, it's the only thing.  
+Motto: [Power](/king/mature_king/power) isn't everything, it's the only thing.  
 Core desire: control  
 Goal: create a prosperous, successful family or community  
 Strategy: exercise [power](/king/mature_king/power)  

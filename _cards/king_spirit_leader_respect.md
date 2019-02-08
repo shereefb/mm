@@ -17,12 +17,12 @@ draft: true
 - Self respect, means having a good reputation with yourself. Keeping your word to yourself. Making decisions and taking actions in a way that makes you like yourself.   
 - When we treat ourselves with respect and set good boundaries, we teach other people how we want to be treated.   
 - [Tyrant](/king/mature_king/tyrant_shadow) demands respect. [Weakling](/king/mature_king/weakling_shadow) doesn't respect self.   
-- [King](/[king](/king/mature_king)/mature_king) earns respect, by first respecting himself.   
+- [King](/king/mature_king) earns respect, by first respecting himself.   
 - Respects the queen and the feminine. Everything is born of the feminine  
 - Respects himself and the masculine. Everything is sparked by the masculine  
 - Re-spect means to look again. To honor the sanctity of everything.   
-- Not criticizing self or others. [Tyrant](/king/mature_king/tyrant_shadow) criticizes others. [Weakling](/king/mature_king/weakling_shadow) criticizes self and lets others criticize him. [King](/[king](/king/mature_king)/mature_king) accepts himself and others.   
-- [King](/[king](/king/mature_king)/mature_king) apologizes with self respect. appropriate remorse and regret. Tyrants lives unapologitecially. [Weakling](/king/mature_king/weakling_shadow) diminishes himself in shame when he apologizes.   
+- Not criticizing self or others. [Tyrant](/king/mature_king/tyrant_shadow) criticizes others. [Weakling](/king/mature_king/weakling_shadow) criticizes self and lets others criticize him. [King](/king/mature_king) accepts himself and others.   
+- [King](/king/mature_king) apologizes with self respect. appropriate remorse and regret. Tyrants lives unapologitecially. [Weakling](/king/mature_king/weakling_shadow) diminishes himself in shame when he apologizes.   
 - Respects his body. [Tyrant](/king/mature_king/tyrant_shadow) controls his body. [Weakling](/king/mature_king/weakling_shadow) neglects his body.   
 - Respecting the earth, our environment, our word, our limitations, Respect opposition and enemy. Respect their shadow.   
 - Spend time with respectful and self-respecting people  

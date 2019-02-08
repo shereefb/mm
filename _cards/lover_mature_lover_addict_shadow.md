@@ -33,8 +33,8 @@ toc_label: Quick Jump
   
   
 ## Gift of the [Addict](/lover/mature_lover/addict_shadow)  
-When the [Lover](/[lover](/lover/mature_lover)/mature_lover) is in the [Hermit](/lover/mature_lover/hermit_shadow) shadow, he needs the passion and outward focus of the [Addict](/lover/mature_lover/addict_shadow) to get out of his rut.  
+When the [Lover](/lover/mature_lover) is in the [Hermit](/lover/mature_lover/hermit_shadow) shadow, he needs the passion and outward focus of the [Addict](/lover/mature_lover/addict_shadow) to get out of his rut.  
   
-**Off [Balance](/king/body/ruler_and_judge/[balance](/king/body/ruler_and_judge/balance)):** [Aliveness](/lover/mature_lover/[aliveness](/lover/mature_lover/aliveness)) without [groundedness](/lover/mature_lover/groundedness) makes the [addict](/lover/mature_lover/addict_shadow) volatile and unhinged.  
+**Off [Balance](/king/body/ruler_and_judge/balance):** [Aliveness](/lover/mature_lover/aliveness) without [groundedness](/lover/mature_lover/groundedness) makes the [addict](/lover/mature_lover/addict_shadow) volatile and unhinged.  
 **Qualities:** Volatility. Restlessness. Obsession. Mania
 ---

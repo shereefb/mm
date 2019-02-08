@@ -11,7 +11,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The [Hermit](/lover/mature_lover/hermit_shadow) is a [Lover](/[lover](/lover/mature_lover)/mature_lover) who has lost touch with his [aliveness](/lover/mature_lover/aliveness) and experiences life in an "unfeeling" way. He has a lack of enthusiasm, vividness and vitality. Bored and listless, he is isolated and disconnected from friends and family. He feels cut off from himself, and his heart is closed.   
+ The [Hermit](/lover/mature_lover/hermit_shadow) is a [Lover](/lover/mature_lover) who has lost touch with his [aliveness](/lover/mature_lover/aliveness) and experiences life in an "unfeeling" way. He has a lack of enthusiasm, vividness and vitality. Bored and listless, he is isolated and disconnected from friends and family. He feels cut off from himself, and his heart is closed.   
   
   
 ## Shadow Declarations  
@@ -33,8 +33,8 @@ toc_label: Quick Jump
   
   
 ## Gift of the [Hermit](/lover/mature_lover/hermit_shadow)  
-When the [Lover](/[lover](/lover/mature_lover)/mature_lover) is in the [Addict](/lover/mature_lover/addict_shadow) shadow, he needs the [groundedness](/lover/mature_lover/groundedness) and inner focus of the [Hermit](/lover/mature_lover/hermit_shadow) to come back to reality and get in touch with his body and inner world.  
+When the [Lover](/lover/mature_lover) is in the [Addict](/lover/mature_lover/addict_shadow) shadow, he needs the [groundedness](/lover/mature_lover/groundedness) and inner focus of the [Hermit](/lover/mature_lover/hermit_shadow) to come back to reality and get in touch with his body and inner world.  
   
-**Off [Balance](/king/body/ruler_and_judge/[balance](/king/body/ruler_and_judge/balance)):** [Groundedness](/lover/mature_lover/[groundedness](/lover/mature_lover/groundedness)) without [Aliveness](/lover/mature_lover/[aliveness](/lover/mature_lover/aliveness)) makes the [Hermit](/lover/mature_lover/hermit_shadow) depressed and lacking [aliveness](/lover/mature_lover/aliveness).  
+**Off [Balance](/king/body/ruler_and_judge/balance):** [Groundedness](/lover/mature_lover/groundedness) without [Aliveness](/lover/mature_lover/aliveness) makes the [Hermit](/lover/mature_lover/hermit_shadow) depressed and lacking [aliveness](/lover/mature_lover/aliveness).  
 **Qualities:** Depression. Flatness. Sterility. Impotence. Boredom. 
 ---

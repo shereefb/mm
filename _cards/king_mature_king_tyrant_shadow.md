@@ -33,8 +33,8 @@ toc_label: Quick Jump
 - I notice and let go of my addiction to be needed so I can feel important.  
   
 ## Gift of the [Tyrant](/king/mature_king/tyrant_shadow)  
-When the [King](/[king](/king/mature_king)/mature_king) is in his [Weakling](/king/mature_king/weakling_shadow) shadow, I let him feel my [power](/king/mature_king/power) and hatred to [balance](/king/body/ruler_and_judge/balance) him.   
+When the [King](/king/mature_king) is in his [Weakling](/king/mature_king/weakling_shadow) shadow, I let him feel my [power](/king/mature_king/power) and hatred to [balance](/king/body/ruler_and_judge/balance) him.   
   
-**Off [Balance](/king/body/ruler_and_judge/[balance](/king/body/ruler_and_judge/balance)):** Tries to make Order defeat Chaos through control  
+**Off [Balance](/king/body/ruler_and_judge/balance):** Tries to make Order defeat Chaos through control  
 **Qualities:** Blame, Self-importance, Hatred
 ---

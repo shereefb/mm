@@ -10,7 +10,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The [King](/[king](/king/mature_king)/mature_king) in his fullness brings order, and fertility to the realm. He stabilizes chaotic emotion and provides centerdness to others. He brings calm and [balance](/king/body/ruler_and_judge/balance). Defends the [integrity](/king/body/ruler_and_judge/integrity) of being and purpose, and provides a sense of order. The mature [King](/[king](/king/mature_king)/mature_king) looks to the world with a firm and kind eye. He sees others in all their weakness and their talent and worth. He honors, promotes them, and guides them towards their potential. He rewards and encourages. He embodies true [authority](/king/spirit/leader/authority).   
+ The [King](/king/mature_king) in his fullness brings order, and fertility to the realm. He stabilizes chaotic emotion and provides centerdness to others. He brings calm and [balance](/king/body/ruler_and_judge/balance). Defends the [integrity](/king/body/ruler_and_judge/integrity) of being and purpose, and provides a sense of order. The mature [King](/king/mature_king) looks to the world with a firm and kind eye. He sees others in all their weakness and their talent and worth. He honors, promotes them, and guides them towards their potential. He rewards and encourages. He embodies true [authority](/king/spirit/leader/authority).   
   
   
 ## Mature Declarations    
@@ -29,10 +29,10 @@ toc_label: Quick Jump
 - I define, negotiate and clarify the boundaries of my realm.   
 - I set healthy limits for myself and others.   
   
-**[Balance](/king/body/ruler_and_judge/[balance](/king/body/ruler_and_judge/balance)):** Chaos <--> Order    
+**[Balance](/king/body/ruler_and_judge/balance):** Chaos <--> Order    
 **Shadow:** [Tyrant](/king/mature_king/tyrant_shadow) & [Weakling](/king/mature_king/weakling_shadow)    
-**[Power](/king/mature_king/[power](/king/mature_king/power)) Animal:** Eagle    
-**Qualities:** [Power](/king/mature_king/[power](/king/mature_king/power)), [Leadership](/king/spirit/leader/[leadership](/king/spirit/leader/leadership)), [Clarity](/king/mind/visionary/[clarity](/king/mind/visionary/clarity)), [Balance](/king/body/ruler_and_judge/[balance](/king/body/ruler_and_judge/balance)), [Generosity](/king/heart/peace_maker_and_diplomat/[generosity](/king/heart/peace_maker_and_diplomat/generosity)), Justice, Order, [Responsibility](/king/mature_king/[responsibility](/king/mature_king/responsibility)), [Compassion](/king/heart/peace_maker_and_diplomat/[compassion](/king/heart/peace_maker_and_diplomat/compassion)), Dignity, [Wisdom](/king/mind/visionary/[wisdom](/king/mind/visionary/wisdom)), [Integrity](/king/body/ruler_and_judge/[integrity](/king/body/ruler_and_judge/integrity)), Stability, Centerdness, [Authority](/king/spirit/leader/[authority](/king/spirit/leader/authority))  
+**[Power](/king/mature_king/power) Animal:** Eagle    
+**Qualities:** [Power](/king/mature_king/power), [Leadership](/king/spirit/leader/leadership), [Clarity](/king/mind/visionary/clarity), [Balance](/king/body/ruler_and_judge/balance), [Generosity](/king/heart/peace_maker_and_diplomat/generosity), Justice, Order, [Responsibility](/king/mature_king/responsibility), [Compassion](/king/heart/peace_maker_and_diplomat/compassion), Dignity, [Wisdom](/king/mind/visionary/wisdom), [Integrity](/king/body/ruler_and_judge/integrity), Stability, Centerdness, [Authority](/king/spirit/leader/authority)  
   
 ---  
   

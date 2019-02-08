@@ -79,11 +79,8 @@ def generate_links(text, link_table, title)
   return unless text
   link_table.each do |link|
     next if link["title"] == title
-
-
-
-    text = text.gsub(/\b(?:#{link["title"]})\b/,"[#{link['title']}](#{link['link']})")
-    text = text.gsub(/\b(?:#{link["title"].downcase})\b/,"[#{link['title'].downcase}](#{link['link']})")
+    text = text.gsub(/\b(#{link["title"]}|#{link["title"].downcase})\b/,'[\1]' + "(#{link['link']})")
+    # text = text.gsub(/\b(?:#{link["title"].downcase})\b/,"[#{link['title'].downcase}](#{link['link']})")
   end
   text
 end

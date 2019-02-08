@@ -16,9 +16,9 @@ draft: false
   
 A [king](/king/mature_king) needs a clear mind to see reality as it is, not how he would like it to be. He learns from the eagle how to soar above the details and look at the big picture. He learns from the air element how to not hold on to ideas, or opinions, and clear the mind to receive the information that's needed. When he is not clear, he learns to be in silence, and to wait for clarity.   
   
-A Mature [King](/[king](/king/mature_king)/mature_king) does not confuse his mind for his brain. He makes sure his body and heart are clear, for he knows that the mind is not just in the head. In order to be clear, he must have a grounded belly, a content heart, and an empty mind. Clarity means the belly, the heart, and the mind are all aligned.   
+A Mature [King](/king/mature_king) does not confuse his mind for his brain. He makes sure his body and heart are clear, for he knows that the mind is not just in the head. In order to be clear, he must have a grounded belly, a content heart, and an empty mind. Clarity means the belly, the heart, and the mind are all aligned.   
   
-The [King](/[king](/king/mature_king)/mature_king) learns to clear his mind by getting rest, connecting to nature, going for a walk, listening to music, or moving his body. Above all, like the eagle, he learns to connect to the sky, rise above the details, and wait until he sees what he is looking for.   
+The [King](/king/mature_king) learns to clear his mind by getting rest, connecting to nature, going for a walk, listening to music, or moving his body. Above all, like the eagle, he learns to connect to the sky, rise above the details, and wait until he sees what he is looking for.   
   
 The [Tyrant](/king/mature_king/tyrant_shadow) and the [Weakling](/king/mature_king/weakling_shadow) both do not have clarity. The [Tyrant](/king/mature_king/tyrant_shadow) does not wait for clarity, and makes decisions and acts blindly. The [Weakling](/king/mature_king/weakling_shadow) doubts himself when clarity comes and doesn't trust his mind, or his seeing. 
 ---

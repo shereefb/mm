@@ -10,7 +10,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The Mature [Magician](/[magician](/magician/mature_magician)/mature_magician) is the knower and the master of technology. He guides the process of [transformation](/magician/body/creator/transformation), both within and without, by using ritual and ceremony. He is initiated into secret and hidden [knowledge](/magician/mature_magician/knowledge) of all kinds by other Magicians. All [knowledge](/magician/mature_magician/knowledge) that takes special training to acquire is the province of the [Magician](/[magician](/magician/mature_magician)/mature_magician). He has insight, and connects the hidden world and the visible world with his [knowledge](/magician/mature_magician/knowledge). He uses this [knowledge](/magician/mature_magician/knowledge) for the benefit of the realm.  
+ The Mature [Magician](/magician/mature_magician) is the knower and the master of technology. He guides the process of [transformation](/magician/body/creator/transformation), both within and without, by using ritual and ceremony. He is initiated into secret and hidden [knowledge](/magician/mature_magician/knowledge) of all kinds by other Magicians. All [knowledge](/magician/mature_magician/knowledge) that takes special training to acquire is the province of the [Magician](/magician/mature_magician). He has insight, and connects the hidden world and the visible world with his [knowledge](/magician/mature_magician/knowledge). He uses this [knowledge](/magician/mature_magician/knowledge) for the benefit of the realm.  
   
   
 ## Mature Declarations  
@@ -26,10 +26,10 @@ toc_label: Quick Jump
 - I guide others, teach them, and initiate them to share my [knowledge](/magician/mature_magician/knowledge).  
 - I steward sacred space.  
   
-**[Balance](/king/body/ruler_and_judge/[balance](/king/body/ruler_and_judge/balance)):** [Knowledge](/magician/mature_magician/[knowledge](/magician/mature_magician/knowledge)) <--> Mystery  
+**[Balance](/king/body/ruler_and_judge/balance):** [Knowledge](/magician/mature_magician/knowledge) <--> Mystery  
 **Shadow:** [Manipulator](/magician/mature_magician/manipulator_shadow), [Dummy](/magician/mature_magician/dummy_shadow)  
-**[Power](/king/mature_king/[power](/king/mature_king/power)) Animal:** Pheonix  
-**Qualities:** [Curiosity](/magician/mind/sage/[curiosity](/magician/mind/sage/curiosity)), [Knowledge](/magician/mature_magician/[knowledge](/magician/mature_magician/knowledge)), [Confidence](/magician/heart/healer/[confidence](/magician/heart/healer/confidence)), [Mastery](/magician/mature_magician/[mastery](/magician/mature_magician/mastery)), [Transformation](/magician/body/creator/[transformation](/magician/body/creator/transformation)), [Creativity](/magician/body/creator/[creativity](/magician/body/creator/creativity)), [Spirituality](/magician/spirit/priest/[spirituality](/magician/spirit/priest/spirituality)), [Beginner's Mind](/magician/mind/sage/beginner's_mind)  
+**[Power](/king/mature_king/power) Animal:** Pheonix  
+**Qualities:** [Curiosity](/magician/mind/sage/curiosity), [Knowledge](/magician/mature_magician/knowledge), [Confidence](/magician/heart/healer/confidence), [Mastery](/magician/mature_magician/mastery), [Transformation](/magician/body/creator/transformation), [Creativity](/magician/body/creator/creativity), [Spirituality](/magician/spirit/priest/spirituality), [Beginner's Mind](/magician/mind/sage/beginner's_mind)  
   
 ---  
   
@@ -40,7 +40,7 @@ Greatest fear: unintended negative consequences
 Strategy: develop a vision and live by it  
 Weakness: becoming manipulative  
 Talent: finding win-win solutions  
-The [Magician](/[magician](/magician/mature_magician)/mature_magician) is also known as:The [visionary](/king/mind/visionary), catalyst, inventor, charismatic [leader](/king/spirit/leader), shaman, [healer](/magician/heart/healer), medicine man.  
+The [Magician](/magician/mature_magician) is also known as:The [visionary](/king/mind/visionary), catalyst, inventor, charismatic [leader](/king/spirit/leader), shaman, [healer](/magician/heart/healer), medicine man.  
   
 https://charactertherapist.blogspot.com/2013/06/character-archetypes-101-[magician](/magician/mature_magician).html  
 

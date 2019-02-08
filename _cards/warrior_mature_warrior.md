@@ -10,7 +10,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The Mature [Warrior](/[warrior](/warrior/mature_warrior)/mature_warrior) has an aggressive stance towards life that rouses, energizes, and motivates. He pushes to take an offensive position with life's problems and challenges. The [warrior](/warrior/mature_warrior) is always alert with a focused mind and a strong body. He is a hunter and [explorer](/warrior/heart/explorer). He has a brave and unconquerable spirit. He is loyal to something greater than himself.   
+ The Mature [Warrior](/warrior/mature_warrior) has an aggressive stance towards life that rouses, energizes, and motivates. He pushes to take an offensive position with life's problems and challenges. The [warrior](/warrior/mature_warrior) is always alert with a focused mind and a strong body. He is a hunter and [explorer](/warrior/heart/explorer). He has a brave and unconquerable spirit. He is loyal to something greater than himself.   
   
   
 ## Mature Declarations  
@@ -29,10 +29,10 @@ toc_label: Quick Jump
 - I have the capacity to withstand pain, both psychological and physcial.   
 - I am willing to suffer to achieve what I want.   
   
-**[Balance](/king/body/ruler_and_judge/[balance](/king/body/ruler_and_judge/balance)):** [Strength](/warrior/mature_warrior/[strength](/warrior/mature_warrior/strength)) <--> [Vulnerability](/warrior/mature_warrior/[vulnerability](/warrior/mature_warrior/vulnerability))   
+**[Balance](/king/body/ruler_and_judge/balance):** [Strength](/warrior/mature_warrior/strength) <--> [Vulnerability](/warrior/mature_warrior/vulnerability)   
 **Shadow:** [Bully](/warrior/mature_warrior/bully_shadow) & [Victim](/warrior/mature_warrior/victim_shadow)  
-**[Power](/king/mature_king/[power](/king/mature_king/power)) Animal:** Tiger   
-**Qualities:** [Honesty](/warrior/mind/activist/[honesty](/warrior/mind/activist/honesty)), [Ruthlessness](/warrior/body/change_maker/[ruthlessness](/warrior/body/change_maker/ruthlessness)), Exploration, [Destruction](/warrior/spirit/rebel/[destruction](/warrior/spirit/rebel/destruction)), [Discipline](/warrior/body/athlete/[discipline](/warrior/body/athlete/discipline)), [Courage](/warrior/spirit/rebel/[courage](/warrior/spirit/rebel/courage)), [Strength](/warrior/mature_warrior/[strength](/warrior/mature_warrior/strength)), [Vulnerability](/warrior/mature_warrior/[vulnerability](/warrior/mature_warrior/vulnerability)), Focus, [Strength](/warrior/mature_warrior/[strength](/warrior/mature_warrior/strength)), Grit, Resilience, [Discernment](/warrior/mind/activist/[discernment](/warrior/mind/activist/discernment)), Decisive
+**[Power](/king/mature_king/power) Animal:** Tiger   
+**Qualities:** [Honesty](/warrior/mind/activist/honesty), [Ruthlessness](/warrior/body/change_maker/ruthlessness), Exploration, [Destruction](/warrior/spirit/rebel/destruction), [Discipline](/warrior/body/athlete/discipline), [Courage](/warrior/spirit/rebel/courage), [Strength](/warrior/mature_warrior/strength), [Vulnerability](/warrior/mature_warrior/vulnerability), Focus, [Strength](/warrior/mature_warrior/strength), Grit, Resilience, [Discernment](/warrior/mind/activist/discernment), Decisive
 ---
 - [Vulnerability](/warrior/mature_warrior/vulnerability)
 - [Strength](/warrior/mature_warrior/strength)

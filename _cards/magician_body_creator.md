@@ -11,7 +11,7 @@ draft: true
 ---
 #draft   
 - Master of technology  
-- [Transformation](/magician/body/creator/[transformation](/magician/body/creator/transformation)) and animation of matter  
+- [Transformation](/magician/body/creator/transformation) and animation of matter  
 - Engineers, Developers  
 - Brings what is imagined to reality  
 - Systems thinker  

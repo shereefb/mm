@@ -32,8 +32,8 @@ toc_label: Quick Jump
 - I feel the [power](/king/mature_king/power) in my belly, and use it with my love to take care of myself and others.  
   
 ## Gift of the [Weakling](/king/mature_king/weakling_shadow)  
-When the [King](/[king](/king/mature_king)/mature_king) is in [Tyrant](/king/mature_king/tyrant_shadow) shadow, he needs the gift of my [vulnerability](/warrior/mature_warrior/vulnerability). I help him to connect with his heart, and the limits of his [power](/king/mature_king/power), so that he can allow himself to not be in total control.   
+When the [King](/king/mature_king) is in [Tyrant](/king/mature_king/tyrant_shadow) shadow, he needs the gift of my [vulnerability](/warrior/mature_warrior/vulnerability). I help him to connect with his heart, and the limits of his [power](/king/mature_king/power), so that he can allow himself to not be in total control.   
   
-**Off [Balance](/king/body/ruler_and_judge/[balance](/king/body/ruler_and_judge/balance)):** Lets Chaos reign through powerlessness to bring Order  
+**Off [Balance](/king/body/ruler_and_judge/balance):** Lets Chaos reign through powerlessness to bring Order  
 **Qualities:** Guilt, Helplessness, Powerlessness, Avoidance
 ---

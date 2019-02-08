@@ -17,7 +17,7 @@ draft: false
   
 |"The measure of a man is what he does with power."  
   
-The Mature [King](/[king](/king/mature_king)/mature_king) understands that the key to owning his power, is allowing his hatred. He uses the hatred to connect to his power and serve the realm. He understands that good and evil are inside of him. And not something that’s out there to be eliminated.   
+The Mature [King](/king/mature_king) understands that the key to owning his power, is allowing his hatred. He uses the hatred to connect to his power and serve the realm. He understands that good and evil are inside of him. And not something that’s out there to be eliminated.   
   
 He does this by feeling his hatred fully, and letting its energy fill his heart and his body, but never discharging it. By accepting the hatred in his body, not denying it, and not acting it out, he let's his body transform hatred into pure power.   
   
@@ -27,7 +27,7 @@ When the [Tyrant](/king/mature_king/tyrant_shadow) discharges his power, he turn
   
 When the [Weakling](/king/mature_king/weakling_shadow) avoids owning his power he acts "nice" and pretends to like things he doesn't, and accepts things that don't work. He does this because he is afraid to lose the relationships in his life, and doesn't want to scare people with his power. [Weakling](/king/mature_king/weakling_shadow) energy creates a "fake" peace because the [weakling](/king/mature_king/weakling_shadow) is battling inside himself with hatred.  
   
-When the [King](/[king](/king/mature_king)/mature_king) lets his power fill his body, mind, and heart, he is peaceful and centered. Pure power doesn't hurt anyone. It does not attack or violate others, and does not allow others to attack or violate. Mature [King](/[king](/king/mature_king)/mature_king) power creates true peace.  
+When the [King](/king/mature_king) lets his power fill his body, mind, and heart, he is peaceful and centered. Pure power doesn't hurt anyone. It does not attack or violate others, and does not allow others to attack or violate. Mature [King](/king/mature_king) power creates true peace.  
   
 
 ---

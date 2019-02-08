@@ -16,5 +16,5 @@ draft: true
 Doesn't come together to get rid of [aloneness](/lover/body/orphan/aloneness_). but to witness it and be witnessed in it.   
 True intimacy respects the [aloneness](/lover/body/orphan/aloneness_)  
 ---  
-[Respect](/king/spirit/leader/[respect](/king/spirit/leader/respect)) your child's [aloneness](/lover/body/orphan/aloneness_)
+[Respect](/king/spirit/leader/respect) your child's [aloneness](/lover/body/orphan/aloneness_)
 ---

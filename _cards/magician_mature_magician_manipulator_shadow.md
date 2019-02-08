@@ -11,7 +11,7 @@ draft: false
 toc: true
 toc_label: Quick Jump
 ---
- The [Manipulator](/magician/mature_magician/manipulator_shadow) is a [Magician](/[magician](/magician/mature_magician)/mature_magician) who has lost touch with his higher purpose. Instead of guiding others to open their eyes, he controls them in ways they cannot see. Instead of initiating others and lifting them up, he uses his [knowledge](/magician/mature_magician/knowledge) to keep them down and demonstrate his superiority. He withholds [knowledge](/magician/mature_magician/knowledge), and uses secrets to exploit others.   
+ The [Manipulator](/magician/mature_magician/manipulator_shadow) is a [Magician](/magician/mature_magician) who has lost touch with his higher purpose. Instead of guiding others to open their eyes, he controls them in ways they cannot see. Instead of initiating others and lifting them up, he uses his [knowledge](/magician/mature_magician/knowledge) to keep them down and demonstrate his superiority. He withholds [knowledge](/magician/mature_magician/knowledge), and uses secrets to exploit others.   
   
   
 ## Shadow Declarations  
@@ -32,9 +32,9 @@ toc_label: Quick Jump
   
   
 ## Gift of the [Manipulator](/magician/mature_magician/manipulator_shadow)  
-When the [Magician](/[magician](/magician/mature_magician)/mature_magician) is in his [Dummy](/magician/mature_magician/dummy_shadow) shadow, he needs the gift of my [confidence](/magician/heart/healer/confidence) to get in touch with his ability to know, learn and grow, and not be lost in the mystery.   
+When the [Magician](/magician/mature_magician) is in his [Dummy](/magician/mature_magician/dummy_shadow) shadow, he needs the gift of my [confidence](/magician/heart/healer/confidence) to get in touch with his ability to know, learn and grow, and not be lost in the mystery.   
   
-**Off [Balance](/king/body/ruler_and_judge/[balance](/king/body/ruler_and_judge/balance)):** Believes his [knowledge](/magician/mature_magician/knowledge) is bigger than the mystery, so becomes arrogant and tries to control the mystery.   
+**Off [Balance](/king/body/ruler_and_judge/balance):** Believes his [knowledge](/magician/mature_magician/knowledge) is bigger than the mystery, so becomes arrogant and tries to control the mystery.   
 **Qualities:** Grandiosity. Arrogance. Manipulative. Hustler.  
   
 ----  

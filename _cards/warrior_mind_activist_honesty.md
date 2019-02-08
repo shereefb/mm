@@ -11,7 +11,7 @@ draft: false
 ---
    
   
-The Mature [Warrior](/[warrior](/warrior/mature_warrior)/mature_warrior)'s sword is his Honesty. A Mature [Warrior](/[warrior](/warrior/mature_warrior)/mature_warrior) balances telling the truth, and kindness. He doesn't let one defeat the other.   
+The Mature [Warrior](/warrior/mature_warrior)'s sword is his Honesty. A Mature [Warrior](/warrior/mature_warrior) balances telling the truth, and kindness. He doesn't let one defeat the other.   
   
 The [Bully](/warrior/mature_warrior/bully_shadow) uses the truth to get what they want. They only choose the parts of the truth that suit them in order to control others and use force. When the [Bully](/warrior/mature_warrior/bully_shadow) tells the truth, they don't care about people’s heart and just blurt it out. Because they do this without kindness, the truth does not penetrate. It hurts.   
   
@@ -19,7 +19,7 @@ The [Victim](/warrior/mature_warrior/victim_shadow) keeps the truth in because t
   
 Honesty can be scary. It requires a warriors [courage](/warrior/spirit/rebel/courage). The hardest kind of honesty, is honesty with yourself.  
   
-The Mature [Warrior](/[warrior](/warrior/mature_warrior)/mature_warrior) tells the truth and includes the fact that he cares about their (feelings heart- don't understand) as part of the truth. He lets other people's feedback impact him without taking it personally.  
+The Mature [Warrior](/warrior/mature_warrior) tells the truth and includes the fact that he cares about their (feelings heart- don't understand) as part of the truth. He lets other people's feedback impact him without taking it personally.  
   
   
 ## Honesty Principles   
