@@ -6,7 +6,7 @@ category: Menu
 type: Menu
 type_general: Menu
 image: /images/back/magician.jpg
-draft: true
+draft: false
 ---
 
 ---

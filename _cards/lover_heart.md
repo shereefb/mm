@@ -6,7 +6,7 @@ category: Lover
 type: Aspect
 type_general: Aspect
 image: /images/back/heart.jpg
-draft: true
+draft: false
 ---
 
 ---

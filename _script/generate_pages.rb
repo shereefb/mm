@@ -79,12 +79,13 @@ def generate (node,ancestors)
 
   @description = node["_note"]
   @title = node["text"]
-  @draft = @description.nil? || (@description.include? "#draft")
   @permalink = permalink(node)
   @archetype = archetype(node)
   @aspect = aspect(node)
   @type = type(node,false)
   @type_general = type(node,true)
+  @draft = @description.nil? || (@description.include? "#draft")
+  @draft = false if @type == "Aspect" || @type == "Menu"
 
   puts "Generating" + "    " + @title + "  \t\t\t\t  " + ancestors.collect{ |n| n["text"] }.join(":")
 

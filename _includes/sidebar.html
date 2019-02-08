@@ -29,9 +29,15 @@
 <ul class="nav__items">
   {% assign mycards = site.cards | group_by:"category" | sort:"name" %}
   {% for cat in mycards %}
+  {% if cat.name == "Menu" %}
+    {% continue %}
+  {% endif %}
   <li><span class="nav__sub-title">{{ cat.name | capitalize }}</span>  </li>
         {% assign item_groups = cat.items | group_by:"type_general" | sort:"name" %}
           {% for item_group in item_groups %}
+          {% if item_group.name == "Menu" %}
+            {% continue %}
+          {% endif %}
             <li><span class="nav__sub-title">{{ item_group.name | capitalize }}</span>
 
               <ul>
@@ -41,7 +47,7 @@
                       {% if item.draft %}
                       style="font-style: italic;"
                       {% else %}
-                      style="font-weight: bold;"
+                      style="font-weight: normal;"
                       {% endif %}
                       ><a href="{{ item.url }}">
                         {{ item.title %}}

@@ -6,7 +6,7 @@ category: King
 type: Aspect
 type_general: Aspect
 image: /images/back/spirit.jpg
-draft: true
+draft: false
 ---
 
 ---

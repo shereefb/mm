@@ -6,7 +6,7 @@ category: Warrior
 type: Aspect
 type_general: Aspect
 image: /images/back/mind.jpg
-draft: true
+draft: false
 ---
 
 ---

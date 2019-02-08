@@ -6,7 +6,7 @@ category: Menu
 type: Menu
 type_general: Menu
 image: /images/back/king.jpg
-draft: true
+draft: false
 ---
 
 ---

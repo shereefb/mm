@@ -6,7 +6,7 @@ category: King
 type: Aspect
 type_general: Aspect
 image: /images/back/body.jpg
-draft: true
+draft: false
 ---
 
 ---
