@@ -6,6 +6,8 @@ $Directory = "../_cards"
 $SOURCE = "processed.OPML"
 $RAW = "dynalist-2019-2-8.opml"
 
+$items = Array.new
+
 def prepare_input
   raw = File.open($RAW, "r")
   processed = File.new($SOURCE, "w")
@@ -96,6 +98,18 @@ def generate (node, link_table)
   @type_general = type(node,true)
   @draft = @description.nil? || (@description.include? "#draft")
   @draft = false if @type == "Aspect" || @type == "Menu"
+
+  item = {
+    :title => @title,
+    :description => @description,
+    :permalink => @permalink,
+    :archetype => @archetype,
+    :aspect => @aspect,
+    :type => @type,
+    :type_general => @type_general,
+    :draft => @draft
+  }
+  $items.push item
 
   puts "Generating" + "    " + @title
 
