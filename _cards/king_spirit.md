@@ -10,7 +10,6 @@ draft: false
 ---
 
 ---
-- [Leader](/king/spirit/leader)
-  - [Authority](/king/spirit/leader/authority)
-  - [Respect](/king/spirit/leader/respect)
-  - [Leadership](/king/spirit/leader/leadership)
+- [Visionary](/king/spirit/visionary)
+  - [Sovereignty](/king/spirit/visionary/sovereignty)
+  - [Responsibility](/king/spirit/visionary/responsibility)

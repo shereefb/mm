@@ -10,6 +10,7 @@ draft: false
 ---
 
 ---
-- [Visionary](/king/mind/visionary)
-  - [Clarity](/king/mind/visionary/clarity)
-  - [Wisdom](/king/mind/visionary/wisdom)
+- [Elder](/king/mind/elder)
+  - [Authority](/king/mind/elder/authority)
+  - [Respect](/king/mind/elder/respect)
+  - [Leadership](/king/mind/elder/leadership)

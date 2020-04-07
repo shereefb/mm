@@ -1,28 +1,12 @@
----
-layout: home
-author_profile: false
----
+<head>
+    <link rel="stylesheet" href="/scripts/leaflet/leaflet.css"/>
+    <link rel="stylesheet" href="/assets/main.css"/>
+    <script src="/scripts/leaflet/leaflet.js"></script>
+</head>
+<body>
+    <h1>Hello world</h1>
+    <div id="mapid"></div>
 
-
-
-<a href="/king"><img src="/images/back/mature_king.jpg"/ class="front-image"></a>
-<a href="/warrior"><img src="/images/back/mature_warrior.jpg"/ class="front-image"></a>
-<a href="/lover"><img src="/images/back/mature_lover.jpg"/ class="front-image"></a>
-<a href="/magician"><img src="/images/back/mature_magician.jpg"/ class="front-image"></a>
-
-
-<!--
-{% assign mycards = site.cards | group_by:"category" | sort:"name" %}
-{% for cat in mycards %}
-<h1>{{ cat.name | capitalize }}</h1>
-  {% assign item_groups = cat.items | group_by:"type_general" | sort:"name" %}
-    {% for item_group in item_groups %}
-    <h2>{{ item_group.name | capitalize }}</h2>
-    <ul>
-      {% assign items = item_group.items | sort: 'title' %}
-      {% for item in items %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
-{% endfor %} -->
+    
+</body>
+<script src="/scripts/main.js"></script>

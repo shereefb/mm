@@ -1,5 +1,6 @@
 require "Nokogiri"
 require 'fileutils'
+require 'json'
 
 
 $Directory = "../_cards"
@@ -87,10 +88,23 @@ def generate_links(text, link_table, title)
   text
 end
 
+# Defines links but doesn't do anything to them
+def generate_json_links(text, link_table, title)
+  return unless text
+  # link_table.each do |link|
+  #   next if title.include? link["title"]
+    # text = text.gsub(/\b(#{link["title"]}|#{link["title"].downcase})\b/,'[\1]' + "(#{link['link']})")
+  # end
+  # text = text.gsub(/\|“(.*)/,"<quote>" + '\1' + "</quote>").gsub("|","")
+  text = text.gsub("|",">")
+  text
+end
+
 def generate (node, link_table)
 
   @title = node["text"]
   @description = generate_links(node["_note"], link_table, @title)
+  @description_json = generate_json_links(node["_note"], link_table, @title)
   @permalink = permalink(node)
   @archetype = archetype(node)
   @aspect = aspect(node)
@@ -99,17 +113,20 @@ def generate (node, link_table)
   @draft = @description.nil? || (@description.include? "#draft")
   @draft = false if @type == "Aspect" || @type == "Menu"
 
+   @image_url = File.exist?("../images/back/#{to_url@title}.jpg") ? to_url(@title) : nil
+
   item = {
     :title => @title,
-    :description => @description,
+    :description => @description_json,
     :permalink => @permalink,
     :archetype => @archetype,
     :aspect => @aspect,
     :type => @type,
     :type_general => @type_general,
-    :draft => @draft
+    :draft => @draft,
+    :imageUrl => @image_url
   }
-  $items.push item
+  $items.push item unless @type == "Menu" || @type == "Aspect"
 
   puts "Generating" + "    " + @title
 
@@ -197,6 +214,12 @@ def generate_all
       generate(node, @link_table)
     end
   end
+
+   file_name = "archetypes.json"
+
+  f = File.new(file_name, 'w')
+  f.write($items.to_json)
+  f.close
 end
 
 prepare_input

@@ -12,4 +12,4 @@ draft: false
 ---
 - [Sage](/magician/mind/sage)
   - [Curiosity](/magician/mind/sage/curiosity)
-  - [Brilliancy](/magician/mind/sage/brilliancy)
+  - [Beginner's Mind](/magician/mind/sage/beginner's_mind)
