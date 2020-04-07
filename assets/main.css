@@ -1,2 +1,5 @@
-#mapid { height: 90%; }
+#mapid { 
+    height: 100%; 
+    background-color: #495056;
+}
 
