@@ -1,11 +1,23 @@
 console.log("we are live");
 
-var $modalTopic = ""
+var $modalTopic = "";
+var $converter = new showdown.Converter();
+
 $('#mainModal').on('show.bs.modal', function (e) {
 
-    var modal = $(this)
-    modal.find('.modal-title').text($modalTopic);
-    modal.find('.modal-body').text('lets talk about ' + $modalTopic);
+    var modal = $(this);
+
+    var result = null;
+
+    for (var i = 0; i < $archetypes.length; i++) {
+        if ($archetypes[i].title == $modalTopic) {
+            result = $archetypes[i];
+            break;
+        }
+    }
+
+    modal.find('.modal-title').text(result.title);
+    modal.find('.modal-body').html($converter.makeHtml(result.description));
 })
 
 var request = new XMLHttpRequest();

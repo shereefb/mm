@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"king"
+        "name":"Mature Lover"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +17,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"lover"
+        "name":"Mature King"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +30,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"magiciang"
+        "name":"Mature Magician"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"wwwarrrior"
+        "name":"Mature Warrior"
       },
       "geometry": {
         "type": "Point",
