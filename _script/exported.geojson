@@ -1,0 +1,941 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mature warrior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          210.832726,
+          499.640311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mature king"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          497.890874,
+          770.787661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mature magician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          788.679688,
+          498.382813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mature lover"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          497.888556,
+          212.904127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tyrant shadow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454.092661,
+          744.726371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dummy shadow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          829.797673,
+          458.870469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "manipulator shadow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          737.695285,
+          458.093507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "weakling shadow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          548.314242,
+          746.701838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bully shadow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.205498,
+          462.342001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "victim shadow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          260.159477,
+          462.342001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "addict shadow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454.758687,
+          181.974426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hermit shadow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          547.827875,
+          181.974426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          451.558115,
+          856.013784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Non-Violence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          541.118697,
+          854.021785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          732.545095,
+          576.828183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "reverence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          831.959909,
+          576.828183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.611529,
+          574.712201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sensitivity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          259.795925,
+          575.770192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "passion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          452.279927,
+          296.460608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "presence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          550.637137,
+          295.402617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "responsibility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          551.110709,
+          938.458659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "visionary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643.336227,
+          800.159489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "clarity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          201.544052,
+          661.121277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wisdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          777.149278,
+          662.86034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "authority"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          483.427796,
+          941.031366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "respect"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          885.337835,
+          567.81694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "leadership"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          236.530628,
+          663.83363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "caregiver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          498.147838,
+          362.52577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "compassion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          412.925152,
+          813.660934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "generosity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          422.867361,
+          822.734157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "peacemaker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          355.682062,
+          801.944586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "balance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          497.725981,
+          821.259896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "integrity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.34646,
+          654.015668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vulnerability"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          283.719683,
+          528.478643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "honesty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          326.110407,
+          531.677038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "discernment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          346.905857,
+          530.077841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "courage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.400359,
+          569.657986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "impeccability"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.194933,
+          632.826298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "determination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.389858,
+          528.078843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "explorer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          214.372357,
+          373.756258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "humility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          695.470212,
+          505.924332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "selfworth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          497.388555,
+          306.00587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sincerity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          354.588551,
+          280.643592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "athelete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.689047,
+          419.017928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "will"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.477496,
+          518.16819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "discipline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.876971,
+          548.552948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "competitiveness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          334.630418,
+          416.619131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruthlessness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          342.628668,
+          578.138107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "confrontation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          321.033393,
+          564.544925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mastery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          620.055464,
+          554.047067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          789.618362,
+          640.403746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "curiosity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          669.644613,
+          581.233429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "beginner's mind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          948.783535,
+          537.25549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "healer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          783.219762,
+          380.534108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "confidence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.23876,
+          507.695319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "priest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          808.406315,
+          663.926322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "spirituality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          837.999839,
+          658.329129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "transformation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          659.638867,
+          418.449463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "creativity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          681.234141,
+          391.263101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aliveness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          424.018548,
+          291.997272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "groundedness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          578.384771,
+          276.005294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "innocent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          404.022923,
+          105.690731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wonder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          609.984107,
+          129.909832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          357.23941,
+          237.056083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "freedom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.782431,
+          381.5461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mischief"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          324.559061,
+          275.933455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "romantic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          588.145135,
+          96.751465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pleasure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          501.764037,
+          40.779543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gratitude"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          551.659369,
+          672.968661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "orphan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.458186,
+          352.329507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection or Belonging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          270.636485,
+          384.313462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aloneness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          554.558734,
+          139.814238
+        ]
+      }
+    }
+  ]
+}

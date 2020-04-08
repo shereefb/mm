@@ -5,7 +5,7 @@ require 'json'
 
 $Directory = "../_cards"
 $SOURCE = "processed.OPML"
-$RAW = "dynalist-2019-2-8.opml"
+$RAW = "dynalist-2020-4-8.opml"
 
 $items = Array.new
 
@@ -100,7 +100,7 @@ def generate_json_links(text, link_table, title)
   text
 end
 
-def generate (node, link_table)
+def generate (node, link_table, depth)
 
   @title = node["text"]
   @description = generate_links(node["_note"], link_table, @title)
@@ -124,38 +124,39 @@ def generate (node, link_table)
     :type => @type,
     :type_general => @type_general,
     :draft => @draft,
-    :imageUrl => @image_url
+    :imageUrl => @image_url,
+    :depth => depth
   }
-  $items.push item unless @type == "Menu" || @type == "Aspect"
+  $items.push item unless @type == "Menu" || @type == "Aspect" || @title = "Misc"
 
-  puts "Generating" + "    " + @title
+  # puts "Generating" + "    " + @title
 
-  file_name = "#{$Directory}/#{filename(node)}.md"
+  # file_name = "#{$Directory}/#{filename(node)}.md"
 
-  f = File.new(file_name, 'w')
+  # f = File.new(file_name, 'w')
 
-  f.write("---\n")
-  f.write("title: #{@title}\n")
-  f.write("permalink: #{@permalink}\n")
-  f.write("archetype: #{@archetype}\n") #king/lover/magician/warrior
-  f.write("category: #{@archetype}\n") #king/lover/magician/warrior
-  f.write("aspect: #{@aspect}\n") if @aspect #north/south/west/east
-  f.write("type: #{@type}\n") #quality/skill/mature/shadow
-  f.write("type_general: #{@type_general}\n") #quality/skill/archetype
-  f.write("image: /images/back/#{to_url@title}.jpg\n")
-  f.write("draft: #{@draft}\n")
+  # f.write("---\n")
+  # f.write("title: #{@title}\n")
+  # f.write("permalink: #{@permalink}\n")
+  # f.write("archetype: #{@archetype}\n") #king/lover/magician/warrior
+  # f.write("category: #{@archetype}\n") #king/lover/magician/warrior
+  # f.write("aspect: #{@aspect}\n") if @aspect #north/south/west/east
+  # f.write("type: #{@type}\n") #quality/skill/mature/shadow
+  # f.write("type_general: #{@type_general}\n") #quality/skill/archetype
+  # f.write("image: /images/back/#{to_url@title}.jpg\n")
+  # f.write("draft: #{@draft}\n")
 
-  if @type_general == "Archetype"
-    f.write("toc: true\n")
-    f.write("toc_label: Quick Jump\n")
-  end
+  # if @type_general == "Archetype"
+  #   f.write("toc: true\n")
+  #   f.write("toc_label: Quick Jump\n")
+  # end
 
-  f.write("---\n")
-  # f.write("##{@title}\n")
-  f.write("#{@description}\n")
-  f.write("---\n")
-  f.write(menu(node,0))
-  f.close
+  # f.write("---\n")
+  # # f.write("##{@title}\n")
+  # f.write("#{@description}\n")
+  # f.write("---\n")
+  # f.write(menu(node,0))
+  # f.close
 end
 
 def link_table(doc)
@@ -211,13 +212,14 @@ def generate_all
     if @ancestors.length > 1 && @ancestors[1]["text"].start_with?("_")
       puts "skipping #{node["text"]}"
     else
-      generate(node, @link_table)
+      generate(node, @link_table, @ancestors.length)
     end
   end
 
    file_name = "archetypes.json"
 
   f = File.new(file_name, 'w')
+  f.write("$archetypes=")
   f.write($items.to_json)
   f.close
 end

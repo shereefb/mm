@@ -2,20 +2,23 @@ var $modalTopic = "";
 var $converter = new showdown.Converter();
 
 $('#mainModal').on('show.bs.modal', function (e) {
-
     var modal = $(this);
-
     var result = null;
-
     for (var i = 0; i < $archetypes.length; i++) {
-        if ($archetypes[i].title == $modalTopic) {
+        if ($archetypes[i].title.toLowerCase() == $modalTopic.toLowerCase()) {
             result = $archetypes[i];
             break;
         }
     }
 
-    modal.find('.modal-title').text(result.title);
-    modal.find('.modal-body').html($converter.makeHtml(result.description));
+    try {
+
+        modal.find('.modal-title').text(result.title);
+        modal.find('.modal-body').html($converter.makeHtml(result.description));
+
+    }
+    catch{}
+    
 })
 
 var map = L.map('mapid', {
@@ -63,6 +66,5 @@ function markerOnClick(e) {
     console.log(e.target.feature.properties.name);
     $modalTopic = e.target.feature.properties.name;
     $('#mainModal').modal({
-        keyboard: false
     })
 }

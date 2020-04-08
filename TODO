@@ -1,5 +1,18 @@
+Add layers toggle
+divide markers into qualities and archetypes
+https://leafletjs.com/examples/layers-control/
+create geojson
+update json from dynalist (make sure generator is working)
+add images to modal
+test on mobile
+host on github
+figure out zoom levels and different polygons that zoom in on different archetypes
+hover over tool tips? or custom control: https://leafletjs.com/examples/choropleth/
 
 
+
+
+-----
 
 Figure out better colorscheme
 https://mmistakes.github.io/minimal-mistakes/docs/configuration/#neon-skin-plum
