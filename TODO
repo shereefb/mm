@@ -15,7 +15,15 @@ change to hollow circle if it's a draft (make sure empty ones are marked as draf
 change diameter based on zoom and depth
 change color (or shape) based on archetype v.s. quality?
 
+--------
 
+README:
+
+- export OPML from dynalis becomingmen into _scripts folder
+- run `ruby generate_pages.rb`
+- run `ruby merge_json.rb`
+- copy final.json from _scripts folder to `editor` repo 
+- after editing, past results back into final.json
 
 
 

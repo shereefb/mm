@@ -3,7 +3,8 @@ require 'fileutils'
 require 'json'
 
 
-$GEO = "exported.geojson" #exported by geojson editor
+# $GEO = "exported.geojson" #exported by geojson editor
+$GEO = "final.json"
 $ARCH = "archetypes.json" #exported by generate_pages.rb
 $OUT = "final.json"
 
