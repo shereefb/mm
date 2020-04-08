@@ -127,7 +127,7 @@ def generate (node, link_table, depth)
     :imageUrl => @image_url,
     :depth => depth
   }
-  $items.push item unless @type == "Menu" || @type == "Aspect" || @title = "Misc"
+  $items.push item unless @type == "Menu" || @type == "Aspect" || @title == "Misc"
 
   # puts "Generating" + "    " + @title
 
@@ -219,7 +219,7 @@ def generate_all
    file_name = "archetypes.json"
 
   f = File.new(file_name, 'w')
-  f.write("$archetypes=")
+  # f.write("$archetypes=")
   f.write($items.to_json)
   f.close
 end

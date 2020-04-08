@@ -9,6 +9,13 @@ host on github
 figure out zoom levels and different polygons that zoom in on different archetypes
 hover over tool tips? or custom control: https://leafletjs.com/examples/choropleth/
 
+move in dynalist less prominent qualites under misc to create more depth for them 
+
+change to hollow circle if it's a draft (make sure empty ones are marked as draft as well)
+change diameter based on zoom and depth
+change color (or shape) based on archetype v.s. quality?
+
+
 
 
 

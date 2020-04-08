@@ -4,21 +4,10 @@ var $converter = new showdown.Converter();
 $('#mainModal').on('show.bs.modal', function (e) {
     var modal = $(this);
     var result = null;
-    for (var i = 0; i < $archetypes.length; i++) {
-        if ($archetypes[i].title.toLowerCase() == $modalTopic.toLowerCase()) {
-            result = $archetypes[i];
-            break;
-        }
-    }
+    console.log($modalTopic)
+    modal.find('.modal-title').text($modalTopic.title);
+    modal.find('.modal-body').html($converter.makeHtml($modalTopic.description));
 
-    try {
-
-        modal.find('.modal-title').text(result.title);
-        modal.find('.modal-body').html($converter.makeHtml(result.description));
-
-    }
-    catch{}
-    
 })
 
 var map = L.map('mapid', {
@@ -55,16 +44,22 @@ var myLayer = L.geoJSON("", {
     }
 }).addTo(map);
 
-var request = new XMLHttpRequest();
-request.open("GET", '/assets/exported.geojson', false);
-request.send(null);
-var jsonData = JSON.parse(request.responseText);
-myLayer.addData(jsonData);
+$("button");
+$.getJSON("/_script/final.json", function(json) {
+    myLayer.addData(json);
+});
+
+
+// var request = new XMLHttpRequest();
+// request.open("GET", '/_script/final.json', false);
+// request.send(null);
+// var jsonData = JSON.parse(request.responseText);
+// myLayer.addData(jsonData);
 
 /* Open modal & center map on marker click 	*/
 function markerOnClick(e) {
-    console.log(e.target.feature.properties.name);
-    $modalTopic = e.target.feature.properties.name;
+    console.log(e.target.feature.properties.title);
+    $modalTopic = e.target.feature.properties;
     $('#mainModal').modal({
     })
 }
