@@ -4,9 +4,9 @@ require 'json'
 
 
 # $GEO = "exported.geojson" #exported by geojson editor
-$GEO = "final.json"
+$GEO = "../images/final.json"
 $ARCH = "archetypes.json" #exported by generate_pages.rb
-$OUT = "final.json"
+$OUT = "../images/final.json"
 
 $geo = nil
 $arch = nil

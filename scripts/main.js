@@ -31,23 +31,62 @@ var image = L.imageOverlay('/images/kwml.jpg', bounds).addTo(map);
 
 var geojsonMarkerOptions = {
     radius: 8,
-    fillColor: "#ff7800",
-    color: "#000",
+    fillColor: "#111",
+    color: "#444444",
     weight: 1,
     opacity: 1,
-    fillOpacity: 0.8
-};
+    fillOpacity: 0.8,
+    className: 'mymarker'
+  };
 
-var myLayer = L.geoJSON("", {
+  var myLayer = L.geoJSON("", {
     pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions).on('click', markerOnClick);
+      geojsonMarkerOptions.radius = radiusCals(feature.properties.depth);
+      switch (feature.properties.type){
+        case "Quality":
+          geojsonMarkerOptions.fillColor = "#f9b282";
+          break;
+        case "Archetype":
+          geojsonMarkerOptions.fillColor = "#8f4426";
+          break;
+        case "Sub Archetype":
+          geojsonMarkerOptions.fillColor = "#de6b35";
+          break;
+      }
+      return L.circleMarker(latlng, geojsonMarkerOptions).on('click', markerOnClick);
     }
-}).addTo(map);
+  }).addTo(map);
+
 
 $("button");
-$.getJSON("/_script/final.json", function(json) {
+$.getJSON("/images/final.json", function (json) {
     myLayer.addData(json);
+    resizeMarkers();
 });
+
+map.on('zoomend', function () {
+    resizeMarkers();
+
+});
+
+
+function radiusCals(depth) {
+    var radius = (5 - depth) * (map.getZoom() + 0.5) / 0.25;
+    console.log(map.getZoom());
+    console.log('depth:' + depth + '  radius:' + radius + ' zoom:' + map.getZoom());
+    if (radius > 8)
+        radius = 8;
+    if (radius < 2)
+        radius = 2;
+    return radius;
+}
+
+function resizeMarkers() {
+    myLayer.eachLayer(function (layer) {
+        layer.setRadius(radiusCals(layer.feature.properties.depth));
+    });
+}
+
 
 
 // var request = new XMLHttpRequest();
