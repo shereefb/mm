@@ -8,7 +8,7 @@ $('#mainModal').on('show.bs.modal', function (e) {
     modal.find('.modal-title').text($modalTopic.title);
     var imageHtml = "";
     var fileName = '/images/back/' + $modalTopic.title.replace(" ", "_").toLowerCase() + '.jpg';
-    
+
     $.get(fileName)
         .done(function () {
             imageHtml = "<img src='" + fileName + "'/><br><br>";
@@ -37,38 +37,44 @@ var bounds = [
 
 var image = L.imageOverlay('/images/kwml.jpg', bounds).addTo(map);
 
+var defaultGeoJsonMarkerOptions = {
+    radius: 8,
+    fillColor: "#111",
+    color: "#444444",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8,
+    className: 'mymarker'
+};
 
 
-var myLayer = L.geoJSON("", {
+var layerArchetypes = L.geoJSON("", {
     pointToLayer: function (feature, latlng) {
 
-        var geojsonMarkerOptions = {
-            radius: 8,
-            fillColor: "#111",
-            color: "#444444",
-            weight: 1,
-            opacity: 1,
-            fillOpacity: 0.8,
-            className: 'mymarker'
-        };
+        var geojsonMarkerOptions = defaultGeoJsonMarkerOptions;
 
         geojsonMarkerOptions.radius = radiusCals(feature.properties.depth);
-        switch (feature.properties.type) {
-            case "Quality":
-                geojsonMarkerOptions.fillColor = "#f9b282";
-                break;
-            case "Archetype":
-                geojsonMarkerOptions.fillColor = "#8f4426";
-                break;
-            case "Sub Archetype":
-                geojsonMarkerOptions.fillColor = "#de6b35";
-                break;
-        }
+
         if (feature.properties.draft == true) {
             geojsonMarkerOptions.fillColor = "white";
             geojsonMarkerOptions.fillOpacity = 0.3;
             geojsonMarkerOptions.opacity = 0.4;
         }
+        else {
+            geojsonMarkerOptions.fillOpacity = 1;
+            geojsonMarkerOptions.opacity = 1;
+            switch (feature.properties.type) {
+                case "Archetype":
+                    geojsonMarkerOptions.fillColor = "#8f4426";
+                    break;
+                case "Sub Archetype":
+                    geojsonMarkerOptions.fillColor = "#de6b35";
+                    break;
+            }
+
+        }
+
+
 
         if (feature.properties.type != "Quality")
             return L.circleMarker(latlng, geojsonMarkerOptions).bindTooltip(feature.properties.title).on('click', markerOnClick);
@@ -77,35 +83,24 @@ var myLayer = L.geoJSON("", {
     }
 }).addTo(map);
 
-var myLayer2 = L.geoJSON("", {
+var layerQualities = L.geoJSON("", {
     pointToLayer: function (feature, latlng) {
 
-        var geojsonMarkerOptions = {
-            radius: 8,
-            fillColor: "#111",
-            color: "#444444",
-            weight: 1,
-            opacity: 1,
-            fillOpacity: 0.8,
-            className: 'mymarker'
-        };
+        var geojsonMarkerOptions = defaultGeoJsonMarkerOptions;
 
         geojsonMarkerOptions.radius = radiusCals(feature.properties.depth);
-        switch (feature.properties.type) {
-            case "Quality":
-                geojsonMarkerOptions.fillColor = "#f9b282";
-                break;
-            case "Archetype":
-                geojsonMarkerOptions.fillColor = "#8f4426";
-                break;
-            case "Sub Archetype":
-                geojsonMarkerOptions.fillColor = "#de6b35";
-                break;
-        }
+        
+
         if (feature.properties.draft == true) {
             geojsonMarkerOptions.fillColor = "white";
             geojsonMarkerOptions.fillOpacity = 0.3;
             geojsonMarkerOptions.opacity = 0.4;
+        }
+        else {
+            geojsonMarkerOptions.fillOpacity = 1;
+            geojsonMarkerOptions.opacity = 1;
+            geojsonMarkerOptions.fillColor = "#f9b282";
+            
         }
 
         if (feature.properties.type == "Quality")
@@ -117,15 +112,15 @@ var myLayer2 = L.geoJSON("", {
 
 
 var controlLayers = L.control.layers().addTo(map);
-controlLayers.addOverlay(myLayer, 'Archetypes');
-controlLayers.addOverlay(myLayer2, 'Qualities');
+controlLayers.addOverlay(layerArchetypes, 'Archetypes');
+controlLayers.addOverlay(layerQualities, 'Qualities');
 
 
 
 $("button");
 $.getJSON("/images/final.json", function (json) {
-    myLayer.addData(json);
-    myLayer2.addData(json);
+    layerArchetypes.addData(json);
+    layerQualities.addData(json);
     resizeMarkers();
 });
 
@@ -147,11 +142,11 @@ function radiusCals(depth) {
 }
 
 function resizeMarkers() {
-    myLayer.eachLayer(function (layer) {
+    layerArchetypes.eachLayer(function (layer) {
         layer.setRadius(radiusCals(layer.feature.properties.depth));
     });
 
-    myLayer2.eachLayer(function (layer) {
+    layerQualities.eachLayer(function (layer) {
         layer.setRadius(radiusCals(layer.feature.properties.depth));
     });
 }
