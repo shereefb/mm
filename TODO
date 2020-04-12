@@ -1,19 +1,17 @@
 Add layers toggle
 divide markers into qualities and archetypes
 https://leafletjs.com/examples/layers-control/
-create geojson
-update json from dynalist (make sure generator is working)
 add images to modal
 test on mobile
-host on github
-figure out zoom levels and different polygons that zoom in on different archetypes
-hover over tool tips? or custom control: https://leafletjs.com/examples/choropleth/
 
+
+add favicon
+
+Attribute quotes to their authors!
 move in dynalist less prominent qualites under misc to create more depth for them 
 
-change to hollow circle if it's a draft (make sure empty ones are marked as draft as well)
-change diameter based on zoom and depth
-change color (or shape) based on archetype v.s. quality?
+
+
 
 --------
 
@@ -23,23 +21,6 @@ README:
 - run `ruby generate_pages.rb`
 - run `ruby merge_json.rb`
 - copy final.json from _scripts folder to `editor` repo 
-- after editing, past results back into final.json
 
 
 
------
-
-Figure out better colorscheme
-https://mmistakes.github.io/minimal-mistakes/docs/configuration/#neon-skin-plum
-
-
-Attribute quotes to their authors!
-
-Breakup sections into cards and booklet/website?
-
-
-Figure out a way for side navigation to only pickup pages with content in them
-
-If there's content, search in it for all node names and titles (aliases?) and link to them so that content is cross-linked.
-
-Page we're on gets highlighted in side-bar navigation

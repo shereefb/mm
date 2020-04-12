@@ -6,7 +6,16 @@ $('#mainModal').on('show.bs.modal', function (e) {
     var result = null;
     console.log($modalTopic)
     modal.find('.modal-title').text($modalTopic.title);
-    modal.find('.modal-body').html($converter.makeHtml($modalTopic.description));
+    var imageHtml = "";
+    var fileName = '/images/back/' + $modalTopic.title.replace(" ", "_").toLowerCase() + '.jpg';
+    
+    $.get(fileName)
+        .done(function () {
+            imageHtml = "<img src='" + fileName + "'/><br><br>";
+            modal.find('.modal-body').html(imageHtml + $converter.makeHtml($modalTopic.description));
+        }).fail(function () {
+            modal.find('.modal-body').html($converter.makeHtml($modalTopic.description));
+        })
 
 })
 
@@ -29,33 +38,41 @@ var bounds = [
 var image = L.imageOverlay('/images/kwml.jpg', bounds).addTo(map);
 
 
-var geojsonMarkerOptions = {
-    radius: 8,
-    fillColor: "#111",
-    color: "#444444",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 0.8,
-    className: 'mymarker'
-  };
 
-  var myLayer = L.geoJSON("", {
+var myLayer = L.geoJSON("", {
     pointToLayer: function (feature, latlng) {
-      geojsonMarkerOptions.radius = radiusCals(feature.properties.depth);
-      switch (feature.properties.type){
-        case "Quality":
-          geojsonMarkerOptions.fillColor = "#f9b282";
-          break;
-        case "Archetype":
-          geojsonMarkerOptions.fillColor = "#8f4426";
-          break;
-        case "Sub Archetype":
-          geojsonMarkerOptions.fillColor = "#de6b35";
-          break;
-      }
-      return L.circleMarker(latlng, geojsonMarkerOptions).on('click', markerOnClick);
+
+        var geojsonMarkerOptions = {
+            radius: 8,
+            fillColor: "#111",
+            color: "#444444",
+            weight: 1,
+            opacity: 1,
+            fillOpacity: 0.8,
+            className: 'mymarker'
+        };
+
+        geojsonMarkerOptions.radius = radiusCals(feature.properties.depth);
+        switch (feature.properties.type) {
+            case "Quality":
+                geojsonMarkerOptions.fillColor = "#f9b282";
+                break;
+            case "Archetype":
+                geojsonMarkerOptions.fillColor = "#8f4426";
+                break;
+            case "Sub Archetype":
+                geojsonMarkerOptions.fillColor = "#de6b35";
+                break;
+        }
+        if (feature.properties.draft == true) {
+            geojsonMarkerOptions.fillColor = "white";
+            geojsonMarkerOptions.fillOpacity = 0.3;
+            geojsonMarkerOptions.opacity = 0.4;
+        }
+
+        return L.circleMarker(latlng, geojsonMarkerOptions).bindTooltip(feature.properties.title).on('click', markerOnClick);
     }
-  }).addTo(map);
+}).addTo(map);
 
 
 $("button");
@@ -88,12 +105,6 @@ function resizeMarkers() {
 }
 
 
-
-// var request = new XMLHttpRequest();
-// request.open("GET", '/_script/final.json', false);
-// request.send(null);
-// var jsonData = JSON.parse(request.responseText);
-// myLayer.addData(jsonData);
 
 /* Open modal & center map on marker click 	*/
 function markerOnClick(e) {
