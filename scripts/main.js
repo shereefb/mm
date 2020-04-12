@@ -74,10 +74,12 @@ var layerArchetypes = L.geoJSON("", {
 
         }
 
-
-
-        if (feature.properties.type != "Quality")
-            return L.circleMarker(latlng, geojsonMarkerOptions).bindTooltip(feature.properties.title).on('click', markerOnClick);
+        if (feature.properties.type != "Quality") {
+            let marker = L.circleMarker(latlng, geojsonMarkerOptions).on('click', markerOnClick).addTo(map);
+            marker.bindTooltip(feature.properties.title);
+            // L.tooltipLayout.resetMarker(marker);
+            return marker;
+        }
         else
             return null;
     }
@@ -135,7 +137,7 @@ L.Control.ToolToggle = L.Control.extend({
     onAdd: function (map) {
         var div = L.DomUtil.create('div', 'command');
 
-        div.innerHTML = '<form><input id="command" type="checkbox"/>command</form>';
+        div.innerHTML = '<form><input id="command" type="checkbox"/>&nbsp;Tooltip</form>';
         return div;
     },
 
@@ -153,13 +155,13 @@ L.control.tooltoggle({ position: 'topright' }).addTo(map);
 // add the event handler
 function handleCommand() {
     toggleTooltips();
- }
+}
 
- function toggleTooltips(){
+function toggleTooltips() {
 
-    var show = document.getElementById ("command").checked;
+    var show = document.getElementById("command").checked;
     layerArchetypes.eachLayer(function (layer) {
-        if (show){
+        if (show) {
             layer.openTooltip();
         }
         else
@@ -167,15 +169,22 @@ function handleCommand() {
     });
 
     layerQualities.eachLayer(function (layer) {
-        if (show){
+        if (show) {
             layer.openTooltip();
         }
         else
             layer.closeTooltip();
     });
- }
- 
- document.getElementById ("command").addEventListener ("click", handleCommand, false);
+}
+
+document.getElementById("command").addEventListener("click", handleCommand, false);
+
+function onPolylineCreated(ply) {
+    ply.setStyle({
+        color: '#90A4AE'
+    })
+}
+
 
 
 function radiusCals(depth) {
