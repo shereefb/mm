@@ -70,14 +70,62 @@ var myLayer = L.geoJSON("", {
             geojsonMarkerOptions.opacity = 0.4;
         }
 
-        return L.circleMarker(latlng, geojsonMarkerOptions).bindTooltip(feature.properties.title).on('click', markerOnClick);
+        if (feature.properties.type != "Quality")
+            return L.circleMarker(latlng, geojsonMarkerOptions).bindTooltip(feature.properties.title).on('click', markerOnClick);
+        else
+            return null;
     }
 }).addTo(map);
+
+var myLayer2 = L.geoJSON("", {
+    pointToLayer: function (feature, latlng) {
+
+        var geojsonMarkerOptions = {
+            radius: 8,
+            fillColor: "#111",
+            color: "#444444",
+            weight: 1,
+            opacity: 1,
+            fillOpacity: 0.8,
+            className: 'mymarker'
+        };
+
+        geojsonMarkerOptions.radius = radiusCals(feature.properties.depth);
+        switch (feature.properties.type) {
+            case "Quality":
+                geojsonMarkerOptions.fillColor = "#f9b282";
+                break;
+            case "Archetype":
+                geojsonMarkerOptions.fillColor = "#8f4426";
+                break;
+            case "Sub Archetype":
+                geojsonMarkerOptions.fillColor = "#de6b35";
+                break;
+        }
+        if (feature.properties.draft == true) {
+            geojsonMarkerOptions.fillColor = "white";
+            geojsonMarkerOptions.fillOpacity = 0.3;
+            geojsonMarkerOptions.opacity = 0.4;
+        }
+
+        if (feature.properties.type == "Quality")
+            return L.circleMarker(latlng, geojsonMarkerOptions).bindTooltip(feature.properties.title).on('click', markerOnClick);
+        else
+            return null;
+    }
+}).addTo(map);
+
+
+var controlLayers = L.control.layers().addTo(map);
+controlLayers.addOverlay(myLayer, 'Archetypes');
+controlLayers.addOverlay(myLayer2, 'Qualities');
+
 
 
 $("button");
 $.getJSON("/images/final.json", function (json) {
     myLayer.addData(json);
+    myLayer2.addData(json);
     resizeMarkers();
 });
 
@@ -100,6 +148,10 @@ function radiusCals(depth) {
 
 function resizeMarkers() {
     myLayer.eachLayer(function (layer) {
+        layer.setRadius(radiusCals(layer.feature.properties.depth));
+    });
+
+    myLayer2.eachLayer(function (layer) {
         layer.setRadius(radiusCals(layer.feature.properties.depth));
     });
 }
