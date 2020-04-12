@@ -89,7 +89,7 @@ var layerQualities = L.geoJSON("", {
         var geojsonMarkerOptions = defaultGeoJsonMarkerOptions;
 
         geojsonMarkerOptions.radius = radiusCals(feature.properties.depth);
-        
+
 
         if (feature.properties.draft == true) {
             geojsonMarkerOptions.fillColor = "white";
@@ -100,7 +100,7 @@ var layerQualities = L.geoJSON("", {
             geojsonMarkerOptions.fillOpacity = 1;
             geojsonMarkerOptions.opacity = 1;
             geojsonMarkerOptions.fillColor = "#f9b282";
-            
+
         }
 
         if (feature.properties.type == "Quality")
@@ -130,10 +130,57 @@ map.on('zoomend', function () {
 });
 
 
+
+L.Control.ToolToggle = L.Control.extend({
+    onAdd: function (map) {
+        var div = L.DomUtil.create('div', 'command');
+
+        div.innerHTML = '<form><input id="command" type="checkbox"/>command</form>';
+        return div;
+    },
+
+    onRemove: function (map) {
+        // Nothing to do here
+    }
+});
+
+L.control.tooltoggle = function (opts) {
+    return new L.Control.ToolToggle(opts);
+}
+
+L.control.tooltoggle({ position: 'topright' }).addTo(map);
+
+// add the event handler
+function handleCommand() {
+    toggleTooltips();
+ }
+
+ function toggleTooltips(){
+
+    var show = document.getElementById ("command").checked;
+    layerArchetypes.eachLayer(function (layer) {
+        if (show){
+            layer.openTooltip();
+        }
+        else
+            layer.closeTooltip();
+    });
+
+    layerQualities.eachLayer(function (layer) {
+        if (show){
+            layer.openTooltip();
+        }
+        else
+            layer.closeTooltip();
+    });
+ }
+ 
+ document.getElementById ("command").addEventListener ("click", handleCommand, false);
+
+
 function radiusCals(depth) {
     var radius = (5 - depth) * (map.getZoom() + 0.5) / 0.25;
-    console.log(map.getZoom());
-    console.log('depth:' + depth + '  radius:' + radius + ' zoom:' + map.getZoom());
+    // console.log('depth:' + depth + '  radius:' + radius + ' zoom:' + map.getZoom());
     if (radius > 8)
         radius = 8;
     if (radius < 2)
